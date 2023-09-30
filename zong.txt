@@ -1,9 +1,4 @@
 //以下内容为互联网收集，只为自用……
 {"storeHouse": [ 
 {"sourceName":"💢疯子仓库", "sourceUrl":"https://jihulab.com/dpigu/ziyong/-/raw/main/xianlu.json"}, 
-{"sourceName":"🌸精品仓库", "sourceUrl":"https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json"}, 
-{"sourceName":"🛸影音天堂仓库","sourceUrl":"https://jihulab.com/dimaston1/4k/-/raw/main/a.json"},
-{"sourceName":"💚多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
-{"sourceName":"☁️云星在线仓库","sourceUrl":"http://itvbox.cc/可视TV/云星日记/仓库/api.json"},
-{"sourceName":"🌙月光宝盒仓库","sourceUrl":"https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc2.json"}
 ]}
