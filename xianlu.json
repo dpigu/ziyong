@@ -1,111 +1,41 @@
+//以下内容为互联网收集，只为自用……
 {
     "urls": [
         {
-            "url": "https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json",
-            "name": "🌙影音天堂通用〔多条线路〕"
+          "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+          "name": "☁️云星家庭版〔绿色家庭版〕"
         },
         {
-            "url": "https://jihulab.com/dimaston1/4k/-/raw/main/vip.json",
-            "name": "🌙影音天堂4K高清〔多条线路〕"
+          "url": "http://yydsys.top/duo",
+          "name": "🏡多多家庭版〔多条线路〕"
         },
         {
-            "url": "https://jihulab.com/dimaston1/4k/-/raw/main/yytt.json",
-            "name": "🌙影音天堂4K高清1〔多条线路〕"
+          "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
+          "name": "🌙月光宝盒家庭版〔多条线路〕"
         },
         {
-            "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
-            "name": "🌙月光宝盒家庭版〔多条线路〕"
-        },
-         {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "🚀香雅情线路〔多条线路〕"
-        },  
-
-        {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "💖肥猫Panda〔多条线路〕"
-        },
-                 
-        {
-            "url": "http://饭太硬.top/tv",
-            "name": "💖饭太硬〔多条线路〕"
-        },                 
-         {
-            "url":"http://rihou.cc:88/荷城茶秀",
-            "name": "🏄️荷城茶秀〔多条线路〕"
-        }, 
-        {
-            "url": "https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
-            "name": "🐰猫爪js"
-        },       
-        {
-            "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": "🌈道长线路〔多条线路〕"
+          "url": "https://jihulab.com/dimaston1/4k/-/raw/main/vip.json",
+          "name": "💘迪玛诗顿VIP〔多条线路〕"
         },
         {
-            "url": "https://tvbox.cainisi.cf",
-            "name": "✨菜尼丝〔多条线路〕"
-        }, 
-        {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "🎗小米〔多条线路〕"
-        },   
-        {
-            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
-            "name": "🎶讴歌〔多条线路〕"
-        },   
-         {
-            "url": "https://xhdwc.tk/0",
-            "name": "🚀骚零线路〔多条线路〕"
-        },          
-        {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "💨南风〔多条线路〕"
-        },   
-          
-        {
-            "url": "http://52bsj.vip:98/wuai",
-            "name": "🌍吾爱〔多条线路〕"
-        },   
-        {
-            "url": "https://weixine.net/ysc.json",
-            "name": "🚗运输车〔带跑马灯〕"
-        },           
-       
-
-{
-            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-            "name": "🐹分享者线路"
-        },
-{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
-            "name": "🚀蜂蜜线路"
-        }, 
-{
-            "url": "http://miaotvs.cn/meow",
-            "name": "🐹喵影视线路"
-        },
-    
-        {
-            "url": "http://8.210.232.168/xc.json",
-            "name": "🦕星辰"
+          "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+          "name": "💖肥猫〔多条线路〕"
         },
         {
-            "url": "https://yydsys.top/duo",
-            "name": "👩‍👦多多〔多条线路〕"
-        },   
+          "url": "http://刚刚.live/猫",
+          "name": "💖刚刚〔多条线路〕"
+        },
         {
-            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "😵巧技接口〔多条线路〕"
-        }
-        
-
-    ],
-    "vip": [
+          "url": "http://饭太硬.top/tv",
+          "name": "🚀饭太硬〔多条线路〕"
+        },
         {
-            "url": "",
-            "name": "默认"
+          "url": "http://yydsys.top/duo/ali",
+          "name": "🚀阿里〔多条线路〕"
+        },
+        {
+          "url": "https://raw.liucn.cc/box/m.json",
+          "name": "🚀刘备〔多条线路〕"
         }
     ]
 }
-
