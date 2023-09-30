@@ -1,12 +1,8 @@
 {
   "storeHouse": [
     {
-      "sourceName": "☁️云星在线仓库",
-      "sourceUrl": "http://itvbox.cc/可视TV/云星日记/仓库/api.json"
-    },
-    {
-      "sourceName": "☁️可视本地仓库",
-      "sourceUrl": "http://itvbox.cc/可视TV/云星日记/仓库/本地.json"
+      "sourceName": "🚀疯子仓库🚀",
+      "sourceUrl": "https://jihulab.com/dpigu/ziyong/-/raw/main/xianlu.json"
     }
   ]
 }
