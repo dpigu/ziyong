@@ -5,8 +5,8 @@
       "key": "豆瓣",
       "name": "接口完全免费，切勿付费购买。",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/29_022812_drpy.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/29_022812_drpy.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -54,7 +54,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/6V新版[磁].jsn"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/6V磁.json"
     },
     {
       "key": "csp_CandyMuj_sstv",
@@ -64,7 +64,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/candymuj.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/candymuj.jar"
     },
     {
       "key": "毛驴",
@@ -100,11 +100,11 @@
       "name": "🐱┃剧猫┃4K",
       "type": 3,
       "playerType": 2,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/热剧猫.js"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/热剧猫.js"
     },
     {
       "key": "csp_WoGG",
@@ -115,16 +115,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"
-    },
-    {
-      "key": "追忆",
-      "name": "🍼┃追忆┃4K",
-      "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/zhuiyi.js"
     },
     {
       "key": "49zy",
@@ -211,8 +201,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy1.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/jp.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy1.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/jp.js"
     },
     {
       "key": "探探",
@@ -229,7 +219,7 @@
       "key": "csp_Alistxy",
       "name": "♻️┃Alist┃4K",
       "type": 3,
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/AListxy.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/AListxy.jar",
       "api": "csp_AListxy",
       "searchable": 1,
       "quickSearch": 1,
@@ -276,7 +266,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/OpenSpider.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/OpenSpider.jar"
     },
     {
       "key": "csp_FreeOK",
@@ -286,18 +276,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/free.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/free.json"
     },
     {
       "key": "AppYs_南瓜",
       "name": "👑┃南瓜┃2K",
       "type": 3,
       "playerType": 2,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/南瓜.js"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/南瓜.js"
     },
     {
       "key": "DiDuan",
@@ -312,7 +302,7 @@
       "key": "csp_Btwtoo",
       "name": "🎠┃比特┃2K",
       "type": 3,
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/custom_spider.jar;md5;1948098b2a3d81773e059f00a1d97224",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
       "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
@@ -326,7 +316,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/Nmys.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/Nmys.json"
     },
     {
       "key": "zxzj",
@@ -372,8 +362,8 @@
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHiker",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/港口.json"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C", 
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/港口.json"
     },
     {
       "key": "csp_XYQHiker_‍dyx",
@@ -383,8 +373,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/dyg.json",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/dyg.json",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
     {
       "key": "csp_Mp4Mov",
@@ -394,7 +384,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/83.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/83.jar"
     },
     {
       "key": "csp_New6v",
@@ -405,7 +395,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.xb6v.com",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/83.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/83.jar"
     },
     {
       "key": "csp_SeedHub",
@@ -416,7 +406,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/83.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/83.jar"
     },
     {
       "key": "csp_KubaCL",
@@ -427,7 +417,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/83.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/83.jar"
     },
     {
       "key": "csp_MeijuTT",
@@ -438,7 +428,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/83.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/83.jar"
     },
     {
       "key": "csp_MeijuMi",
@@ -449,7 +439,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/83.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/83.jar"
     },
     {
       "key": "csp_BLSGod",
@@ -460,7 +450,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/83.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/83.jar"
     },
     {
       "key": "bdcili",
@@ -472,8 +462,8 @@
       "filterable": 1,
       "playerType": 1,
       "parse": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/bd.json",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/cl.jar"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/bd.json",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/cl.jar"
     },
     {
       "key": "csp_Xunlei8",
@@ -484,7 +474,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/83.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/83.jar"
     },
     {
       "key": "csp_XYQHikerAL_4KHDR",
@@ -495,8 +485,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/4KHDR.json",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/83.jar"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/4KHDR.json",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/83.jar"
     },
     {
       "key": "csp_XYQHiker_BT天堂",
@@ -506,8 +496,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/BT天堂.json",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/83.jar"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/BT天堂.json",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/83.jar"
     },
     {
       "key": "csp_XYQHiker_极影网",
@@ -517,8 +507,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/极影网.json",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/83.jar"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/极影网.json",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/83.jar"
     },
     {
       "key": "彩虹",
@@ -535,57 +525,57 @@
       "key": "drpy_js_子子影视",
       "name": "🎑┃子子┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/子子影视.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/子子影视.js"
     },
     {
       "key": "drpy_js_影渣渣",
       "name": "🍒┃影渣┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/影渣渣.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/影渣渣.js"
     },
     {
       "key": "drpy_js_四个圈儿",
       "name": "🌓┃四圈┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/四个圈影视.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/四个圈影视.js"
     },
     {
       "key": "drpy_js_新片场",
       "name": "🔇┃广告┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/新片场.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/新片场.js"
     },
     {
       "key": "drpy_js_人人影视",
       "name": "🙇┃人人┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/人人影视.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/人人影视.js"
     },
     {
       "key": "drpy_js_首播影院",
       "name": "👌┃首播┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/首播影院.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/首播影院.js"
     },
     {
       "key": "drpy_js_萌蛋蛋[V2]",
       "name": "🐥┃萌蛋┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/萌蛋蛋[V2].js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/萌蛋蛋[V2].js"
     },
     {
       "key": "drpy_js_麦豆com",
       "name": "🌿┃麦豆┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/麦豆com.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/麦豆com.js"
     },
     {
       "key": "骑骑影院",
@@ -615,8 +605,8 @@
       "key": "drpy_js_263",
       "name": "🎵┃音乐┃MV263",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/MV263.js?sign=ZGUTsiwGV5cpOqA2m27WBkbX_qDrmQoKfa4KKbGIORo=:0"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/MV263.js?sign=ZGUTsiwGV5cpOqA2m27WBkbX_qDrmQoKfa4KKbGIORo=:0"
     },
     {
       "key": "爱迪影视",
@@ -630,8 +620,8 @@
       "key": "drpy_js_兔小贝",
       "name": "👶┃宝宝┃启蒙",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/兔小贝.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/兔小贝.js"
     },
     {
       "key": "csp_zxzj",
@@ -653,7 +643,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/xry.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/xry.jar"
     },
     {
       "key": "csp_非凡资源",
@@ -752,14 +742,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/Nmys.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/Nmys.json"
     },
     {
       "key": "童趣",
       "name": "🍭┃童趣┃儿童",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/童趣.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/童趣.js"
     },
     {
       "key": "幼儿启蒙",
@@ -769,7 +759,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/幼儿启蒙.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/幼儿启蒙.json",
       "jar": ""
     },
     {
@@ -780,7 +770,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/益智动画.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/益智动画.json",
       "jar": ""
     },
     {
@@ -791,7 +781,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/幼小衔接.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/幼小衔接.json",
       "jar": ""
     },
     {
@@ -802,7 +792,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/小灯塔百科.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/小灯塔百科.json",
       "jar": ""
     },
     {
@@ -813,7 +803,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/小灯塔科学.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/小灯塔科学.json",
       "jar": ""
     },
     {
@@ -824,7 +814,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/小灯塔地理.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/小灯塔地理.json",
       "jar": ""
     },
     {
@@ -835,7 +825,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/小灯塔国学.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/小灯塔国学.json",
       "jar": ""
     },
     {
@@ -846,7 +836,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/小灯塔人文.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/小灯塔人文.json",
       "jar": ""
     },
     {
@@ -857,7 +847,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/儿童拼音.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/儿童拼音.json",
       "jar": ""
     },
     {
@@ -868,7 +858,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/儿童识字.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/儿童识字.json",
       "jar": ""
     },
     {
@@ -879,7 +869,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/儿童英语.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/儿童英语.json",
       "jar": ""
     },
     {
@@ -890,7 +880,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/儿童硬笔.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/儿童硬笔.json",
       "jar": ""
     },
     {
@@ -901,7 +891,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/儿童思维.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/儿童思维.json",
       "jar": ""
     },
     {
@@ -912,7 +902,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/儿童口才.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/儿童口才.json",
       "jar": ""
     },
     {
@@ -923,7 +913,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/儿童编程.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/儿童编程.json",
       "jar": ""
     },
     {
@@ -934,7 +924,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/儿童武术.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/儿童武术.json",
       "jar": ""
     },
     {
@@ -945,7 +935,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/兴趣培养.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/兴趣培养.json",
       "jar": ""
     },
     {
@@ -989,7 +979,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/土拨鼠.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/土拨鼠.json"
     },
     {
       "key": "Zhaozy",
@@ -1170,7 +1160,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/骚火电影.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/骚火电影.json"
     },
     {
       "key": "Itv",
@@ -1200,7 +1190,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "http://饭太硬.top/x/json/bilibili.json"
+      "ext": "http://饭太硬.top/x/json/bijsili.json"
     },
     {
       "key": "csp_Anime1",
@@ -1219,7 +1209,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/去看动漫.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/去看动漫.json"
     },
     {
       "key": "动漫直链",
@@ -1229,7 +1219,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/动漫直链.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/动漫直链.json"
     },
     {
       "key": "csp_动漫巴士",
@@ -1239,7 +1229,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/动漫巴士.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/动漫巴士.json"
     },
     {
       "key": "csp_Biliych",
@@ -1259,57 +1249,57 @@
       "key": "drpy_js_爱弹幕",
       "name": "动漫 | 爱弹幕[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/爱弹幕.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/爱弹幕.js"
     },
     {
       "key": "drpy_js_AnFuns",
       "name": "动漫 | AnFuns[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/AnFuns.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/AnFuns.js"
     },
     {
       "key": "drpy_js_NT动漫",
       "name": "动漫 | NT动漫[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/NT动漫.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/NT动漫.js"
     },
     {
       "key": "drpy_js_动漫岛",
       "name": "动漫 | 动漫岛[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/动漫岛.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/动漫岛.js"
     },
     {
       "key": "drpy_js_路漫漫",
       "name": "动漫 | 路漫漫[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/路漫漫.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/路漫漫.js"
     },
     {
       "key": "drpy_js_去看吧",
       "name": "动漫 | 去看吧[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/去看吧.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/去看吧.js"
     },
     {
       "key": "drpy_js_嘶哩嘶哩",
       "name": "动漫 | 嘶哩嘶哩[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/嘶哩嘶哩.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/嘶哩嘶哩.js"
     },
     {
       "key": "drpy_js_奇米动漫",
       "name": "动漫 | 奇米动漫[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/奇米动漫.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/奇米动漫.js"
     },
     {
       "key": "py_qie",
@@ -1319,180 +1309,180 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/qie.py"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/qie.py"
     },
     {
       "key": "drpy_js_DJ音乐",
       "name": "音频 | DJ音乐[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/DJ音乐.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/DJ音乐.js",
       "playerType": "2"
     },
     {
       "key": "drpy_js_啦啦DJ",
       "name": "音频 | 啦啦DJ[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/苹果DJ.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/苹果DJ.js",
       "playerType": "2"
     },
     {
       "key": "drpy_js_清风DJ",
       "name": "音频 | 清风DJ[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/清风DJ.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/清风DJ.js",
       "playerType": "2"
     },
     {
       "key": "drpy_js_蜻蜓FM",
       "name": "广播 | 蜻蜓FM[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/蜻蜓FM.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/蜻蜓FM.js",
       "playerType": "2"
     },
     {
       "key": "drpy_js_相声随身听",
       "name": "相声 | 相声随身听[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/相声随身听.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/相声随身听.js",
       "playerType": "2"
     },
     {
       "key": "drpy_js_i275听书",
       "name": "听书 | i275听书[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/i275听书.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/i275听书.js",
       "playerType": "2"
     },
     {
       "key": "drpy_js_喜马拉雅",
       "name": "听书 | 喜马拉雅[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/喜马拉雅.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/喜马拉雅.js",
       "playerType": "2"
     },
     {
       "key": "drpy_js_六月听书",
       "name": "听书 | 六月听书[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/六月听书.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/六月听书.js",
       "playerType": "2"
     },
     {
       "key": "drpy_js_博看听书",
       "name": "听书 | 博看听书[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/博看听书.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/博看听书.js",
       "playerType": "2"
     },
     {
       "key": "drpy_js_海洋听书",
       "name": "听书 | 海洋听书[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/海洋听书.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/海洋听书.js",
       "playerType": "2"
     },
     {
       "key": "drpy_js_听书网",
       "name": "听书 | 听书网[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/听书网.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/听书网.js",
       "playerType": "2"
     },
     {
       "key": "drpy_js_有声小说",
       "name": "听书 | 有声小说[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/有声小说吧.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/有声小说吧.js",
       "playerType": "2"
     },
     {
       "key": "drpy_js_短视频",
       "name": "聚合 | 短视频[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/短视频.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/短视频.js"
     },
     {
       "key": "drpy_js_酷6网",
       "name": "聚合 | 酷6网[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/酷6网.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/酷6网.js"
     },
     {
       "key": "drpy_js_网易公版影像",
       "name": "聚合 | 网易公版影像[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/网易公版影像.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/网易公版影像.js"
     },
     {
       "key": "drpy_js_A8音乐",
       "name": "MV | A8音乐[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/A8音乐.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/A8音乐.js"
     },
     {
       "key": "drpy_js_MV263",
       "name": "MV | 263[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/MV263.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/MV263.js"
     },
     {
       "key": "drpy_js_苹果DJ",
       "name": "MV | 苹果DJ[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/苹果DJ.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/苹果DJ.js"
     },
     {
       "key": "drpy_js_酷狗MV",
       "name": "MV | 酷狗[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/酷狗MV.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/酷狗MV.js"
     },
     {
       "key": "drpy_js_酷奇MV",
       "name": "MV | 酷奇[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/酷奇MV.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/酷奇MV.js"
     },
     {
       "key": "drpy_js_音悦网",
       "name": "MV | 音悦网[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/音悦网.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/音悦网.js"
     },
     {
       "key": "drpy_js_哔哩直播",
       "name": "🅱️哔哩 |直播",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/哔哩直播.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/哔哩直播.js"
     },
     {
       "key": "drpy_js_斗鱼直播",
       "name": "🦈斗鱼|直播  [js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/斗鱼直播.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/斗鱼直播.js"
     },
     {
       "key": "py_huya",
@@ -1502,7 +1492,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/pyhuya.py"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/pyhuya.py"
     },
     {
       "key": "py_huya",
@@ -1512,7 +1502,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/pyhuya.py"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/pyhuya.py"
     },
     {
       "key": "csp_鹅直播",
@@ -1522,7 +1512,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/qie.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/qie.json"
     },
     {
       "key": "csp_17看球",
@@ -1532,7 +1522,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/看球.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/看球.json"
     },
     {
       "key": "py_TYjs",
@@ -1542,7 +1532,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/tiyu.py"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/tiyu.py"
     },
     {
       "key": "歌手_MV",
@@ -1559,7 +1549,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/云星MTV.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/云星MTV.json"
     },
     {
       "key": "PS",
@@ -1569,7 +1559,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/哔哩PS.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/哔哩PS.json"
     },
     {
       "key": "py_meishi",
@@ -1579,7 +1569,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/美食合集.py"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/美食合集.py"
     },
     {
       "key": "py_youer",
@@ -1589,7 +1579,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/youer.py"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/youer.py"
     },
     {
       "key": "py_xiaoxue",
@@ -1599,7 +1589,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/xiaoxue.py"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/xiaoxue.py"
     },
     {
       "key": "py_czxx",
@@ -1609,7 +1599,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/chuzhong.py"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/chuzhong.py"
     },
     {
       "key": "py_gaozxx",
@@ -1619,7 +1609,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/gaozhong.py"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/gaozhong.py"
     },
     {
       "key": "py_zyy",
@@ -1629,7 +1619,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/zyy.py"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/zyy.py"
     },
     {
       "key": "py_xuqu1",
@@ -1639,7 +1629,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/xiqu.py"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/xiqu.py"
     },
     {
       "key": "py_xiangsh",
@@ -1649,7 +1639,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/xiaopin.py"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/xiaopin.py"
     }
   ],
   "parses": [
@@ -1686,7 +1676,7 @@
           "pptv",
           "PPTV",
           "sohu",
-          "bilibili",
+          "bijsili",
           "哔哩哔哩",
           "哔哩"
         ],
@@ -1714,7 +1704,7 @@
           "PPTV",
           "sohu",
           "xigua",
-          "bilibili",
+          "bijsili",
           "哔哩哔哩",
           "哔哩"
         ],
@@ -1771,7 +1761,7 @@
         "pptv",
         "PPTV",
         "sohu",
-        "bilibili",
+        "bijsili",
         "哔哩哔哩",
         "哔哩"
       ]
@@ -1797,7 +1787,7 @@
         "pptv",
         "PPTV",
         "sohu",
-        "bilibili",
+        "bijsili",
         "哔哩哔哩",
         "哔哩"
       ]
@@ -1848,7 +1838,7 @@
         "pptv",
         "PPTV",
         "sohu",
-        "bilibili",
+        "bijsili",
         "哔哩哔哩",
         "哔哩"
       ]
@@ -1871,7 +1861,7 @@
         "letv",
         "乐视",
         "leshi",
-        "bilibili",
+        "bijsili",
         "哔哩哔哩",
         "哔哩",
         "mgtv",
@@ -1903,7 +1893,7 @@
         "pptv",
         "PPTV",
         "sohu",
-        "bilibili",
+        "bijsili",
         "哔哩哔哩",
         "哔哩"
       ]
@@ -1929,7 +1919,7 @@
         "pptv",
         "PPTV",
         "sohu",
-        "bilibili",
+        "bijsili",
         "哔哩哔哩",
         "哔哩"
       ]
@@ -1955,19 +1945,19 @@
         "pptv",
         "PPTV",
         "sohu",
-        "bilibili",
+        "bijsili",
         "哔哩哔哩",
         "哔哩"
       ]
     }
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "./uyv0t678c488189af47bb91dc108484d17431;md5;666ca7d5468412592cd65e5a22376dc6",
+  "spider": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/uyv0t678c488189af47bb91dc108484d17431;md5;9D742BF942ADF729CADCEBA23F83EBD8",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/live.m3u",
+      "url": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/live.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1984,7 +1974,7 @@
     "pptv",
     "mgtv",
     "wasu",
-    "bilibili",
+    "bijsili",
     "renrenmi"
   ],
   "ijk": [
