@@ -1,3 +1,4 @@
+央视频道,#genre#
 CCTV-1,https://cntv.sbs/tv?auth=230927&id=cctv1
 CCTV-2,https://cntv.sbs/tv?auth=230927&id=cctv2
 CCTV-3,https://cntv.sbs/tv?auth=230927&id=cctv3
@@ -18,6 +19,8 @@ CCTV-16,https://cntv.sbs/tv?auth=230927&id=cctv16
 CCTV-17,https://cntv.sbs/tv?auth=230927&id=cctv17
 CCTV-4K,https://cntv.sbs/tv?auth=230927&id=cctv4k
 CCTV-16,https://cntv.sbs/tv?auth=230927&id=cctv164k
+
+卫视频道,#genre#
 北京卫视,https://cntv.sbs/tv?auth=230927&id=bjws
 东方卫视,https://cntv.sbs/tv?auth=230927&id=dfws
 天津卫视,https://cntv.sbs/tv?auth=230927&id=tjws
