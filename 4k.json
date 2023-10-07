@@ -1952,26 +1952,15 @@
     }
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/uyv0t678c488189af47bb91dc108484d17431;md5;9D742BF942ADF729CADCEBA23F83EBD8",
+  "spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
   "lives": [
     {
-      "name": "影视",
-      "url": "https://bitbucket.org/xduo/duoapi/raw/master/v.txt",
+      "name": "live",
       "type": 0,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "url": "https://jihulab.com/dpigu/ziyong/-/raw/main/lives/live.m3u",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXRidWNrZXQub3JnL3hkdW8vZHVvYXBpL3Jhdy9tYXN0ZXIvdi50eHQ="
-          ]
-        }
-      ]
     }
   ],
   "flags": [
