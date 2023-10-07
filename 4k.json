@@ -48,7 +48,7 @@
     },
     {
       "key": "直播转点播",
-      "name": "📺︎┃电视┃直播",
+      "name": "📺┃电视┃直播",
       "type": 3,
       "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/zbzdb.js",
       "searchable": 1,
@@ -91,7 +91,7 @@
       "name": "🌙┃专享┃2K",
       "type": 3,
       "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/yyttzx.js"  
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/yyttzx.js"
     },
     {
       "key": "毛驴",
@@ -126,7 +126,7 @@
     },
     {
       "key": "Czsapp",
-      "name": "📔厂长┃高清",
+      "name": "📔┃厂长┃高清",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -168,7 +168,7 @@
     },
     {
       "key": "橘子影视",
-      "name": "🍊橘子┃4K",
+      "name": "🍊┃橘子┃4K",
       "type": 3,
       "api": "csp_Appto",
       "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/to.jar",
@@ -343,7 +343,7 @@
     }, 
     {
       "key": "DiDuan",
-      "name": "⏮️┃高端┃2K",
+      "name": "⏮┃高端┃2K",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
@@ -373,7 +373,7 @@
     },
     {
       "key": "csp_Nmys",
-      "name": "👨‍🌾┃农民┃2K",
+      "name": "👨┃农民┃2K",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -430,7 +430,7 @@
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/港口.json"
     },
     {
-      "key": "csp_XYQHiker_‍dyx",
+      "key": "csp_XYQHiker_dyx",
       "name": "🧲┃电影┃4k",
       "type": 3,
       "api": "csp_XYQHiker",
@@ -459,7 +459,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.xb6v.com",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/uyv0t678c488189af47bb91dc108484d17431;md5;9D742BF942ADF729CADCEBA23F83EBD8",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/uyv0t678c488189af47bb91dc108484d17431;md5;9D742BF942ADF729CADCEBA23F83EBD8"
     },
     {
       "key": "csp_SeedHub",
