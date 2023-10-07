@@ -86,14 +86,25 @@
       "changeable": 0
     },
     {
+      "key": "js_czsapp",
+      "name": "🏭️┃厂长┃2K",
+      "type": 3,
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/czspp.js"
+    },
+    {
       "key": "Czsapp",
-      "name": "📔┃厂长┃2K",
+      "name": "📔厂长┃高清",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "https://www.cz01.pro/"
     },
     {
       "key": "App热剧",
@@ -181,19 +192,6 @@
       ]
     },
     {
-      "key": "Aid",
-      "name": "🚑┃急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
-    },
-    {
       "key": "贱贱",
       "name": "🐓┃贱贱┃4K",
       "type": 3,
@@ -279,16 +277,15 @@
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/free.json"
     },
     {
-      "key": "AppYs_南瓜",
-      "name": "👑┃南瓜┃2K",
+      "key": "js_nangua",
+      "name": "🎃┃南瓜┃2K",
       "type": 3,
-      "playerType": 2,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "changeable": 0,
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/南瓜.js"
-    },
+      "filterable": 1,
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/nangua.js"
+    }, 
     {
       "key": "DiDuan",
       "name": "⏮️┃高端┃2K",
@@ -1183,16 +1180,6 @@
       "changeable": 0
     },
     {
-      "key": "csp_Bili",
-      "name": "🅱哔哔┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://饭太硬.top/x/json/bijsili.json"
-    },
-    {
       "key": "csp_Anime1",
       "name": "🌸┃动漫┃系列",
       "type": 3,
@@ -1230,20 +1217,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/动漫巴士.json"
-    },
-    {
-      "key": "csp_Biliych",
-      "name": "🅱哔哔┃演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://饭太硬.top/x/json/biliych.json"
     },
     {
       "key": "drpy_js_爱弹幕",
@@ -1952,12 +1925,12 @@
     }
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
+  "spider": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/uyv0t678c488189af47bb91dc108484d17431;md5;9D742BF942ADF729CADCEBA23F83EBD8",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://jihulab.com/dpigu/ziyong/-/raw/main/lives/live.m3u",
+      "url": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/live.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
