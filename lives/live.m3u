@@ -42,8 +42,10 @@ CCTV-10,http://59.47.226.94:8880/sql/2601/hls.m3u8
 
 CCTV-11,https://epg.pw/stream/cf3b93b28e08650d90b7c20d478e36b2bd2090749acead858b4a98553c2f0f39.m3u8
 
-CCTV-12,https://epg.pw/stream/5674233683f0498e4271ddbeb345ec29c0eba703c988e6962595550dc1af7b9a.ctv
-
+CCTV-12,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226432/1.m3u8
+CCTV-12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225783/index.m3u8
+CCTV-12,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230242/index.m3u8
+CCTV-12,http://183.207.249.170/ott.js.chinamobile.com/PLTV/3/224/3221225852/index.m3u8
 
 CCTV-13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV-13,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
