@@ -5,7 +5,7 @@
       "key": "豆瓣",
       "name": "接口完全免费，切勿付费购买。",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/29_022812_drpy.js",
       "searchable": 0,
       "quickSearch": 0,
@@ -100,7 +100,7 @@
       "name": "🐱┃剧猫┃4K",
       "type": 3,
       "playerType": 2,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
@@ -201,7 +201,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy1.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy1.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/jp.js"
     },
     {
@@ -283,7 +283,7 @@
       "name": "👑┃南瓜┃2K",
       "type": 3,
       "playerType": 2,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
@@ -525,56 +525,56 @@
       "key": "drpy_js_子子影视",
       "name": "🎑┃子子┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/子子影视.js"
     },
     {
       "key": "drpy_js_影渣渣",
       "name": "🍒┃影渣┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/影渣渣.js"
     },
     {
       "key": "drpy_js_四个圈儿",
       "name": "🌓┃四圈┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/四个圈影视.js"
     },
     {
       "key": "drpy_js_新片场",
       "name": "🔇┃广告┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/新片场.js"
     },
     {
       "key": "drpy_js_人人影视",
       "name": "🙇┃人人┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/人人影视.js"
     },
     {
       "key": "drpy_js_首播影院",
       "name": "👌┃首播┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/首播影院.js"
     },
     {
       "key": "drpy_js_萌蛋蛋[V2]",
       "name": "🐥┃萌蛋┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/萌蛋蛋[V2].js"
     },
     {
       "key": "drpy_js_麦豆com",
       "name": "🌿┃麦豆┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/麦豆com.js"
     },
     {
@@ -605,7 +605,7 @@
       "key": "drpy_js_263",
       "name": "🎵┃音乐┃MV263",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/MV263.js?sign=ZGUTsiwGV5cpOqA2m27WBkbX_qDrmQoKfa4KKbGIORo=:0"
     },
     {
@@ -620,7 +620,7 @@
       "key": "drpy_js_兔小贝",
       "name": "👶┃宝宝┃启蒙",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy1.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/兔小贝.js"
     },
     {
@@ -748,7 +748,7 @@
       "key": "童趣",
       "name": "🍭┃童趣┃儿童",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/童趣.js"
     },
     {
@@ -1249,56 +1249,56 @@
       "key": "drpy_js_爱弹幕",
       "name": "动漫 | 爱弹幕[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/爱弹幕.js"
     },
     {
       "key": "drpy_js_AnFuns",
       "name": "动漫 | AnFuns[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/AnFuns.js"
     },
     {
       "key": "drpy_js_NT动漫",
       "name": "动漫 | NT动漫[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/NT动漫.js"
     },
     {
       "key": "drpy_js_动漫岛",
       "name": "动漫 | 动漫岛[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/动漫岛.js"
     },
     {
       "key": "drpy_js_路漫漫",
       "name": "动漫 | 路漫漫[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/路漫漫.js"
     },
     {
       "key": "drpy_js_去看吧",
       "name": "动漫 | 去看吧[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/去看吧.js"
     },
     {
       "key": "drpy_js_嘶哩嘶哩",
       "name": "动漫 | 嘶哩嘶哩[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/嘶哩嘶哩.js"
     },
     {
       "key": "drpy_js_奇米动漫",
       "name": "动漫 | 奇米动漫[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/奇米动漫.js"
     },
     {
@@ -1315,7 +1315,7 @@
       "key": "drpy_js_DJ音乐",
       "name": "音频 | DJ音乐[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/DJ音乐.js",
       "playerType": "2"
     },
@@ -1323,7 +1323,7 @@
       "key": "drpy_js_啦啦DJ",
       "name": "音频 | 啦啦DJ[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/苹果DJ.js",
       "playerType": "2"
     },
@@ -1331,7 +1331,7 @@
       "key": "drpy_js_清风DJ",
       "name": "音频 | 清风DJ[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/清风DJ.js",
       "playerType": "2"
     },
@@ -1339,7 +1339,7 @@
       "key": "drpy_js_蜻蜓FM",
       "name": "广播 | 蜻蜓FM[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/蜻蜓FM.js",
       "playerType": "2"
     },
@@ -1347,7 +1347,7 @@
       "key": "drpy_js_相声随身听",
       "name": "相声 | 相声随身听[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/相声随身听.js",
       "playerType": "2"
     },
@@ -1355,7 +1355,7 @@
       "key": "drpy_js_i275听书",
       "name": "听书 | i275听书[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/i275听书.js",
       "playerType": "2"
     },
@@ -1363,7 +1363,7 @@
       "key": "drpy_js_喜马拉雅",
       "name": "听书 | 喜马拉雅[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/喜马拉雅.js",
       "playerType": "2"
     },
@@ -1371,7 +1371,7 @@
       "key": "drpy_js_六月听书",
       "name": "听书 | 六月听书[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/六月听书.js",
       "playerType": "2"
     },
@@ -1379,7 +1379,7 @@
       "key": "drpy_js_博看听书",
       "name": "听书 | 博看听书[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/博看听书.js",
       "playerType": "2"
     },
@@ -1387,7 +1387,7 @@
       "key": "drpy_js_海洋听书",
       "name": "听书 | 海洋听书[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/海洋听书.js",
       "playerType": "2"
     },
@@ -1395,7 +1395,7 @@
       "key": "drpy_js_听书网",
       "name": "听书 | 听书网[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/听书网.js",
       "playerType": "2"
     },
@@ -1403,7 +1403,7 @@
       "key": "drpy_js_有声小说",
       "name": "听书 | 有声小说[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/有声小说吧.js",
       "playerType": "2"
     },
@@ -1411,77 +1411,77 @@
       "key": "drpy_js_短视频",
       "name": "聚合 | 短视频[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/短视频.js"
     },
     {
       "key": "drpy_js_酷6网",
       "name": "聚合 | 酷6网[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/酷6网.js"
     },
     {
       "key": "drpy_js_网易公版影像",
       "name": "聚合 | 网易公版影像[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/网易公版影像.js"
     },
     {
       "key": "drpy_js_A8音乐",
       "name": "MV | A8音乐[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/A8音乐.js"
     },
     {
       "key": "drpy_js_MV263",
       "name": "MV | 263[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/MV263.js"
     },
     {
       "key": "drpy_js_苹果DJ",
       "name": "MV | 苹果DJ[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/苹果DJ.js"
     },
     {
       "key": "drpy_js_酷狗MV",
       "name": "MV | 酷狗[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/酷狗MV.js"
     },
     {
       "key": "drpy_js_酷奇MV",
       "name": "MV | 酷奇[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/酷奇MV.js"
     },
     {
       "key": "drpy_js_音悦网",
       "name": "MV | 音悦网[js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/音悦网.js"
     },
     {
       "key": "drpy_js_哔哩直播",
       "name": "🅱️哔哩 |直播",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/哔哩直播.js"
     },
     {
       "key": "drpy_js_斗鱼直播",
       "name": "🦈斗鱼|直播  [js]",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/斗鱼直播.js"
     },
     {
