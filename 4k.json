@@ -379,7 +379,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/Nmys.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/Nmys.json"
     },
     {
       "key": "zxzj",
@@ -414,11 +414,11 @@
       "key": "js_Lib",
       "name": "🍲┃利奥┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.js",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/libvio.js"
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/libvio.js"
     },
     {
       "key": "XYQH_电影港",
