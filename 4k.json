@@ -362,17 +362,6 @@
     },
     {
       "key": "csp_Nmys",
-      "name": "🌾┃农民┃直连",
-      "type": 3,
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/uyv0t678c488189af47bb91dc108484d17431;md5;9D742BF942ADF729CADCEBA23F83EBD8",
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/Nmys.json"
-    },
-    {
-      "key": "csp_Nmys",
       "name": "👨┃农民┃2K",
       "type": 3,
       "api": "csp_Nmys",
@@ -411,14 +400,25 @@
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/xsj.js"
     },
     {
-      "key": "js_Lib",
-      "name": "🍲┃利奥┃2K",
+      "key": "csp_Nmys",
+      "name": "🌾┃农民┃直连",
       "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/uyv0t678c488189af47bb91dc108484d17431;md5;9D742BF942ADF729CADCEBA23F83EBD8",
+      "api": "csp_Nmys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/libvio.js"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/Nmys.json"
+    },
+    {
+      "key": "js_Lib",
+      "name": "🍲┃利奥┃2K",
+      "type": 3,
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/libvio.js"
     },
     {
       "key": "XYQH_电影港",
