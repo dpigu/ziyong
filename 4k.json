@@ -322,6 +322,16 @@
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/nmys.json"
     },
     {
+      "key": "csp_Nmys",
+      "name": "👨┃农民┃2K",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/Nmys.json"
+    },
+    {
       "key": "zxzj",
       "name": "📗┃在线┃2K",
       "type": 3,
@@ -536,18 +546,6 @@
       "ext": "https://www.zxzj.pro/"
     },
     {
-      "key": "yc",
-      "name": "🦊┃磁力┃4KHDR",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_Hdhive",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/tk.json",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/xry.jar"
-    },
-    {
       "key": "csp_非凡资源",
       "name": "🥗┃非凡┃资源",
       "type": 1,
@@ -664,16 +662,6 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-    },
-    {
-      "key": "csp_Nmys1",
-      "name": "👨‍🌾┃农民┃2K",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/Nmys.json"
     },
     {
       "key": "csp_MeiJu69",
@@ -823,68 +811,38 @@
       }
     },
     {
-      "key": "Zhaozy",
-      "name": "🖥┃阿里┃4K找资源",
+      "key": "yc",
+      "name": "🦊┃阿里┃4K",
       "type": 3,
-      "api": "csp_Zhaozy",
       "playerType": 1,
+      "api": "csp_Hdhive",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "df1a2af97c7e405b8d9bf78951e2c4ff$$$ygfxz$$$66666"
-    },
-    {
-      "key": "土拨鼠",
-      "name": "🖥┃阿里┃4K土拨鼠",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/土拨鼠.json"
+      "filterable": 0,
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/tk.json",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/xry.jar"
     },
     {
       "key": "Zhaozy",
-      "name": "🖥┃阿里┃4K找资源",
+      "name": "🦊┃阿里┃找片",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$tvfan$$$tvfan"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "🖥阿里┃4K资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
     },
     {
       "key": "PanSearch",
-      "name": "🖥┃阿里┃飞龙4K",
+      "name": "🦊┃阿里┃PanS",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "七夜",
-      "name": "🖥┃阿里┃七夜4K",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
     },
     {
       "key": "YiSo",
@@ -895,16 +853,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "🦊┃阿里┃资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
     },
     {
       "key": "PanSou",
@@ -921,16 +869,6 @@
       "name": "🦊┃阿里┃UP搜",
       "type": 3,
       "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "PanSearch",
-      "name": "🦊┃阿里┃盘Se",
-      "type": 3,
-      "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -957,28 +895,7 @@
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
       "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
     },
-    {
-      "key": "PanSearch",
-      "name": "🏵️‍┃阿里┃PanS",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "🔍┃阿里┃找片",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
-    },
+
     {
       "key": "csp_Vofl",
       "name": "🧿┃VoFl┃资源",
