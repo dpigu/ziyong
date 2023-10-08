@@ -1328,15 +1328,12 @@
   "spider": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
   "lives": [
     {
-      "group": "redirect",
-        "channels": [
-          {
-          "name": "live",
-          "urls": [
-            "https://ghproxy.com/raw.githubusercontent.com/dpigu/ziyong/main/live/live1.m3u"
-            ]
-          }
-        ]
+      "name": "live",
+      "type": 0,
+      "url": "https://ghproxy.com/raw.githubusercontent.com/dpigu/ziyong/main/live/live1.m3u",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "flags": [
