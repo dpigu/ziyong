@@ -1330,7 +1330,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://ghproxy.com/raw.githubusercontent.com/dpigu/ziyong/main/live/live1.m3u",
+      "url": "https://jihulab.com/dpigu/ziyong/-/raw/main/live/live.json",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
