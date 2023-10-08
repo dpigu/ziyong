@@ -37,8 +37,9 @@
 春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4	
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8	
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4	
-🇨🇳｜央视频道,#genre#
 
+
+🇨🇳｜央视频道,#genre#
 CCTV1 综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1 综合,https://cntv.sbs/tv?auth=231005&id=cctv1
 CCTV2 财经,https://cntv.sbs/tv?auth=231005&id=cctv2
@@ -99,25 +100,24 @@ CCTV15 音乐,https://cntv.sbs/tv?auth=231005&id=cctv15
 CCTV15 音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 CCTV15 音乐,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 CCTV15 音乐,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
-CCTV17 农业农村,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8?
-CCTV17 农业农村,https://cntv.sbs/tv?auth=231005&id=cctv17
-CCTV17 农业农村,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
-CCTV17 农业农村,https://live.metshop.top/bestv.php?id=cctv17hd8m/8000000
-CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
-CGTN,https://live.cgtn.com/1000/prog_index.m3u8
-CGTN,https://livear.cgtn.com/1000a/prog_index.m3u8
-CGTN,https://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN,https://livefr.cgtn.com/1000f/prog_index.m3u8
-CCTV4K,http://159.75.85.63:5679/cctv4k.php
-CCTV4K,https://cntv.sbs/tv?auth=231005&id=cctv4k
-CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 CCTV16 奥林匹克,https://cntv.sbs/tv?auth=231005&id=cctv164k
 CCTV16 奥林匹克,https://tv.iill.top/bestv/cctv16hd8m/8000000
 CCTV16 奥林匹克,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 CCTV16 奥林匹克,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 CCTV16 奥林匹克,http://111.20.40.165/PLTV/88888893/224/3221226921/index.m3u8
-
+CCTV17 农业农村,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8?
+CCTV17 农业农村,https://cntv.sbs/tv?auth=231005&id=cctv17
+CCTV17 农业农村,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
+CCTV17 农业农村,https://live.metshop.top/bestv.php?id=cctv17hd8m/8000000
+CCTV 4K,http://159.75.85.63:5679/cctv4k.php
+CCTV 4K,https://cntv.sbs/tv?auth=231005&id=cctv4k
+CCTV 4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV 4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
+CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
+CGTN,https://live.cgtn.com/1000/prog_index.m3u8
+CGTN,https://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN,https://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN,https://livefr.cgtn.com/1000f/prog_index.m3u8
 
 CCTV1 综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
@@ -291,16 +291,6 @@ CCTV16 奥林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122692
 CCTV17 农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
 
-中国天气,https://live.goodiptv.club/api/cqyx.php?id=tianqiSD
-中国交通,https://tv.lanjingfm.com/cctbn/hainan.m3u8
-早期教育,https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
-CCTV卫生健康,https://live.goodiptv.club/api/yqgd.php?id=wsjk
-CGTN英语,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
-CGTN纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-CGTN西班牙语,http://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-CGTN法语,http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-CGTN阿拉伯语,http://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
-CGTN俄语,http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 CCTV1 综合,http://111.20.35.103:6610/000000001000/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=00
 CCTV2 财经,http://111.20.35.103:6610/000000001000/1000000001000012442/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=00
 CCTV3 综艺,http://111.20.35.103:6610/000000001000/1000000001000011218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=00
@@ -322,36 +312,47 @@ CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
-CCTV女性时尚,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV世界地理,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV怀旧剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV第一剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV风云剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV兵器科技,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV央视文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV央视台球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+中国天气,https://live.goodiptv.club/api/cqyx.php?id=tianqiSD
+中国交通,https://tv.lanjingfm.com/cctbn/hainan.m3u8
+早期教育,https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
 中央新影发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8?blog.ntnas.top
 中央新影老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8?blog.ntnas.top
+中央新影老故事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8?
 中央新影中学生,https://live.v1.mk/api/cqyx.php?id=qicai
 环球奇观,https://live.v1.mk/api/cqyx.php?id=car
-CCTV4 欧洲,http://120.234.220.107:9000/udp/239.21.0.107:3768
-CCTV4 美洲,http://120.234.220.107:9000/udp/239.21.0.108:3772
-CGTN-新闻频道,http://live.cgtn.com/1000/prog_index.m3u8
-CGTN-纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
-CGTN法语频道,https://livefr.cgtn.com/1000f/prog_index.m3u8
-CGTN俄语频道,http://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN西班牙语频道,http://livees.cgtn.com/500e/prog_index.m3u8
-CGTN阿拉伯语频道,http://livear.cgtn.com/1000a/prog_index.m3u8
-CGTN拉丁美洲频道,http://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN西语,http://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-CGTN阿语,http://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
-中央新影_老故事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8?
+CHC 高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC 家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC 动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CCTV 卫生健康,https://live.goodiptv.club/api/yqgd.php?id=wsjk
+CCTV 女性时尚,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV 世界地理,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV 怀旧剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV 第一剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV 风云剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV 兵器科技,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV 风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV 央视文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV 电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV 央视台球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CGTN 英语,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
+CGTN 纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+CGTN 西班牙语,http://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+CGTN 法语,http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+CGTN 阿拉伯语,http://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+CGTN 俄语,http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+CGTN 新闻频道,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN 纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
+CGTN 法语频道,https://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN 俄语频道,http://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN 西班牙语频道,http://livees.cgtn.com/500e/prog_index.m3u8
+CGTN 阿拉伯语频道,http://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN 拉丁美洲频道,http://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN 西语,http://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+CGTN 阿语,http://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+
+
+
 🇨🇳卫视频道,#genre#
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
