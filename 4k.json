@@ -1333,7 +1333,7 @@
           {
           "name": "live",
           "urls": [
-            "https://cdn.statically.io/gh/dpigu/ziyong/main/live/live1.m3u"
+            "https://ghproxy.com/raw.githubusercontent.com/dpigu/ziyong/main/live/live1.m3u"
             ]
           }
         ]
