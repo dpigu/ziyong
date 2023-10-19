@@ -1509,7 +1509,7 @@
       {
         "name": "live",
         "type": 0,
-        "url": "https://ghproxy.com/raw.githubusercontent.com/dpigu/ziyong/main/live/live1.m3u",
+        "url": "http://fengzi.x3322.net:55244/d/%E5%AA%92%E4%BD%93%E5%BA%93/live1.m3u",
         "playerType": 1,
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
