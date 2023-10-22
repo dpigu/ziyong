@@ -2,7 +2,7 @@
 
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar1/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5",
+  "spider": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
   "lives": [
     {
       "name": "live",
