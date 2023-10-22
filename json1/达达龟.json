@@ -44,7 +44,7 @@
   "dtActorR": "\\S+：(\\S+)",
   "dtDesc": "//span[@class='detail-content']/text()",
   "dtFromNode": "//h3[contains(text(), '播')]",
-  "dtFromName": "concat('✨影音天堂app专享接口✨',count(parent::*/preceding::*//h3[contains(text(), '播')]) + 1)",
+  "dtFromName": "concat('✨疯子专享接口✨',count(parent::*/preceding::*//h3[contains(text(), '播')]) + 1)",
   "dtFromNameR": "(\\S+).0",
   "dtUrlNode": "//ul[contains(@class,'stui-content__playlist')]",
   "dtUrlSubNode": "/li/a",
