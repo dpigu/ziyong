@@ -1258,7 +1258,7 @@
     },
     {
       "key": "YiSo",
-      "name": "🦊┃阿里┃4K易搜",
+      "name": "🦊┃阿里┃易搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -1268,7 +1268,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "🦊┃阿里┃4K找资源",
+      "name": "🦊┃阿里┃找资源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -1278,7 +1278,7 @@
     },
     {
       "key": "PanSou",
-      "name": "🦊┃阿里┃4K盘搜",
+      "name": "🦊┃阿里┃盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -1288,7 +1288,7 @@
     },
     {
       "key": "UpYun",
-      "name": "🦊┃阿里┃4KUP搜",
+      "name": "🦊┃阿里┃UP搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
