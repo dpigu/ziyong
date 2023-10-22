@@ -1697,8 +1697,8 @@
       "type": 0,
       "url": "https://ghproxy.com/raw.githubusercontent.com/dpigu/ziyong/main/live/live.txt",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://upload.112114.xyz/logo/{name}.png"
     }
   ],
   "flags": [
