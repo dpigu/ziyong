@@ -94,7 +94,7 @@
     
        {
       "key": "橘子",
-      "name": "🍊橘子┃4K",
+      "name": "🍊┃橘子┃4K",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba",
       "api": "csp_AppMao",
@@ -105,7 +105,7 @@
     },
      {
       "key": "伊人",
-      "name": "💡伊人┃4K",
+      "name": "💡┃伊人┃4K",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba",
       "api": "csp_AppMao",
@@ -125,7 +125,7 @@
     },
     {
       "key": "🦐",
-      "name": "皮皮🦐┃4K",
+      "name": "🦐┃皮皮┃4K",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -837,7 +837,7 @@
     },
     {
       "key": "csp_SeedHub",
-      "name": "🧲┃SeedHub┃4k",
+      "name": "🧲┃Seed┃4k",
       "type": 3,
       "api": "csp_SeedHub",
       "playerType": 1,
@@ -958,7 +958,7 @@
     },
     {
       "key": "yc",
-      "name": "🦊┃磁力┃4KHDR",
+      "name": "🦊┃磁力┃4K",
       "type": 3,
       "playerType": 1,
       "api": "csp_Hdhive",
@@ -1226,7 +1226,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "阿里┃4K资源",
+      "name": "🖥┃阿里┃4K资源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -1258,7 +1258,7 @@
     },
     {
       "key": "YiSo",
-      "name": "🦊阿里┃4K易搜",
+      "name": "🦊┃阿里┃4K易搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -1268,7 +1268,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "🦊阿里┃4K找资源",
+      "name": "🦊┃阿里┃4K找资源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -1278,7 +1278,7 @@
     },
     {
       "key": "PanSou",
-      "name": "🦊阿里┃4K盘搜",
+      "name": "🦊┃阿里┃4K盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -1288,7 +1288,7 @@
     },
     {
       "key": "UpYun",
-      "name": "🦊阿里┃4KUP搜",
+      "name": "🦊┃阿里┃4KUP搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -1298,7 +1298,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "🦊阿里┃4K盘Se",
+      "name": "🦊┃阿里┃4K盘Se",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -1308,7 +1308,7 @@
     },
     {
       "key": "七夜",
-      "name": "🦊阿里┃4K七夜",
+      "name": "🦊┃阿里┃4K七夜",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -1436,7 +1436,7 @@
     },
     {
       "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
+      "name": "📚┃儿童┃启蒙",
       "type": 3,
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
       "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
@@ -1450,7 +1450,7 @@
     },
     {
       "key": "少儿教育",
-      "name": "📚少儿┃教育",
+      "name": "📚┃少儿┃教育",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
       "api": "csp_Bili",
@@ -1465,7 +1465,7 @@
     },
     {
       "key": "小学课堂",
-      "name": "📚小学┃课堂",
+      "name": "📚┃小学┃课堂",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
       "api": "csp_Bili",
@@ -1480,7 +1480,7 @@
     },
     {
       "key": "初中课堂",
-      "name": "📚初中┃课堂",
+      "name": "📚┃初中┃课堂",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
       "api": "csp_Bili",
@@ -1495,7 +1495,7 @@
     },
     {
       "key": "高中教育",
-      "name": "📚高中┃课堂",
+      "name": "📚┃高中┃课堂",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
       "api": "csp_Bili",
