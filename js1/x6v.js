@@ -31,7 +31,7 @@ var rule = {
 			TABS = ["🛑请选择后面的在线播放🛑"];
 			let tabs = pdfa(html, '#content&&h3:not(:contains(网盘))');
 			tabs.forEach((it) => {
-				TABS.push(pdfh(it, "body&&Text").replace('播放地址','✨影音天堂app在线播放✨').replace('（无插件 极速播放）','一').replace('（无需安装插件）','二'))
+				TABS.push(pdfh(it, "body&&Text").replace('播放地址','✨疯子在线播放✨').replace('（无插件 极速播放）','一').replace('（无需安装插件）','二'))
 			});
 		`,
 		"lists": `js:
@@ -48,7 +48,7 @@ var rule = {
 						return title + '$' + burl
 					});
 					LISTS.push(d)
-				} else if (/✨影音天堂app在线播放✨/.test(tab) && i <= TABS.length-1) {
+				} else if (/✨疯子在线播放✨/.test(tab) && i <= TABS.length-1) {
 					var d = pdfa(html, '.context&&.widget:eq(list_idx)&&a'.replace("list_idx", i));
 					d = d.map(function(it) {
 						var title = pdfh(it, 'a&&Text');
