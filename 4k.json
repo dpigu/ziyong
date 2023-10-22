@@ -1,4 +1,16 @@
 {
+  "wallpaper": "https://picsum.photos/1280/720/?blur=10",
+  "spider": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://ghproxy.com/raw.githubusercontent.com/dpigu/ziyong/main/live/live.txt",
+      "playerType": 1,
+      "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://upload.112114.xyz/logo/{name}.png"
+    }
+  ],
   "warningText": "🐼提醒您:本接口长期更新维护 请放心使用🐼",
   "sites": [
     {
@@ -1340,18 +1352,6 @@
     {"name":"红茶嗅探","type":0,"url":"https://jx.4kdv.com/?url=","flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]},
     {"name":"嗅探1","type":0,"url":"https://jx.jsonplayer.com/player/?url=","flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]},
     {"name":"嗅探2","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}
-  ],
-  "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
-  "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "url": "https://ghproxy.com/raw.githubusercontent.com/dpigu/ziyong/main/live/live.txt",
-      "playerType": 1,
-      "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://upload.112114.xyz/logo/{name}.png"
-    }
   ],
   "flags": [
     "youku",
