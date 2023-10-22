@@ -6,7 +6,7 @@
       "name": "🎯┃豆瓣┃榜单",
       "type": 3,
       "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/29_022812_drpy.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/douban.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
