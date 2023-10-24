@@ -1,23 +1,23 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
+  "spider": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/vip.jar",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "http://fengzi.x3322.net:55244/d/%E5%AA%92%E4%BD%93%E5%BA%93/live.txt",
+      "url": "http://fengzi.x3322.net:55244/d/%E5%AA%92%E4%BD%93%E5%BA%93/pro.txt",
       "playerType": 1,
       "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://upload.112114.xyz/logo/{name}.png"
     }
   ],
-  "warningText": "🐼提醒您:本接口长期更新维护 请放心使用🐼",
+  "warningText": "🐼提醒您:VIP专享接口长期维护 请放心使用🐼",
   "sites": [
     
      {
       "key": "豆豆",
-      "name": "🍥┃疯子┃自用",
+      "name": "🍥┃VIP┃专享",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
       "api": "csp_DouDou",
