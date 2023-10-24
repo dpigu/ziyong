@@ -45,7 +45,7 @@
     // 播放源节点
 	"dtFromNode": "//h2[contains(text(), '下载')][1]",
     // 播放源名称
-	"dtFromName": "'✨影音天堂app专享接口✨',/text()",
+	"dtFromName": "'✨疯子专享接口✨',/text()",
     // 二次处理正则
 	"dtFromNameR": "",
     // 播放列表节点  ///../../following-sibling::div/ul
