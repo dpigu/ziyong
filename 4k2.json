@@ -6,7 +6,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "http://fengzi.x3322.net:55244/d/%E5%AA%92%E4%BD%93%E5%BA%93/pro.txt",
+      "url": "http://fengzi.x3322.net:55244/d/%E5%AA%92%E4%BD%93%E5%BA%93/vip.txt",
       "playerType": 1,
       "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://upload.112114.xyz/logo/{name}.png"
@@ -14,7 +14,6 @@
   ],
   "warningText": "🐼提醒您:VIP专享接口长期维护 请放心使用🐼",
   "sites": [
-    
      {
       "key": "豆豆",
       "name": "🍥┃VIP┃专享",
@@ -1652,82 +1651,32 @@
       "filterable": 1,
       "ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩PS.json"
     },
-    {
-      "key": "dr_兔小贝",
-      "name": "📚┃儿童┃启蒙",
-      "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "少儿教育",
-      "name": "📚┃少儿┃教育",
-      "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/少儿教育.json"
-    },
-    {
-      "key": "小学课堂",
-      "name": "📚┃小学┃课堂",
-      "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/小学课堂.json"
-    },
-    {
-      "key": "初中课堂",
-      "name": "📚┃初中┃课堂",
-      "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/初中课堂.json"
-    },
-    {
-      "key": "高中教育",
-      "name": "📚┃高中┃课堂",
-      "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/高中课堂.json"
-    }
+    {"key": "drpy_js_兔小贝","name": "👶┃宝宝┃启蒙","type": 3,"api": "https://jihulab.com/dpigu/ziyong/-/raw/main/libs/drpy2.min.js","ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js1/兔小贝.js"},
+    {"key":"童趣","name":"🍭┃童趣┃儿童","type":3,"api":"https://jihulab.com/dpigu/ziyong/-/raw/main/libs/drpy2.min.js","ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/js1/童趣.js"},
+    {"key": "dr_兔小贝","name": "📚┃儿童┃启蒙","type": 3,"api": "https://jihulab.com/dpigu/ziyong/-/raw/main/libs/drpy1.min.js","ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js1/兔小贝.js","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0},
+    {"key": "少儿教育","name": "📚┃少儿┃教育","type": 3,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7","api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/少儿教育.json"},
+    {"key": "小学课堂","name": "📚┃小学┃课堂","type": 3,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7","api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/小学课堂.json"},
+    {"key": "初中课堂","name": "📚┃初中┃课堂","type": 3,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7","api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/初中课堂.json"},
+    {"key": "高中教育","name": "📚┃高中┃课堂","type": 3,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7","api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/高中课堂.json"},
+    {"key":"幼儿启蒙","name":"🌏┃幼儿┃启蒙","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/幼儿启蒙.json","jar": ""},      
+    {"key":"益智","name": "🌏┃益智┃动画","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/益智动画.json", "jar":""},  
+    {"key":"幼小衔接","name":"🌏┃幼小┃衔接","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/幼小衔接.json","jar": ""},
+    {"key":"小灯塔","name":"🌏┃灯塔┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/小灯塔百科.json","jar": ""},
+    {"key":"小灯塔科学","name":"🌏┃科学┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/小灯塔科学.json","jar": ""},
+    {"key":"小灯塔地理","name":"🌏┃地理┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/小灯塔地理.json","jar": ""},
+    {"key":"小灯塔国学","name":"🌏┃国学┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/小灯塔国学.json","jar": ""},
+    {"key":"小灯塔人文","name":"🌏┃人文┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/小灯塔人文.json","jar": ""},
+    {"key":"儿童拼音","name":"🌏┃拼音┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/儿童拼音.json","jar": ""},
+    {"key":"儿童识字","name":"🌏┃识字┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/儿童识字.json","jar": ""},
+    {"key":"儿童英语","name":"🌏┃英语┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/儿童英语.json","jar": ""},
+    {"key":"儿童硬笔","name":"🌏┃硬笔┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/儿童硬笔.json","jar": ""},
+    {"key":"儿童思维","name":"🌏┃思维┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/儿童思维.json","jar": ""},
+    {"key":"儿童口才","name":"🌏┃口才┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/儿童口才.json","jar": ""},
+    {"key":"儿童编程","name":"🌏┃编程┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/儿童编程.json","jar": ""},
+    {"key":"儿童武术","name":"🌏┃武术┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/儿童武术.json","jar": ""},
+    {"key":"兴趣培养","name":"🌏┃培养┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/兴趣培养.json","jar": ""}
   ],
-  "parses": [
+  "parses":[
     {"name":"聚合","type":3,"url":"Demo"},
     {"name":"并发","type":2,"url":"Parallel"},
     {"name":"轮询","type":2,"url":"Sequence"},
@@ -1784,39 +1733,16 @@
   ],
   "flags": [
     "youku",
-    "优酷",
-    "优 酷",
-    "优酷视频",
     "qq",
-    "腾讯",
-    "腾 讯",
-    "腾讯视频",
     "iqiyi",
     "qiyi",
-    "奇艺",
-    "爱奇艺",
-    "爱 奇 艺",
-    "m1905",
-    "xigua",
     "letv",
-    "leshi",
-    "乐视",
-    "乐 视",
     "sohu",
-    "搜狐",
-    "搜 狐",
-    "搜狐视频",
     "tudou",
     "pptv",
     "mgtv",
-    "芒果",
-    "imgo",
-    "芒果TV",
-    "芒 果 T V",
-    "bilibili",
-    "哔 哩",
-    "哔 哩 哔 哩"，
     "wasu",
+    "bilibili",
     "renrenmi"
   ],
   "ijk": [
