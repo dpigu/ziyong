@@ -2,7 +2,7 @@
 
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
+  "spider": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar1/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
   "lives": [
     {
       "name": "live",
@@ -407,7 +407,7 @@
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHiker",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/spider1.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar1/spider1.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json1/港口.json"
     },
     {
@@ -429,7 +429,7 @@
       "quickSearch": 1, 
       "filterable": 1, 
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json1/dyg.json",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/spider2.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar1/spider2.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
     {
       "key":"csp_SeedHub",
@@ -440,7 +440,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/83.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar1/83.jar"
     },
     {
       "key":"bdcili",
@@ -453,7 +453,7 @@
       "playerType":1,  
       "parse":0,
       "ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/bd.json",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/cl.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar1/cl.jar"
     },
     {
       "key": "csp_XYQHiker_BT天堂",
@@ -464,7 +464,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/BT天堂.json",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/83.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar1/83.jar"
     },
     {
       "key": "csp_XYQHiker_极影网",
@@ -475,7 +475,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/json1/极影网.json",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/83.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar1/83.jar"
     },
     {
       "key": "彩虹",
@@ -777,7 +777,7 @@
       "key": "csp_Alistxy",
       "name": "♻️┃Alist┃4K",
       "type": 3,
-      "jar": ".https://jihulab.com/dpigu/ziyong/-/raw/main/jar/AListxy.jar",
+      "jar": ".https://jihulab.com/dpigu/ziyong/-/raw/main/jar1/AListxy.jar",
       "api": "csp_AListxy",
       "searchable": 1,
       "quickSearch": 1,
@@ -816,7 +816,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json1/tk.json",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/xry.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar1/xry.jar"
     },
     {
       "key": "Zhaozy",
@@ -827,7 +827,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar1/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
     },
     {
       "key": "PanSearch",
@@ -838,7 +838,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar1/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
     },
     {
       "key": "YiSo",
@@ -889,7 +889,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar1/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
     },
 
     {
