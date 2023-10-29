@@ -36,61 +36,6 @@
       "jar":"https://jihulab.com/dpigu/ziyong/-/raw/main/jar/alibsaba.jar"
     },
     {
-      "key":"爱奇异",
-      "name":"🐼┃爱奇艺(官)",
-      "type":3,
-      "api":"https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
-      "ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/js/aiqiyi.js"
-    },
-    {
-      "key":"优酷",
-      "name":"🐼┃优酷(官)",
-      "type":3,
-      "api":"https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
-      "ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/js/youku.js"
-    },
-    {
-      "key":"腾讯",
-      "name":"🐼┃腾讯(官)",
-      "type":3,
-      "api":"https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
-      "ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/js/tengxun.js"
-    },
-    {
-      "key":"芒果",
-      "name":"🐼┃芒果(官)",
-      "type":3,
-      "api":"https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
-      "ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/js/mangguo.js"
-    },
-    {
-      "key":"搜狗",
-      "name":"🐼┃搜狗(官)",
-      "type":3,
-      "api":"https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
-      "ext":"https://jihulab.com/dpigu/ziyong/-/raw/main/js/caigou.js"
-    },
-    {
-      "key":"360影视",
-      "name":"🐼┃360影视(官)",
-      "type":3,
-      "api":"csp_SP360",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "changeable":0
-    },
-    {
-      "key":"py_cctv",
-      "name": "🐼┃CCTV",
-      "type": 3,
-      "api":"py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/libs/py_cctv.py"
-    },
-    {
       "key":"t4_wo",
       "name":"🌩┃玩偶┃T4",
       "type":4,
