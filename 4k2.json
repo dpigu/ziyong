@@ -53,16 +53,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-      {
-      "key": "JOJO",
-      "name": "🕊︎┃JOJO┃直连",
-      "type": 3,
-       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
-      "api": "csp_JOJO",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
     {
       "key": "索尼",
       "name": "🛸┃索尼┃2K",

@@ -7,10 +7,10 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://dimaston.github.io/live.m3u",
+      "url": "http://fengzi.x3322.net:55244/d/%E5%AA%92%E4%BD%93%E5%BA%93/pro.txt",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://upload.112114.xyz/logo/{name}.png"
     }
   ],
   "warningText": "🐼提醒您:VIP专享接口长期维护 请放心使用🐼",
@@ -25,16 +25,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },
-     {
-      "key": "直播转点播",
-      "name": "📺︎┃电视┃直播",
-      "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/zbzdb.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/zb.json"
     },
     {
       "key": "js豆瓣备用",
