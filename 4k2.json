@@ -855,11 +855,11 @@
       "key": "js_libs",
       "name": "🍲┃利奥┃2K",
       "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libss/drpy2.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libss/libsvio.js"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/libsvio.js"
     },
     {
       "key": "XYQH_电影港",
@@ -1051,7 +1051,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/libs/spider2.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
     {
       "key": "csp_SeedHub",
@@ -1371,11 +1371,11 @@
       "key": "js_DJ5",
       "name": "🎦┃短剧┃DJ5",
       "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libss/drpy2.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libss/短剧网.js"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/短剧网.js"
     },
     {
       "key": "csp_XYQHiker_VSYY",
@@ -1386,7 +1386,7 @@
       "filterable": 1,
       "api": "csp_XYQHiker",
       "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/libs/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/VS影院.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/VS影院.json"
     },
     {
       "key": "csp_XBPQ_aoaotv",

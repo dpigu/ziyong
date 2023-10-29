@@ -968,7 +968,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/dyg.json",
-      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/libs/spider2.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
     {
       "key": "csp_SeedHub",
@@ -1303,7 +1303,7 @@
       "filterable": 1,
       "api": "csp_XYQHiker",
       "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/libs/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/VS影院.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/VS影院.json"
     },
     {
       "key": "csp_XBPQ_aoaotv",
@@ -1567,14 +1567,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩PS.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/哔哩PS.json"
     },
     {
       "key": "dr_兔小贝",
       "name": "📚┃儿童┃启蒙",
       "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy1.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1596,7 +1596,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/少儿教育.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -1611,7 +1611,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/小学课堂.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -1626,7 +1626,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/初中课堂.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -1641,7 +1641,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/高中课堂.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/高中课堂.json"
     }
   ],
   "parses": [
