@@ -1,7 +1,7 @@
-import cheerio from './libs/cheerio.min.js';
-import './libs/crypto-js.js';
-import 模板 from"./libs/moban.js"
-import {gbkTool} from './libs/gbk.js'
+import cheerio from 'assets://js/lib/cheerio.min.js';
+import 'assets://js/lib/crypto-js.js';
+import 模板 from"../js/模板.js"
+import {gbkTool} from './gbk.js'
 // import './rsa.js'
 
 // import cheerio from "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/cheerio.min.js";
