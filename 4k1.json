@@ -253,7 +253,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/OpenSpider.jar"
     },
      {
       "key": "js_nangua",
@@ -782,18 +782,18 @@
       "key": "js_Lib",
       "name": "🍲┃利奥┃2K",
       "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/libvio.js"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/libvio.js"
     },
     {
       "key": "XYQH_电影港",
       "name": "🚢┃港口┃4K",
       "type": 3,
       "playerType": 1,
-      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/libs/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
       "api": "csp_XYQHiker",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/电影港.json"
     },
@@ -977,7 +977,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/dyg.json",
       "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
     {
@@ -1001,7 +1001,7 @@
       "filterable": 1,
       "playerType": 1,
       "parse": 0,
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/h/bd.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/bd.json",
       "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/cl.jar"
     },
     {
@@ -1012,7 +1012,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/h/BT%e5%a4%a9%e5%a0%82.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/BT%e5%a4%a9%e5%a0%82.json",
       "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/83.jar"
     },
     {
@@ -1023,7 +1023,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/h/%e6%9e%81%e5%bd%b1%e7%bd%91.json",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/%e6%9e%81%e5%bd%b1%e7%bd%91.json",
       "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/83.jar"
     },
       {
@@ -1062,15 +1062,15 @@
       "api": "csp_AListxy",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "http://ftp6587948.host121.Sanfengyun.cn/yydf/lib/Alistxy.json",
-      "jar": "http://ftp6587948.host121.Sanfengyun.cn/yydf/lib/AListxy.jar"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/Alistxy.json",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/AListxy.jar"
     },
    
     {
       "key": "drpy_js_首播影院",
       "name": "👌┃首播┃2K",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/%E9%A6%96%E6%92%AD.js"
     },
     {
@@ -1111,7 +1111,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
-      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/xry.jar"
     },
     {
       "key": "csp_非凡资源",
@@ -1298,11 +1298,11 @@
       "key": "js_DJ5",
       "name": "🎦┃短剧┃DJ5",
       "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/短剧网.js"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/短剧网.js"
     },
     {
       "key": "csp_XYQHiker_VSYY",
@@ -1312,7 +1312,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "csp_XYQHiker",
-      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/libs/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/VS影院.json"
     },
     {
@@ -1344,8 +1344,8 @@
       "key": "童趣",
       "name": "🍭┃童趣┃儿童",
       "type": 3,
-      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E7%AB%A5%E8%B6%A3.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/%E7%AB%A5%E8%B6%A3.js"
     },
     {
       "key": "Zhaozy",
@@ -1470,7 +1470,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
-      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
     },
     {
       "key": "PanSearch",
@@ -1481,7 +1481,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
-      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
     },
     {
       "key": "Zhaozy",
@@ -1492,7 +1492,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357",
-      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
     },
     {
       "key": "csp_MeiJu69",
