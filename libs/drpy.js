@@ -1,12 +1,12 @@
-// import 'https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/es6py.js';
+// import 'https://jihulab.com/dpigu/ziyong/-/raw/main/js/es6py.js';
 // import {是否正版,urlDeal,setResult,setResult2,setHomeResult,maoss,urlencode} from 'http://192.168.10.103:5705/libs/es6py.js';
 // import 'http://192.168.1.124:5705/libs/es6py.js';
-import cheerio from 'https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/cheerio.min.js';
+import cheerio from 'https://jihulab.com/dpigu/ziyong/-/raw/main/js/cheerio.min.js';
 // import cheerio from 'http://192.168.10.103:5705/libs/cheerio.min.js';
-import 'https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/crypto-js.js';
-import 'https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drT.js';
-import 模板 from 'https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/模板.js';
-import {gbkTool} from 'https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/gbk.js'
+import 'https://jihulab.com/dpigu/ziyong/-/raw/main/js/crypto-js.js';
+import 'https://jihulab.com/dpigu/ziyong/-/raw/main/js/drT.js';
+import 模板 from 'https://jihulab.com/dpigu/ziyong/-/raw/main/js/模板.js';
+import {gbkTool} from 'https://jihulab.com/dpigu/ziyong/-/raw/main/js/gbk.js'
 // import 'http://192.168.10.103:5705/libs/drT.js';
 // import muban from 'https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/模板.js';
 // import muban from 'http://192.168.10.103:5705/admin/view/模板.js';
@@ -430,7 +430,7 @@ function decodeStr(input,encoding){
 }
 
 function getCryptoJS(){
-    // return request('https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/crypto-hiker.js');
+    // return request('https://jihulab.com/dpigu/ziyong/-/raw/main/js/crypto-hiker.js');
     return 'console.log("CryptoJS已装载");'
 }
 
