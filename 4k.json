@@ -85,7 +85,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/OpenSpider.jar"
     },
       {
       "key": "js_nangua",
@@ -194,7 +194,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/6V.js"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/6V.js"
     },
      {
       "key": "子子",
@@ -453,7 +453,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/bzys.js"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/bzys.js"
     },
      {
       "key": "🌡csp_米爱影视",
@@ -790,7 +790,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/libvio.js"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/libvio.js"
     },
     {
       "key": "XYQH_电影港",
@@ -1145,7 +1145,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/短剧网.js"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/短剧网.js"
     },
     {
       "key": "csp_XYQHiker_VSYY",
@@ -1325,7 +1325,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
-      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
     },
     {
       "key": "PanSearch",
@@ -1336,7 +1336,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
-      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
     },
     {
       "key": "Zhaozy",
@@ -1347,7 +1347,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357",
-      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
     },
     {
       "key": "csp_MeiJu69",
@@ -1405,7 +1405,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/libs/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/虎牙.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/虎牙.json"
     },
     {
       "key": "js_斗鱼直播",
@@ -1415,7 +1415,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/斗鱼.js"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/斗鱼.js"
     },
     {
       "key": "csp_鹅直播",
@@ -1425,7 +1425,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/qie.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/qie.json"
     },
     {
       "key": "csp_17看球",
@@ -1435,7 +1435,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/看球.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/看球.json"
     },
     {
       "key": "歌手_MV",
@@ -1453,14 +1453,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩PS.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/哔哩PS.json"
     },
     {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy1.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1482,7 +1482,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/少儿教育.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -1497,7 +1497,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/小学课堂.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -1512,7 +1512,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/初中课堂.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -1527,7 +1527,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/高中课堂.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/高中课堂.json"
     }
   ],
   "parses": [
@@ -1784,7 +1784,7 @@
     }
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
+  "spider": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
   "lives": [
     {
       "name": "live",
