@@ -1920,7 +1920,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "http://fengzi.x3322.net:55244/d/%E5%AA%92%E4%BD%93%E5%BA%93/pro.txt",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/dpigu/ziyong/main/live/pro.txt",
       "playerType": 1,
       "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://upload.112114.xyz/logo/{name}.png"

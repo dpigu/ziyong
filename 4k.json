@@ -1912,7 +1912,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://dimaston.github.io/live.m3u",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/dpigu/ziyong/main/live/pro.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
