@@ -3,19 +3,6 @@
 
 {
 
-  "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
-  "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/dpigu/ziyong/main/live/pro.txt",
-      "playerType": 1,
-      "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://upload.112114.xyz/logo/{name}.png"
-    }
-  ]
-
   "warningText": "🐼提醒您:接口长期维护，请放心使用🐼",
   "sites": [
     
@@ -1893,6 +1880,18 @@
           "User-Agent": "okhttp/4.1.0"
         }
       }
+    }
+  ],
+  "wallpaper": "https://picsum.photos/1280/720/?blur=10",
+  "spider": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/dpigu/ziyong/main/live/pro.txt",
+      "playerType": 1,
+      "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://upload.112114.xyz/logo/{name}.png"
     }
   ],
   "flags": [
