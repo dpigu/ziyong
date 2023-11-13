@@ -14,7 +14,8 @@
       "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://upload.112114.xyz/logo/{name}.png"
     }
-  ],
+  ]
+
   "warningText": "🐼提醒您:接口长期维护，请放心使用🐼",
   "sites": [
     
