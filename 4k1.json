@@ -2,7 +2,7 @@
 
 
 {
-    "warningText": "🐼提醒您:VIP专享接口长期维护 请放心使用🐼",
+    "warningText": "🐼提醒您:TVBox专享接口长期维护 请放心使用🐼",
     "sites": [
       
       {
@@ -17,7 +17,7 @@
       },
       {
         "key": "js豆瓣备用",
-        "name": "🍥┃VIP┃专享",
+        "name": "🍥┃TVBox┃专享",
         "type": 3,
         "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/doubanbf.js",
         "searchable": 1,

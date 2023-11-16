@@ -2,7 +2,7 @@
 
 
 {
-  "warningText": "🐼提醒您:VIP专享接口长期维护 请放心使用🐼",
+  "warningText": "🐼提醒您:TVBox专享接口长期维护 请放心使用🐼",
   "sites": [
     
     {
@@ -17,21 +17,12 @@
     },
     {
       "key": "js豆瓣备用",
-      "name": "🍥┃VIP┃专享",
+      "name": "🍥┃TVBox┃专享",
       "type": 3,
       "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/doubanbf.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "csp_77",
-      "name": "👒┃七七┃影视",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_Bttoo",
