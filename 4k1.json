@@ -1,6 +1,16 @@
 {"spider":"https://download.kstore.space/download/3313/VIP/ymz.jar",
 "warningText":"🐱提醒您:TVBox专享接口长期维护 请放心使用🐱",
 "wallpaper": "https://yun.chuqiuyu.tk",
+"lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/dpigu/ziyong/main/live/pro.txt",
+      "playerType": 1,
+      "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://upload.112114.xyz/logo/{name}.png"
+    }
+  ],
 "sites":[
   {
     "key": "豆豆",
