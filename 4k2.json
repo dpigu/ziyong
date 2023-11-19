@@ -938,15 +938,6 @@
             "filterable": 0,
             "ext": "https://gitlab.com/momomo1/tvbox/-/raw/main/token/alitoken.txt"
         },
-        {
-            "key": "應用商店",
-            "name": "应用商店",
-            "type": 3,"jar":"https://jihulab.com/ymz1231/jar/-/raw/main/bulei.jar",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://jihulab.com/ymz1231/json/-/raw/main/market.json"
-        }
         
 
 ],
