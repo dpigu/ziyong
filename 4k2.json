@@ -122,14 +122,15 @@
       "filterable":0,
       "ext":{
         "演员":"演员：&&</div>",
-        "主演":"主演：&&</div>",,
+        "主演":"主演：&&</div>",
         "简介":"class=module-info-introduction-content show-desc*<p>&&</div>",
         "副标题":"class=myui-vodlist__detail>&&</div>",
         "线路数组":"class=nav nav-tabs active&&</div>",
         "线路标题":"<span>&&</small>",
         "播放数组":"class=myui-content__list&&</div>",
         "分类":"电影$1#电视剧$31#综艺$3#动漫$4",
-        "分类url":"https://www.xiaoluys.me/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html"}
+        "分类url":"https://www.xiaoluys.me/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html"
+      }
     },
   {
     "key":"csp_dyxz",
