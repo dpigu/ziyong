@@ -112,6 +112,7 @@
       "quickSearch": 1,
       "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E9%A3%9E%E4%BA%91_V2_.js"
     },
+
     {"key":"csp_slgq","name":"👑石榴蓝光👑","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/%E7%9F%B3%E6%A6%B4%E9%AB%98%E6%B8%85.json"},
     {
     "key":"csp_duoju",
@@ -937,6 +938,15 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitlab.com/momomo1/tvbox/-/raw/main/token/alitoken.txt"
+        },
+        {
+            "key": "應用商店",
+            "name": "应用商店",
+            "type": 3,"jar":"https://jihulab.com/ymz1231/jar/-/raw/main/bulei.jar",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://jihulab.com/ymz1231/json/-/raw/main/market.json"
         }
         
 
