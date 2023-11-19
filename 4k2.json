@@ -513,7 +513,7 @@
         },    
     {
             "key": "影院",
-            "name": "🐼蓝光🐼",
+            "name": "🐼蓝光影院🐼",
             "type": 3,
             "playerType":2,
             "api": "csp_AppYsV2",
@@ -661,7 +661,7 @@
                
             
                     
-   {"key":"csp_appysv2_迷你库","name":"🐼迷你🐼","type":3,"playerType":2,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/"},           
+   {"key":"csp_appysv2_迷你库","name":"🐼迷你库🐼","type":3,"playerType":2,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/"},           
               
     { "key": "玩偶内置", "name": "🐼俊佬玩偶🐼", "type": 4,"playerType":1,  "searchable": 1,
             "quickSearch": 1,
@@ -841,52 +841,26 @@
 
  {"key":"push_agent","name":"🐼云盘推送🐼","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
  
-  {"key": "csp_Mp4Mov","name": "🧲磁力Mp4电影","type": 3,
+  {"key": "csp_Mp4Mov","name": "磁力Mp4电影","type": 3,
         "playerType":2,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
         
-       {"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+       {"key":"csp_SeedHub","name":"SeedHub","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
        
-        {"key":"csp_KubaCL","name":"🧲磁力酷吧电影","type":3,"playerType":2,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_KubaCL","name":"磁力酷吧电影","type":3,"playerType":2,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
         
-        {"key": "csp_XYQHiker_极影网","name":"🧲极影网","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%E6%9E%81%E5%BD%B1%E7%BD%91.json"},
+        {"key": "csp_XYQHiker_极影网","name":"极影网","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%E6%9E%81%E5%BD%B1%E7%BD%91.json"},
         
-    {"key":"csp_BLSGod","name":"🧲80S影视","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_BLSGod","name":"80S影视","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
     
-        {"key":"csp_Xunlei8","name":"🧲迅雷吧","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},  
+        {"key":"csp_Xunlei8","name":"迅雷吧","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},  
            
-        {"key":"csp_MeijuTT","name":"🧲磁力美剧天堂","type":3,"playerType":2,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_MeijuTT","name":"磁力美剧天堂","type":3,"playerType":2,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
         
-        {"key":"csp_MeijuMi","name":"🧲磁力美剧迷","type":3,"playerType":2,"api":"csp_MeijuMi","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},   
+        {"key":"csp_MeijuMi","name":"磁力美剧迷","type":3,"playerType":2,"api":"csp_MeijuMi","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},   
            
-   {"key":"mp4","name":"🧲MP4┃磁力","type":3,"api":"csp_XYQHiker","playerType":2,"ext":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/mp4%E7%A3%81%E5%8A%9B.json"},
+   {"key":"mp4","name":"磁力MP4","type":3,"api":"csp_XYQHiker","playerType":2,"ext":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/mp4%E7%A3%81%E5%8A%9B.json"},
    
-{"key":"6V","name":"🧲6V磁力搜","type":3,"api":"csp_XYQHiker","playerType":2,"ext":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/6V电影.json"},
-
-{"key":"drpy_xb","name":"🛫小宝影视(墙外)","type":3,"playerType":2,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/js/%e5%b0%8f%e5%ae%9d%e5%bd%b1%e9%99%a2.js"},
-
-{"key": "csp_XBPQaol",
-  "name": "🛫┃爱欧乐┃",
-  "type": 3,"playerType":2,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/爱欧乐影视.json"},
-  
-{"key":"drpy_trj","name":"🛫唐人街(墙外)","type":3,"playerType":2,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/ixinshang/dr_py/raw/branch/master/js/唐人街影视[飞].js"},
-
-{"key":"drpy_hh","name":"🛫吼吼影视(墙外)","type":3,"playerType":2,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/HoHo影视.js"},
-
-{"key":"drpy_od","name":"🛫欧帝影视(墙外)","type":3,"playerType":2,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/欧帝影院.js"},
-
-{
-    "key":"dr_美视网",
-    "name":"🛫美视网(飞)",
-    "type":3,"playerType":2,
-    "api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-    "ext":"https://download.kstore.space/download/3313/mao/美视网.js"
-},
-
+{"key":"6V","name":"6V磁力搜","type":3,"api":"csp_XYQHiker","playerType":2,"ext":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/6V电影.json"},
 {
       "key": "csp_KungFu404",
       "name": "🍱云盘登录入口",
@@ -970,15 +944,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitlab.com/momomo1//-/raw/main/token/alitoken.txt"
-        },
-        {
-            "key": "應用商店",
-            "name": "应用商店",
-            "type": 3,"jar":"https://jihulab.com/ymz1231/jar/-/raw/main/bulei.jar",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://jihulab.com/ymz1231/json/-/raw/main/market.json"
         }
         
 
