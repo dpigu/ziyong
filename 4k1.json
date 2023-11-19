@@ -24,7 +24,7 @@
   },
   {
     "key": "js豆瓣备用",
-    "name": "🐼VIP专享",
+    "name": "🐼VIP专享-播放黑屏没有画面，接口的4K1改成4K2",
     "type": 3,
     "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/doubanbf.js",
     "searchable": 1,
