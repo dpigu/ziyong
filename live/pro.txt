@@ -7666,6 +7666,7 @@ IPTV-5+,http://ct.whosayssowhat.top:4022/udp/239.77.0.176:5146
 辽宁都市,http://42.176.185.28:9901/tsfile/live/1005_1.m3u8
 辽宁生活,http://42.176.185.28:9901/tsfile/live/1006_1.m3u8
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
+辽宁体育,https://epg.pw/stream/ed8d6b967bd33bf66eaa29459a8ec20337120f27cdab5deff7d0a208d88067dc.m3u8
 辽宁教育,http://42.176.185.28:9901/tsfile/live/1008_1.m3u8
 辽宁经济,http://42.176.185.28:9901/tsfile/live/1009_1.m3u8
 辽宁公共,http://42.176.185.28:9901/tsfile/live/1010_1.m3u8
