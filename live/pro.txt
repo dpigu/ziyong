@@ -133,24 +133,24 @@ yy小品3,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936198
 
 
 🇨🇳｜央视直播,#genre#
-CCTV-1,https://cntv.lat/tv/zb.php?auth=231122&id=cctv1
-CCTV-2,https://cntv.lat/tv/zb.php?auth=231122&id=cctv2
-CCTV-3,https://cntv.lat/tv/zb.php?auth=231122&id=cctv3
-CCTV-4,https://cntv.lat/tv/zb.php?auth=231122&id=cctv4
-CCTV-5,https://cntv.lat/tv/zb.php?auth=231122&id=cctv5
-CCTV-5+,https://cntv.lat/tv/zb.php?auth=231122&id=cctv5p
-CCTV-6,https://cntv.lat/tv/zb.php?auth=231122&id=cctv6
-CCTV-7,https://cntv.lat/tv/zb.php?auth=231122&id=cctv7
-CCTV-8,https://cntv.lat/tv/zb.php?auth=231122&id=cctv8
-CCTV-9,https://cntv.lat/tv/zb.php?auth=231122&id=cctv9
-CCTV-10,https://cntv.lat/tv/zb.php?auth=231122&id=cctv10
-CCTV-11,https://cntv.lat/tv/zb.php?auth=231122&id=cctv11
-CCTV-12,https://cntv.lat/tv/zb.php?auth=231122&id=cctv12
-CCTV-13,https://cntv.lat/tv/zb.php?auth=231122&id=CCTV13
-CCTV-14,https://cntv.lat/tv/zb.php?auth=231122&id=cctv14
-CCTV-15,https://cntv.lat/tv/zb.php?auth=231122&id=cctv15
-CCTV-16,https://cntv.lat/tv/zb.php?auth=231122&id=cctv16
-CCTV-17,https://cntv.lat/tv/zb.php?auth=231122&id=cctv17
+CCTV1,https://cntv.lat/tv/zb.php?auth=231122&id=cctv1
+CCTV2,https://cntv.lat/tv/zb.php?auth=231122&id=cctv2
+CCTV3,https://cntv.lat/tv/zb.php?auth=231122&id=cctv3
+CCTV4,https://cntv.lat/tv/zb.php?auth=231122&id=cctv4
+CCTV5,https://cntv.lat/tv/zb.php?auth=231122&id=cctv5
+CCTV5+,https://cntv.lat/tv/zb.php?auth=231122&id=cctv5p
+CCTV6,https://cntv.lat/tv/zb.php?auth=231122&id=cctv6
+CCTV7,https://cntv.lat/tv/zb.php?auth=231122&id=cctv7
+CCTV8,https://cntv.lat/tv/zb.php?auth=231122&id=cctv8
+CCTV9,https://cntv.lat/tv/zb.php?auth=231122&id=cctv9
+CCTV10,https://cntv.lat/tv/zb.php?auth=231122&id=cctv10
+CCTV11,https://cntv.lat/tv/zb.php?auth=231122&id=cctv11
+CCTV12,https://cntv.lat/tv/zb.php?auth=231122&id=cctv12
+CCTV13,https://cntv.lat/tv/zb.php?auth=231122&id=CCTV13
+CCTV14,https://cntv.lat/tv/zb.php?auth=231122&id=cctv14
+CCTV15,https://cntv.lat/tv/zb.php?auth=231122&id=cctv15
+CCTV16,https://cntv.lat/tv/zb.php?auth=231122&id=cctv16
+CCTV17,https://cntv.lat/tv/zb.php?auth=231122&id=cctv17
 
 CCTV1,https://live.metshop.top/hbgd.php?id=cctv1hd_3000
 CCTV2,https://live.metshop.top/hbgd.php?id=cctv2hd_3000
