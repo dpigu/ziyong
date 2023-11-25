@@ -52,6 +52,10 @@
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dpigu/4k/main/18.json",
       "name": "🚀福利仓〔多条线路〕"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/dpigu/4k/18.json",
+      "name": "🚀福利仓1〔多条线路〕"
     }
   ]
 }
