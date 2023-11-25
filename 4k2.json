@@ -2400,7 +2400,7 @@
       {
         "name": "live",
         "type": 0,
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dpigu/ziyong/main/live/pro.txt",
+        "url": "https://cdn.jsdelivr.net/gh/dpigu/ziyong/live/pro.txt",
         "playerType": 1,
         "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
         "logo": "https://upload.112114.xyz/logo/{name}.png"
