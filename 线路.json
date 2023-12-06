@@ -1,77 +1,32 @@
 //以下内容为互联网收集，只为自用……
 {
   "urls": [
-    {
-      "url": "https://jihulab.com/dpigu/ziyong/-/raw/main/4k.json",
-      "name": "🚀个人自用〔多条线路〕"
-    },
-    {
-      "url": "https://jihulab.com/dpigu/ziyong/-/raw/main/4k1.json",
-      "name": "🚀VIP专享〔闲鱼专用〕"
-    },
-    {
-      "url": "https://jihulab.com/dpigu/ziyong/-/raw/main/che/ysc.json",
-      "name": "🚀折腾内测〔测试版〕"
-    },
-    {
-      "url": "https://jihulab.com/dpigu/ziyong/-/raw/main/che/ysc.json",
-      "name": "🐼售后QQ群：306953975"
-    },
-    {
-      "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-      "name": "☁️云星家庭版〔绿色家庭版〕"
-    },
-    {
-      "url": "http://yydsys.top/duo",
-      "name": "🏡多多家庭版〔多条线路〕"
-    },
-    {
-      "url": "http://rihou.cc:88/荷城茶秀",
-      "name": "🏡荷城茶秀〔备用线路〕"
-    },
-    {
-      "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-      "name": "🐧肥猫〔多条线路〕"
-    },
-    {
-      "url": "http://52bsj.vip:98/wuai",
-      "name": "🌙吾爱〔多条线路〕"
-    },
-    {
-      "url": "http://饭太硬.top/tv",
-      "name": "🚀饭太硬〔多条线路〕"
-    },
-    {
-      "url": "https://tvbox.cainisi.cf",
-      "name": "🚀菜妮丝〔多条线路〕"
-    },
-    {
-      "url": "https://raw.liucn.cc/box/m.json",
-      "name": "🚀刘备〔多条线路〕"
-    },
-    {
-      "url": "https://raw.liucn.cc/box/m.json",
-      "name": "🔞未成年不要往下看🈲"
-    },
-    {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dpigu/4k/main/18.json",
-      "name": "🚀福利仓〔多条线路〕"
-    },
-    {
-      "url": "https://cdn.jsdelivr.net/gh/dpigu/4k/18.json",
-      "name": "🚀福利仓1〔多条线路〕"
-    },
-    {
-      "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt",
-      "name": "🚀福利仓2〔多条线路〕"
-    },
-    {
-      "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+千部独家传媒无水印来袭tvlist.txt",
-      "name": "🚀福利仓3〔多条线路〕"
-    },
-    {
-      "url": "https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt",
-      "name": "🚀福利仓4〔多条线路〕"
-    }
+    {"url": "https://jihulab.com/dpigu/ziyong/-/raw/main/4k.json","name": "🚀个人自用〔多条线路〕"},
+    {"url": "https://jihulab.com/dpigu/ziyong/-/raw/main/4k1.json","name": "🚀VIP专享〔闲鱼专用〕"},
+    {"url": "https://jihulab.com/dpigu/ziyong/-/raw/main/che/ysc.json","name": "🚀折腾内测〔测试版〕"},
+    {"url": "https://jihulab.com/dpigu/ziyong/-/raw/main/che/ysc.json","name": "🐼售后QQ群：306953975"},
+
+
+    {"url": "http://rihou.cc:88/荷城茶秀","name": "🏡荷城茶秀〔备用线路〕"},
+    {"url": "http://我不是.肥猫.love:63/接口禁止贩卖","name": "🐱肥猫〔多条线路〕"},
+    {"url": "http://饭太硬.top/tv","name": "🍜饭太硬线路"},
+    {"url": "https://fm.t4tv.hz.cz/json/config.json","name": "🍯蜂蜜线路"},
+    {"url": "http://xhww.fun:63/小米/DEMO.json","name": "🍚小米线路"},
+    {"url": "http://home.jundie.top:81/top98.json","name": "🍜俊佬线路"},
+    {"url": "http://52bsj.vip:98/wuai","name": "🌙吾爱线路〕"},
+    {"url": "https://tvbox.cainisi.cf","name": "🐿️菜妮丝线路〕"},
+    {"url": "https://raw.liucn.cc/box/m.json","name": "🍳刘备线路〕"},
+    //{"url": "http://itvbox.cc/tvbox/云星日记/1.m3u8","name":"✈️云星家庭线路"},
+    //{"url": "http://itvbox.cc/tvbox/云星日记/bili.m3u8","name":"⛴️云星哔哩线路"},
+    //{"url": "http://itvbox.cc/tvbox/云星日记/ali.m3u8","name":"🚔云星阿里线路"},
+    //{"url": "http://yydsys.top/duo","name": "🏡多多家庭"},
+
+
+    {"url": "https://raw.liucn.cc/box/m.json","name": "🔞未成年不要往下看🈲"},
+    {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dpigu/4k/main/18.json","name": "🔞福利仓0线路"},
+    {"url": "https://cdn.jsdelivr.net/gh/dpigu/4k/18.json","name": "🔞福利仓1线路"},
+    {"url": "https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt","name": "🔞福利仓2线路"},
+    {"url": "https://cyuan.netlify.app/tvbox/lives/18+/18+千部独家传媒无水印来袭tvlist.txt","name": "🔞福利仓3线路"},
+    {"url": "https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt","name": "🔞福利仓4线路"}
   ]
 }
