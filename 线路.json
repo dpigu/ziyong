@@ -1,32 +1,123 @@
 //以下内容为互联网收集，只为自用……
 {
   "urls": [
-    {"url": "https://jihulab.com/dpigu/ziyong/-/raw/main/4k.json","name": "🚀个人自用"},
-    {"url": "https://jihulab.com/dpigu/ziyong/-/raw/main/4k1.json","name": "🚀闲鱼专用"},
-    {"url": "https://jihulab.com/dpigu/ziyong/-/raw/main/che/ysc.json","name": "🚀折腾内测"},
-    {"url": "https://jihulab.com/dpigu/ziyong/-/raw/main/che/ysc.json","name": "🐼闲鱼购买请加群"},
-    {"url": "https://jihulab.com/dpigu/ziyong/-/raw/main/che/ysc.json","name": "🐼售后QQ群：306953975"},
+    {
+      "url": "https://jihulab.com/dpigu/ziyong/-/raw/main/4k.json",
+      "name": "🚀个人自用"
+    },
+    {
+      "url": "https://jihulab.com/dpigu/ziyong/-/raw/main/4k1.json",
+      "name": "🚀闲鱼专用"
+    },
+    {
+      "url": "https://jihulab.com/dpigu/ziyong/-/raw/main/che/ysc.json",
+      "name": "🚀折腾内测"
+    },
+    {
+      "url": "https://jihulab.com/dpigu/ziyong/-/raw/main/che/ysc.json",
+      "name": "🐼闲鱼购买请加群"
+    },
+    {
+      "url": "https://jihulab.com/dpigu/ziyong/-/raw/main/che/ysc.json",
+      "name": "🐼售后QQ群：306953975"
+    },
 
 
-    {"url": "http://rihou.cc:88/荷城茶秀","name": "🏡荷城茶秀"},
-    {"url": "http://我不是.肥猫.love:63/接口禁止贩卖","name": "🐱肥猫线路"},
-    {"url": "http://饭太硬.top/tv","name": "🍜饭 太 硬"},
-    {"url": "https://fm.t4tv.hz.cz/json/config.json","name": "🍯蜂蜜线路"},
-    {"url": "http://xhww.fun:63/小米/DEMO.json","name": "🍚小米线路"},
-    {"url": "http://home.jundie.top:81/top98.json","name": "🍜俊佬线路"},
-    {"url": "http://52bsj.vip:98/wuai","name": "🌙吾爱线路"},
-    {"url": "https://tvbox.cainisi.cf","name": "🐿️菜 妮 丝"},
-    {"url": "https://raw.liucn.cc/box/m.json","name": "🍳刘备线路"},
-    //{"url": "http://itvbox.cc/tvbox/云星日记/1.m3u8","name":"✈️云星家庭线路"},
-    //{"url": "http://itvbox.cc/tvbox/云星日记/bili.m3u8","name":"⛴️云星哔哩线路"},
-    //{"url": "http://itvbox.cc/tvbox/云星日记/ali.m3u8","name":"🚔云星阿里线路"},
-    //{"url": "http://yydsys.top/duo","name": "🏡多多家庭"},
-
-    {"name": "🔞未成年不要往下看1111🈲","url": "https://raw.liucn.cc/box/m.json"},
-    {"name": "🔞福利0仓","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dpigu/4k/main/18.json"},
-    {"url": "https://cdn.jsdelivr.net/gh/dpigu/4k/18.json","name": "🔞福利1仓"},
-    {"url": "https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt","name": "🔞福利2仓"},
-    {"url": "https://cyuan.netlify.app/tvbox/lives/18+/18+千部独家传媒无水印来袭tvlist.txt","name": "🔞福利3仓"},
-    {"url": "https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt","name": "🔞福利4仓"}
+    {
+      "url": "http://rihou.cc:88/荷城茶秀",
+      "name": "🏡荷城茶秀"
+    },
+    {
+      "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+      "name": "🐱肥猫线路"
+    },
+    {
+      "url": "http://饭太硬.top/tv",
+      "name": "🍜饭 太 硬"
+    },
+    {
+      "url": "https://fm.t4tv.hz.cz/json/config.json",
+      "name": "🍯蜂蜜线路"
+    },
+    {
+      "url": "http://xhww.fun:63/小米/DEMO.json",
+      "name": "🍚小米线路"
+    },
+    {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "🍜俊佬线路"
+    },
+    {
+      "url": "http://52bsj.vip:98/wuai",
+      "name": "🌙吾爱线路"
+    },
+    {
+      "url": "https://tvbox.cainisi.cf",
+      "name": "🐿️菜 妮 丝"
+    },
+    {
+      "url": "https://raw.liucn.cc/box/m.json",
+      "name": "🍳刘备线路"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dpigu/4k/main/18.json",
+      "name": "🔞福利0"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/dpigu/4k/18.json",
+      "name": "🔞福利1"
+    },
+    {
+      "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt",
+      "name": "🔞福利2"
+    },
+    {
+      "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+千部独家传媒无水印来袭tvlist.txt",
+      "name": "🔞福利3"
+    },
+    {
+      "url": "https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt",
+      "name": "🔞福利4"
+    },
+    {
+      "url": "https://pan.css.lc/api/v3/file/get/90002/%E9%A3%9E%E6%9C%BA%E4%BB%9323.txt?sign=TGawyoffB7Ky5LLeND-J0-FiMqcsc1YD5n4QzyCdywY%3D%3A0",
+      "Name": "🏆绿茶1🏆"
+    },
+    {
+      "url": "http://52bsj.vip:81/api/v3/file/get/68875/%E7%BB%BF%E8%8C%B62.txt?sign=LFLHEA346oBByMf_r92ak2OLwWQze5RKcSCeFVfSkgw%3D%3A0",
+      "Name": "🏆绿茶2🏆"
+    },
+    {
+      "url": "http://52bsj.vip:81/api/v3/file/get/67278/%E7%BB%BF%E8%8C%B64.txt?sign=MN_qRMG2fSRvQ38lIGw1alcZrrn07i27A1lVpsdyY7I%3D%3A0",
+      "Name": "🏆绿茶3🏆"
+    },
+    {
+      "url": "http://52bsj.vip:81/api/v3/file/get/71443/%E7%A6%8F%E5%88%A9%E5%8D%95%E4%BB%93.txt?sign=dcjX-jM4UZ34KMCiXtxf2bjnUB2kq85f0N9SI5kjzCg%3D%3A0",
+      "Name": "🏆绿茶4🏆"
+    },
+    {
+      "url": "http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B63.txt?sign=baO6aqW2E4MdRJpIjaJCvuj3UZ2T5lAGp1LlLcM9GPU%3D%3A0",
+      "Name": "🏆绿茶5🏆"
+    },
+    {
+      "url": "https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json",
+      "Name": "🐣牛魔带飞🐣"
+    },
+    {
+      "url": "https://kjsc0310.github.io/tvy/s2.json",
+      "name": "🐣虞姬带飞🐣"
+    },
+    {
+      "url": "https://www.agit.ai/dlee2008/TVBOXZY/raw/commit/f1bd76d8b66ba95f98927c6ae8553dce196de3a7/18.json",
+      "name": "🐣星河带飞🐣"
+    },
+    {
+      "url": "https://www.agit.ai/dlee2008/13800/raw/commit/314f2c309408ef11057ddfe8f588831895c66850/cr/c18.json",
+      "name": "🐣肥猫带飞🐣"
+    },
+    {
+      "url": "https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
+      "name": "🐣1012带飞🐣"
+    }
   ]
 }
