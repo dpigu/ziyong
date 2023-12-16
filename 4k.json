@@ -31,22 +31,6 @@
         "quickSearch": 1,
         "filterable": 0
       },      
-{"key":"csp_SP360","name":"🐼360官源","type":3,
-"playerType":2,
-"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-       
- {"key":"drpy_js_腾云驾雾","name":"🐼腾腾官源","type":3,"playerType":2,
- "api":"https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js","ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"},
-
-{"key":"drpy_js_百忙无果","name":"🐼芒芒官源","type":3,"playerType":2,
-"api":"https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js","ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"},
-
-{"key":"drpy_js_奇珍异兽","name":"🐼艺艺官源","type":3,"playerType":2,
-"api":"https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js","ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"},
-
-{"key":"drpy_yh","name":"🐼优优官源","type":3,"playerType":2,"api":"https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js","ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E4%BC%98%E9%85%B7.js"},
-
-{"key":"drpy_js_菜狗","name":"🐼狗狗官源","type":3,"playerType":2,"api":"https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js","ext":"https://codeberg.org/ymz123/ymz/raw/branch/main/json/%E8%8F%9C%E7%8B%97.js"},  
 {"key":"csp_Kunyu77","name":"🐼七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
  {"key":"csp_Czsapp","name":"🐼厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy88.com"},
 {"key":"忍者","name":"🐼疯子忍者","type":3,"api":"csp_Mayiys","jar":"https://download.kstore.space/download/3313/VIP/Appmao.jar","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://rzys.xyz"},
