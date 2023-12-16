@@ -14,7 +14,7 @@
 "sites":[
     {
         "key": "豆豆",
-        "name": "🐼闲鱼：疯子杂货铺，更新日期：2023年12月10日",
+        "name": "🐼闲鱼：疯子杂货铺，更新日期：2023年12月16日",
         "type": 3,
         "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
         "api": "csp_DouDou",
@@ -1021,35 +1021,6 @@
 
 {"name":"超解析","type":3,"url":"Demo"},
 {"name":"超嗅探","type":3,"url":"Web"},
-
- {
-        "name": "KK",
-        "type": 1,
-        "url": "http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","ext": {
-            "flag": [ "xinvip", "XYYDS"],"header":{"User-Agent":"okhttp/3.12.11"}
-        }    
-    },
-        
- {
-        "name": "SMD",
-        "type": 1,
-        "url": "http://110.42.2.247:880/analysis/json/?uid=2486&my=dmstxABDFIKLQRUVW8&format=json&url=","ext": {
-            "flag": ["SMD"],"header":{"User-Agent":"okhttp/4.1.0"}
-        }    
-    },
-      {
-      "name": "玉米",
-      "type": 1,
-      "url": "http://110.42.3.71:5000/api/jiexi/common?Key=LMo8E4YGA8q7smoL4F&url=",
-      "ext": {
-        "flag": [
-          "YuMi-vip"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
 {"name": "疯子超解析", "type": 1, "url": "https://api.json.icu/api/?key=c60086bb91997b98358194263f13e670&url=",
         "ext":{"flag":["qq",
                     "腾讯",
@@ -1126,15 +1097,6 @@
             "flag": ["YuMi","SMD","FYNB","qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/3.12.11"}
         } 
     },       
-
-   {
-        "name": "高清解析",
-        "type": 1,
-        "url": "https://cache.json.icu/s1804857380.php?url=",
-        "ext": {
-            "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"Dart/2.17 (dart:io)"}
-        } 
-    },
       {
             "name": "腾讯专用",
             "type": "1",
@@ -1144,88 +1106,7 @@
                     "qq"
                 ]
             }
-        },
-{
-        "name": "百家",
-        "type": 1,
-        "url": "https://jiexi.fshnf.com/api/?cat_ext=eyJoZWFkZXIiOiB7IlVzZXItQWdlbnQiOiIiLCJDb29raWUiOiJDb29raWU6QkRVU1M9cDVjbXc1TWpRd1JVcC1ZMUZxTldJek1XTm1aMXBFY0ZGTGIwOHRaakZRVTBsRGNUbGpPVmc1VlZORVpFSnJTVUZCUVVGQkpDUUFBQUFBQVFBQUFBRUFBQUF1d1lkLXp0S3dyckc4czl0TlNXNXBBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCS0FxR1FTZ0toa2ZsOyAifSwiZmxhZyI6&key=7ee08b132a80e1f9528e62486714618b&url=",
-        "ext": {
-            "flag": [ "XMFK", "XZYFK", "LK"],"header":{"User-Agent":"okhttp/4.1.0"}
-        }    
-    },  
-{"name":"高清解析1","type":1,"url":"http://121.4.51.101:86/api/?key=xrRsB3wqajOWQZpbhJ&url=",
-        "ext":{"flag":["qq",
-                    "腾讯",
-                    "企鹅",
-                    "IQiYi",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "YouKu",
-                    "优酷",
-                    "sohu",
-                    "SoHu",
-                    "搜狐",
-                    "letv",
-                    "LeShi",
-                    "乐视",
-                    "imgo",
-                    "mgtv",
-                    "MangGuo",
-                    "芒果",
-                    "SLYS4k",
-                    "BYGA",
-                    "luanzi",
-                    "AliS",
-                    "dxzy",
-                    "bilibili",
-                    "QEYSS",
-                    "xigua",
-                    "西瓜视频",
-                    "腾讯视频",
-                    "奇艺视频",
-                    "优酷视频",
-                    "芒果视频",
-                    "乐视视频"
-                    ],"header":{"User-Agent":"Dart/3.0(dart:io)"}}},  
-
-    {"name":"高清解析2","type":1,"url":"http://42.51.37.161:5678/json/520239app9/gf2.php?url=","ext":{"flag":["qq",
-                    "腾讯",
-                    "企鹅",
-                    "IQiYi",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "YouKu",
-                    "优酷",
-                    "sohu",
-                    "SoHu",
-                    "搜狐",
-                    "letv",
-                    "LeShi",
-                    "乐视",
-                    "imgo",
-                    "mgtv",
-                    "MangGuo",
-                    "芒果",
-                    "SLYS4k",
-                    "BYGA",
-                    "luanzi",
-                    "AliS",
-                    "dxzy",
-                    "bilibili",
-                    "QEYSS",
-                    "xigua",
-                    "西瓜视频",
-                    "腾讯视频",
-                    "奇艺视频",
-                    "优酷视频",
-                    "芒果视频",
-                    "乐视视频"
-                    ],"header":{"User-Agent":"Dart/3.0(dart:io)"}}},  
-     {"name": "仓蓝全能嗅探", "type": 0, "url": "https://www.youleshi.cn/player/?url=","ext":{"flag":["canglan"],"header":{"User-Agent":"okhttp/4.1.0"}}},                
+        },              
     {"name":"高清嗅探","type":0,"url":"https://jx.777jiexi.com/player/?next=https://www.woaimoon.com/vod/98780-9-3.html&url=","ext":{"flag":["qq",
                     "腾讯",
                     "企鹅",
@@ -1261,17 +1142,6 @@
                     "芒果视频",
                     "乐视视频"
                     ],"header":{"User-Agent":"Dart/3.0(dart:io)"}}},  
-    {
-      "name": "初恋",
-      "type": 0,
-      "url": "http://8.130.74.107:6080/?url=",
-      "ext": {
-        "flag": ["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","bilibili","哔哩哔哩","哔哩","imgo","mgtv","芒果"],
-        "header": {
-          "User-Agent": "Dart/2.14 (dart:io)"
-        }
-      }
-    }, 
     {"name": "777解析","type": 0,"url": "https://jx.777jiexi.com/player/?url=","ext":{"flag":["qq",
                     "腾讯",
                     "企鹅",
@@ -1343,7 +1213,7 @@
                     "芒果视频",
                     "乐视视频"
                     ],"header":{"User-Agent":"Dart/3.0(dart:io)"}}},  
-    {"name":"🐱夜幕/", "type":0,"url":"https://www.yemu.xyz/?url=", "ext":{"flag":["qq",
+    {"name":"🐱夜幕", "type":0,"url":"https://www.yemu.xyz/?url=", "ext":{"flag":["qq",
                     "腾讯",
                     "企鹅",
                     "IQiYi",
