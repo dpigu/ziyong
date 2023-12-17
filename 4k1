@@ -35,9 +35,9 @@
                  "ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod",
       "categories":["短剧","连续剧","电影","动漫","少儿频道","综艺"]
              },
-{"key":"侠客","name":"👑侠客影视👑","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"ext":"https://codeberg.org/ymz123/ymz/raw/branch/main/js/侠客.txt"},
-{"key":"超","name":"👑超神影视👑","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"ext":"https://codeberg.org/ymz123/ymz/raw/branch/main/js/超神.txt"},
-{"key":"星星","name":"👑星星影视👑","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"ext":"https://codeberg.org/ymz123/ymz/raw/branch/main/js/星星.txt"},
+{"key":"侠客","name":"👑侠客影视👑","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"ext":"./YM/lib/侠客.txt"},
+{"key":"超","name":"👑超神影视👑","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"ext":"./YM/lib/超神.txt"},
+{"key":"星星","name":"👑星星影视👑","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"ext":"./YM/lib/星星.txt"},
 {"key":"新南瓜","name":"👑南瓜影院👑","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1},
 {"key":"天天","name":"👑天天影视👑","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"ext":"http://op.ysdqjs.cn"},
 {"key":"星奇","name":"👑星奇影视👑","type":3,"jar":"./YM/lib/Appmao.jar","api":"csp_Appto","playerType":2,"ext":"DRKzxyMKvtSwY8KlZf2E0UaodOFwpc55fZ8i/57cIgQJHQLy6PnKLAAj9UrkpoexlNCAomzVttbI6D6TEnlHNVDqRhIQqGlHt8m6PjVxP7PSlmraDar52uqEU7UXaaV+UGqz0bc9q95VVRMK4uX5l674wT+p5Cp2QGr1D24Uz7QNkA6GgkDGW/ezLoYsXUCc7xsDK5ev51cJxn0cIJClFysrOGsTvyLYjYIF2ktu+F36QVcAsAvA6Jpyz2hSTlWadidOt2m81TA5yrfAKjBILuQ63gcnyXh6SH9VjER5dL2KD8iTVBAN3L9TlQqDHPr64N0D6mAldXLMYJM/RrTUznCbIno7V/eTT+YqnLWNekVigNB8Q7Fp3WgMYfk73VYcOqPKO2qwQWyJqaQDW4Uo7nFrQWttqYAwWEDhjM/ABuYLkLX9V83/QFOPkhBJZ+eQoqsiVP3ZugFGB5/XuVZkoYWaG00BRQ3j55vTflJ2ne0WQcFAj6GcYNLodkII4Ji53kVoL+w55Cc9PmtSR1tynlWDylYBfkJbtDOJSuEUKDnKiD/ZFqMAejQFV9EcZr1g6QbLIf/FRldeLYRxsYsWPFc2STqEdgGA+osyO/zzyaeZLH5AJ02l7kKyMxKMPaRF2MGX1DPnZHrbXA4u0A5Vy3M3IMFNZaR0f08C4KDDi1xY="
@@ -51,7 +51,7 @@
             "api": "./YM/lib/drpy2.min.js",                     "changeable": 0,
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "https://codeberg.org/ymz123/ymz/raw/branch/main/js/%E8%BF%BD%E5%BF%86%E5%BD%B1%E8%A7%86.js"},
+            "ext": "./YM/lib/%E8%BF%BD%E5%BF%86%E5%BD%B1%E8%A7%86.js"},
 	{
   "key": "南坊app",
   "name": "👑南坊影院👑",
