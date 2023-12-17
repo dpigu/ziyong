@@ -12,25 +12,6 @@
   }
 ],
 "sites":[
-    {
-        "key": "豆豆",
-        "name": "闲鱼：疯子杂货铺，更新日期：2023年12月18日",
-        "type": 3,
-        "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
-        "api": "csp_DouDou",
-        "searchable": 0,
-        "quickSearch": 0,
-        "filterable": 0
-      },
-      {
-        "key": "js豆瓣备用",
-        "name": "VIP专享",
-        "type": 3,
-        "api": "./js/doubanbf.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0
-      }, 
 {"key":"csp_SP360","name":"360官源","type":3,
 "playerType":2,
 "api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
