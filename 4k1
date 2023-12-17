@@ -1,16 +1,6 @@
  {"spider":"./YM/xymz.jar",
 "warningText":"疯子杂货铺提醒您:本接口长期更新，请放心使用",
 "wallpaper": "https://yun.chuqiuyu.tk",
-"lives": [
-  {
-    "name": "live",
-    "type": 0,
-    "url": "http://fengzi.x3322.net:55244/d/%E5%AA%92%E4%BD%93%E5%BA%93/TVBox/pro.txt",
-    "playerType": 1,
-    "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
-    "logo": "https://upload.112114.xyz/logo/{name}.png"
-  }
-],
 "sites":[
 {"key":"csp_SP360","name":"360官源","type":3,
 "playerType":2,
