@@ -152,7 +152,7 @@
  {"key":"零柒",
         "name":"👑零柒影视👑",
         "type":1,
-        "api":"http://xzcjz.com/api.php/provide/vod/at/json",
+        "api":"./YM/lib/json",
         "searchable":1,
         "changeable":1,
         "quickSearch":1,
