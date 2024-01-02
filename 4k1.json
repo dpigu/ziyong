@@ -12,25 +12,8 @@
   }
 ],
 "sites":[
-    {
-        "key": "豆豆",
-        "name": "🐼闲鱼：疯子杂货铺，更新日期：2023年12月16日",
-        "type": 3,
-        "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
-        "api": "csp_DouDou",
-        "searchable": 0,
-        "quickSearch": 0,
-        "filterable": 0
-      },
-      {
-        "key": "js豆瓣备用",
-        "name": "🐼VIP专享🐼",
-        "type": 3,
-        "api": "./js/doubanbf.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0
-      }, 
+  {"key":"蝴蝶","name": "🐼闲鱼：疯子杂货铺，更新日期：2023年12月16日","type":3,"api":"csp_Hudie","playerType":2,"ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"},
+
 {"key":"csp_SP360","name":"🐼360官源🐼","type":3,
 "playerType":2,
 "api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
@@ -50,7 +33,6 @@
 {"key":"csp_Kunyu77","name":"🐼七七影视🐼","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
  {"key":"csp_Czsapp","name":"🐼厂长资源🐼","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy33.com/"},
 {"key":"忍者","name":"🐼疯子忍者🐼","type":3,"api":"csp_Mayiys","jar":"./YM/lib/Appmao.jar","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://rzys.xyz"},
-{"key":"蝴蝶","name":"🐼蝴蝶影视🐼","type":3,"api":"csp_Hudie","playerType":2,"ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"},
  {
                "key":"瑞丰",
                "name":"🐼瑞丰影视🐼",
