@@ -249,7 +249,6 @@
     \"播放数组\":\"class=\\\"stui-content__playlist&&</ul>\",
     \"分类\":\"动漫$3#电影$1#电视剧$2#综艺$4\",
     \"分类url\":\"http://dyxz.tv/list/{cateId}_{catePg}.html\"}"},
-{"key":"csp_CandyMuj_sstv","name":"🐼速搜影院🐼","type":3,"api":"csp_CandyMuj_sstv","jar":"./YM/lib/ss.jar?ref_type=heads&inline=false","searchable":1,"quickSearch":0,"filterable":1},
               
      {
             "key": "AppYs_南瓜",
