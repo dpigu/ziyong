@@ -17,7 +17,7 @@
         "key": "js豆瓣备用",
         "name": "🍥┃TVBox专享",
         "type": 3,
-        "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/doubanbf.js",
+        "api": "./js/doubanbf.js",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0
@@ -145,11 +145,11 @@
         "key": "js_nangua",
         "name": "🎃┃南瓜",
         "type": 3,
-        "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+        "api": "./js/drpy2.min.js",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/nangua.js"
+        "ext": "./js/nangua.js"
       },
       {
         "key":"t4_wo",
@@ -168,7 +168,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/小鹿影视.json"
+        "ext": "./json/小鹿影视.json"
       },
          {
         "key": "csp_万达",
@@ -178,7 +178,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/万达影视.json"
+        "ext": "./json/万达影视.json"
       },
       {
         "key": "Mino",
@@ -215,18 +215,18 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/dyg.json",
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/libs/spider-b.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+        "ext": "./json/dyg.json",
+        "jar": "./libs/spider-b.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
       },
        {
         "key": "js_6V",
         "name": "✡️┃六维",
         "type": 3,
-        "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+        "api": "./js/drpy2.min.js",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/6V.js"
+        "ext": "./js/6V.js"
       },
       {
         "key": "玩偶哥哥",
@@ -247,7 +247,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/子子影视.json"
+        "ext": "./json/子子影视.json"
       },
       {
         "key": "csp_XBPQ_haoxi",
@@ -257,51 +257,51 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/好戏.json"
+        "ext": "./json/好戏.json"
       },
         {
         "key": "csp_星辰",
         "name": "⭐┃星辰",
         "type": 3,
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/H.jar",
+        "jar": "./jar/H.jar",
         "api": "csp_XBPQ",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/星辰影视.json"
+        "ext": "./json/星辰影视.json"
       },
         {
         "key": "csp_干饭",
         "name": "🍱┃干饭",
         "type": 3,
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/H.jar",
+        "jar": "./jar/H.jar",
         "api": "csp_XBPQ",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/干饭影视.json"
+        "ext": "./json/干饭影视.json"
       },
       {
         "key": "csp_xBPQ_疯狗",
         "name": "🐕┃疯狗",
         "type": 3,
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/H.jar",
+        "jar": "./jar/H.jar",
         "api": "csp_XBPQ",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/疯狗影视.json"
+        "ext": "./json/疯狗影视.json"
       },
         {
         "key": "csp_盒子",
         "name": "🍁┃电盒",
         "type": 3,
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/H.jar",
+        "jar": "./jar/H.jar",
         "api": "csp_XBPQ",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/电影盒子.json"
+        "ext": "./json/电影盒子.json"
       },
         {
         "key": "皮皮虾",
@@ -417,7 +417,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/98影视.json"
+        "ext": "./json/98影视.json"
       },
         {
         "key": "csp_七新",
@@ -427,7 +427,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/七新影视.json"
+        "ext": "./json/七新影视.json"
       },
         {
         "key": "csp_爱看",
@@ -437,7 +437,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/爱看影视.json"
+        "ext": "./json/爱看影视.json"
       },
       {"key":"奈落","name":"🍂┃奈落","type":3,"api":"csp_XBPQ","ext":{"线路数组":"data-dropdown-value=&&</div>","播放数组":"<div class=\"scroll-content&&</div>","线路标题":"耐落-+<span>&&</small>[替换:</span><small>>>共]+集","分类url":"https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#综艺$4#动漫$3"}},
       {
@@ -449,25 +449,25 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/往往影视.json"
+        "ext": "./json/往往影视.json"
       },
       {
         "key": "csp_日后",
         "name": "🌜┃348",
         "type": 3,
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/H.jar",
+        "jar": "./jar/H.jar",
         "api": "csp_XBPQ",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/348影视.json"
+        "ext": "./json/348影视.json"
       },
        {
         "key": "蜗牛弹幕",
         "name": "🐌┃蜗牛",
         "type": 3,
         "api": "csp_XBPQ",
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/蜗牛.json"
+        "ext": "./json/蜗牛.json"
       },
        {
         "key": "XBPQ_一只蜗",
@@ -475,7 +475,7 @@
         "type": 3,
         "api": "csp_XBPQ",
         "playerType": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/一只蜗.json"
+        "ext": "./json/一只蜗.json"
       },
       {
         "key": "玉米",
@@ -579,29 +579,29 @@
         "jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
         "playerType": "2",
         "api": "csp_XBPQ",
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/黑狐影院.json"
+        "ext": "./json/黑狐影院.json"
       },
       {
         "key": "csp_101",
         "name": "🛎┃LOL",
         "type": 3,
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/H.jar",
+        "jar": "./jar/H.jar",
         "api": "csp_XBPQ",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/LOL.json"
+        "ext": "./json/LOL.json"
       },
       {
         "key": "csp_圣城",
         "name": "🏰┃圣城",
         "type": 3,
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/H.jar",
+        "jar": "./jar/H.jar",
         "api": "csp_XBPQ",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/圣城影视.json"
+        "ext": "./json/圣城影视.json"
       },
         {
         "key": "csp_威士",
@@ -611,7 +611,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/vs影视.json"
+        "ext": "./json/vs影视.json"
       },
        {
         "key": "csp_xBPQ_奇优",
@@ -621,7 +621,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/奇优影视.json"
+        "ext": "./json/奇优影视.json"
       },
       {
         "key": "csp_兔年",
@@ -631,7 +631,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/YYDS影视.json"
+        "ext": "./json/YYDS影视.json"
       },
       
       {
@@ -639,17 +639,17 @@
         "name": "🦢┃小白",
         "type": 3,
         "api": "csp_XBPQ",
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/素白白.json"
+        "ext": "./json/素白白.json"
       },
         {
         "key": "js_bzys",
         "name": "🌋┃B站",
         "type": 3,
-        "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+        "api": "./js/drpy2.min.js",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/bzys.js"
+        "ext": "./js/bzys.js"
       },
        {
         "key": "🌡csp_米爱影视",
@@ -659,17 +659,17 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/米爱.json"
+        "ext": "./json/米爱.json"
       },
        {
         "key": "js_mogu",
         "name": "🍄┃蘑菇",
         "type": 3,
-        "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+        "api": "./js/drpy2.min.js",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/蘑菇.js"
+        "ext": "./js/蘑菇.js"
       },
         {
         "key": "csp_AppMr",
@@ -771,7 +771,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/新6v.json"
+        "ext": "./json/新6v.json"
       },
        
      
@@ -791,7 +791,7 @@
         "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
         "api": "csp_XBPQ",
         "playerType": "1",
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/耐看.json"
+        "ext": "./json/耐看.json"
       },
       {
         "key": "速搜",
@@ -799,7 +799,7 @@
         "type": 3,
         "api": "csp_XBPQ",
         "playerType": "1",
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/2.jar;md5;d86999aba43144a25646757a06363b8f",
+        "jar": "./jar/2.jar;md5;d86999aba43144a25646757a06363b8f",
         "ext": {
           "数组": "class=\"top&&</li",
           "请求头": "AppleCoreMedia/1.0.0.17D50 (iPhone; U; CPU OS 13_3_2 like Mac OS X; zh_cn)",
@@ -863,7 +863,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/柒月.json"
+        "ext": "./json/柒月.json"
       },
       {
         "key": "DiDuan",
@@ -882,7 +882,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/达达龟.json"
+        "ext": "./json/达达龟.json"
       },
       {
         "key": "世界",
@@ -899,11 +899,11 @@
         "key": "js_农民",
         "name": "👨‍🌾┃农民",
         "type": 3,
-        "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+        "api": "./js/drpy2.min.js",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/nongmin.js"
+        "ext": "./js/nongmin.js"
       },
       {
         "key": "zxzj",
@@ -928,52 +928,52 @@
         "key": "js_Lib",
         "name": "🍲┃利奥",
         "type": 3,
-        "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.js",
+        "api": "./js/drpy2.js",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/libvio.js"
+        "ext": "./js/libvio.js"
       },
       {
         "key": "XYQH_电影港",
         "name": "🚢┃港口",
         "type": 3,
         "playerType": 1,
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/libs/spider-f.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+        "jar": "./libs/spider-f.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
         "api": "csp_XYQHiker",
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/电影港.json"
+        "ext": "./json/电影港.json"
       },
       {
         "key": "蚂蚁",
         "name": "🐜┃蚂蚁",
         "type": 3,
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/H.jar",
+        "jar": "./jar/H.jar",
         "api": "csp_XPathAli",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/蚂蚁磁力.json"
+        "ext": "./json/蚂蚁磁力.json"
       },
      
        {
         "key": "js_磁力熊",
         "name": "🐻‍┃贝尔",
         "type": 3,
-        "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+        "api": "./js/drpy2.min.js",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/bear.js"
+        "ext": "./js/bear.js"
       },
       {
         "key": "js_酷吧",
         "name": "😎┃酷吧",
         "type": 3,
-        "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+        "api": "./js/drpy2.min.js",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/kuba.js"
+        "ext": "./js/kuba.js"
       },
       {
         "key": "csp_SeedHub",
@@ -984,7 +984,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/83.jar"
+        "jar": "./jar/83.jar"
       },
       {
         "key": "bdcili",
@@ -996,8 +996,8 @@
         "filterable": 1,
         "playerType": 1,
         "parse": 0,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/bd.json",
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/cl.jar"
+        "ext": "./json/bd.json",
+        "jar": "./jar/cl.jar"
       },
       {
         "key": "csp_XYQHiker_BT天堂",
@@ -1007,8 +1007,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/BT天堂.json",
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/83.jar"
+        "ext": "./json/BT天堂.json",
+        "jar": "./jar/83.jar"
       },
       {
         "key": "csp_XYQHiker_极影网",
@@ -1018,7 +1018,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/极影网.json",
+        "ext": "./json/极影网.json",
         "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
       },
         {
@@ -1029,7 +1029,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/歪片星球.json"
+        "ext": "./json/歪片星球.json"
       },
         {
         "key": "影图",
@@ -1057,23 +1057,23 @@
         "api": "csp_AListxy",
         "searchable": 1,
         "quickSearch": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/Alistxy.json",
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/AListxy.jar"
+        "ext": "./json/Alistxy.json",
+        "jar": "./jar/AListxy.jar"
       },
      
       {
         "key": "drpy_js_首播影院",
         "name": "👌┃首播",
         "type": 3,
-        "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/首播.js"
+        "api": "./js/drpy2.min.js",
+        "ext": "./js/首播.js"
       },
       {
         "key": "js_v2-yj",
         "name": "🌙┃专享",
         "type": 3,
-        "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/yyttzx.js"
+        "api": "./js/drpy2.min.js",
+        "ext": "./js/yyttzx.js"
       },
       {
         "key": "骑骑影院",
@@ -1297,7 +1297,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "api": "csp_XYQHiker",
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/libs/spider-f.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+        "jar": "./libs/spider-f.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
         "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/VS影院.json"
       },
         {
@@ -1316,8 +1316,8 @@
         "key": "js_荐片",
         "name": "🏩┃推荐",
         "type": 3,
-        "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/荐片.js",
+        "api": "./js/drpy2.min.js",
+        "ext": "./js/荐片.js",
         "playerType": 1,
         "searchable": 1,
         "quickSearch": 1,
@@ -1328,8 +1328,8 @@
         "key": "童趣",
         "name": "🍭┃童趣┃儿童",
         "type": 3,
-        "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/童趣.js"
+        "api": "./js/drpy2.min.js",
+        "ext": "./js/童趣.js"
       },
       {
         "key": "Zhaozy",
@@ -1454,7 +1454,7 @@
         "quickSearch": 1,
         "filterable": 0,
         "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
+        "jar": "./jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
       },
       {
         "key": "PanSearch",
@@ -1465,7 +1465,7 @@
         "quickSearch": 1,
         "filterable": 0,
         "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
+        "jar": "./jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
       },
       {
         "key": "Zhaozy",
@@ -1476,7 +1476,7 @@
         "quickSearch": 1,
         "filterable": 0,
         "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357",
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
+        "jar": "./jar/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
       },
       {
         "key": "csp_MeiJu69",
@@ -1533,18 +1533,18 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 0,
-        "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/spider-f.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/虎牙.json"
+        "jar": "./js/spider-f.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+        "ext": "./json/虎牙.json"
       },
       {
         "key": "js_斗鱼直播",
         "name": "🦈┃斗鱼┃直播",
         "type": 3,
-        "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy2.min.js",
+        "api": "./js/drpy2.min.js",
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 0,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/斗鱼.js"
+        "ext": "./js/斗鱼.js"
       },
       {
         "key": "csp_鹅直播",
@@ -1554,7 +1554,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 0,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/qie.json"
+        "ext": "./json/qie.json"
       },
       {
         "key": "csp_17看球",
@@ -1564,7 +1564,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 0,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/看球.json"
+        "ext": "./json/看球.json"
       },
       {
         "key": "歌手_MV",
@@ -1582,14 +1582,14 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/哔哩PS.json"
+        "ext": "./json/哔哩PS.json"
       },
       {
         "key": "dr_兔小贝",
         "name": "📚儿童┃启蒙",
         "type": 3,
-        "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/drpy1.min.js",
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/js/兔小贝.js",
+        "api": "./js/drpy1.min.js",
+        "ext": "./js/兔小贝.js",
         "style": {
           "type": "rect",
           "ratio": 1.597
@@ -1611,7 +1611,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "changeable": 0,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/少儿教育.json"
+        "ext": "./json/少儿教育.json"
       },
       {
         "key": "小学课堂",
@@ -1626,7 +1626,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "changeable": 0,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/小学课堂.json"
+        "ext": "./json/小学课堂.json"
       },
       {
         "key": "初中课堂",
@@ -1641,7 +1641,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "changeable": 0,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/初中课堂.json"
+        "ext": "./json/初中课堂.json"
       },
       {
         "key": "高中教育",
@@ -1656,7 +1656,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "changeable": 0,
-        "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/json/高中课堂.json"
+        "ext": "./json/高中课堂.json"
       }
     ],
   
@@ -2393,7 +2393,7 @@
         }
     ],
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "https://jihulab.com/dpigu/ziyong/-/raw/main/jar/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
+    "spider": "./jar/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
     "lives": [
       {
         "name": "live",
