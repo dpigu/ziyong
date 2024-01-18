@@ -671,10 +671,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "cc94f11e4c3e46f79d6a35dde2828fb6$$$https://wobge.run.goorm.io$$$1",
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹",
      "jar":"./YM/lib/bulei.jar"
     }, 
-    {"key":"yc","name":"🐼疯子影巢4K🐼","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"cc94f11e4c3e46f79d6a35dde2828fb6","jar":"./YM/lib/ycai.jar"},     
+    {"key":"yc","name":"🐼疯子影巢🐼","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"cc94f11e4c3e46f79d6a35dde2828fb6","jar":"./YM/lib/ycai.jar"},     
     
     {"key": "csp_XYQHikerAL_玩偶哥哥","name":"🐼玩偶香佬🐼","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./YM/lib/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"},
     
@@ -701,13 +701,6 @@
       
      {"key":"csp_JianPian","name":"🐼荐片蓝光🐼","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
     	
- {
-			"key": "py_央视片库",
-			"name": "🐼cctv片库🐼",
-			"type": 3,"playerType":2,
-			"api": "py_cctv",
-			"ext": "./YM/lib/%E5%A4%AE%E8%A7%86%E7%89%87%E5%BA%93.py"},
-			
   {
 		"key": "app_快看",
 		"name": "️🐼快看采集🐼",
