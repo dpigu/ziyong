@@ -658,16 +658,6 @@
             
                   	
    {"key":"csp_appysv2_迷你库","name":"🐼疯子迷你🐼","type":3,"playerType":2,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/"},           
-   {
-    "key": "Wogg",
-    "name": "🅱️玩偶哥哥|T追剧",
-    "type": 3,
-    "api": "csp_XPathAli",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "http://rihou.cc:88/荷城茶秀/hccx/玩偶哥哥.json"
-  },  
     { "key": "玩偶内置", "name": "🐼俊佬玩偶🐼", "type": 4,"playerType":1,  "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=cc94f11e4c3e46f79d6a35dde2828fb6"},
@@ -680,7 +670,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "cc94f11e4c3e46f79d6a35dde2828fb6$$$https://www.wogg.xyz/$$$弹",
+      "ext": "cc94f11e4c3e46f79d6a35dde2828fb6$$$https://www.wogg.xyz/$$$1",
      "jar":"./YM/lib/bulei.jar"
     }, 
     {"key":"yc","name":"🐼疯子影巢🐼","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"cc94f11e4c3e46f79d6a35dde2828fb6","jar":"./YM/lib/ycai.jar"},     
