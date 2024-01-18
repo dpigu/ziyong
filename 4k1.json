@@ -659,17 +659,6 @@
     { "key": "玩偶内置", "name": "🐼俊佬玩偶🐼", "type": 4,"playerType":1,  "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=cc94f11e4c3e46f79d6a35dde2828fb6"},
-{
-  "key": "csp_WoGG",
-  "name": "👽玩偶哥哥👽",
-  "type": 3,
-  "api": "csp_Wobg",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0, 
-  "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹",
-  "jar": "https://gitcode.net/u012349622/js/-/raw/master/xx/fan.txt?inline=false;md5;4ceefaa8f9f80595929da0af9159645b"
-},
     {
       "key": "csp_WoGG",
       "name": "🐼玩偶哥哥🐼",
