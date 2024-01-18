@@ -660,10 +660,10 @@
             "quickSearch": 1,
             "filterable": 0,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=cc94f11e4c3e46f79d6a35dde2828fb6"},
 {
-  "key": "玩偶哥哥",
+  "key": "csp_WoGG",
   "name": "👽玩偶哥哥👽",
   "type": 3,
-  "api": "csp_WoGG",
+  "api": "csp_Wobg",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0, 
