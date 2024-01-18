@@ -654,9 +654,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./YM/lib/%E7%9F%AD%E5%89%A7.json"},     
-               
-            
-                  	
+                    	
    {"key":"csp_appysv2_迷你库","name":"🐼疯子迷你🐼","type":3,"playerType":2,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/"},           
     { "key": "玩偶内置", "name": "🐼俊佬玩偶🐼", "type": 4,"playerType":1,  "searchable": 1,
             "quickSearch": 1,
