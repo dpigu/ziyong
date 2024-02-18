@@ -117,17 +117,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "ext": "./YM/lib/zanzan.js"},    
-          
-            {
-            "key": "飞云",
-            "name": "🐼疯子飞云🐼",
-            "type": 3,
-            "playerType":2,
-            "api": "./YM/lib/drpy2.min.js",                     "changeable": 0,
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "./YM/lib/fy.js"},
-   
     {
       "key": "嘿嘿",
       "name": "🐼嘿嘿影视🐼",
