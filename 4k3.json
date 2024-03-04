@@ -1264,53 +1264,13 @@
         "type": "list"
       },
       "timeout": 30
-    },
-    {
-      "key": "push_agent10",
-      "name": "摸摸🐼 | 公众号：小鱼也是鱼",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/TV/token.txt"
-    },
-    {
-      "key": "push_agent9",
-      "name": "导航 | http://我不是.摸鱼儿.top",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/TV/token.txt"
-    },
-    {
-      "key": "push_agent0",
-      "name": "数据源于互联网搜索仅供测试｜请于24小时内删除测试内容",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/TV/token.txt"
-    },
-    {
-      "key": "push_agent2",
-      "name": "QQ群536992286|更多优质资源尽在夕颜社区",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/TV/token.txt"
     }
   ],
   "lives": [
     {
       "name": "SAO0",
       "type": 0,
-      "url": "http://我不是.摸鱼儿.top/live.php",
+      "url": "http://fengzi.x3322.net:55244/d/%E6%9C%AC%E5%9C%B0%E8%B5%84%E6%BA%90/TVBox/mylive.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -1333,7 +1293,7 @@
       "url": "Demo"
     },
     {
-      "name": "摸鱼儿",
+      "name": "神秘哥哥",
       "type": 1,
       "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
       "ext": {
@@ -1368,7 +1328,7 @@
       }
     },
     {
-      "name": "免费分享",
+      "name": "虾米解析",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
