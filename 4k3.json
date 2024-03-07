@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "豆瓣推荐-0306更新",
+      "name": "豆瓣推荐-0307更新",
       "type": 3,
       "api": "csp_DouDou",
       "jar": "http://我不是.摸鱼儿.top/0304/jar/mywo.php",
@@ -36,7 +36,7 @@
     },
     {
       "key": "直播转点播",
-      "name": "电视直播",
+      "name": "摸鱼电视",
       "type": 3,
       "api": "http://我不是.摸鱼儿.top/0304/js/moyulive.js",
       "searchable": 0,
@@ -69,18 +69,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/TV/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/TV/token.txt+4k|auto|fhd$$$https://api.wogg.link/$$$弹"
     },
     {
-      "key": "csp_appys_影盒",
-      "name": "💯影探【纯净】4K",
+      "key": "Fangniu4k",
+      "name": "💯放牛【纯净】4K",
       "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "http://www.lyyytv.cn/yt/yt.jar",
+      "api": "csp_Fangniu4k",
+      "jar": "http://我不是.摸鱼儿.top/0304/jar/myyt.php",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cms137.lyyytv.cn/api.php/app/"
+      "changeable": 0
     },
     {
       "key": "土豆弹幕",
@@ -289,7 +287,7 @@
     },
     {
       "key": "荐片dm",
-      "name": "蓝光🐼荐片|在线",
+      "name": "🐼荐片|在线",
       "type": 3,
       "api": "csp_Jianpian",
       "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
@@ -303,7 +301,7 @@
     },
     {
       "key": "大师兄js",
-      "name": "蓝光🐼大师兄|在线",
+      "name": "🐼大师兄|在线",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -314,7 +312,7 @@
     },
     {
       "key": "达达龟js",
-      "name": "蓝光🐼达达龟|在线",
+      "name": "🐼达达龟|在线",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -325,7 +323,7 @@
     },
     {
       "key": "茶杯狐",
-      "name": "蓝光🐼茶杯狐|在线",
+      "name": "🐼茶杯狐|在线",
       "type": 3,
       "api": "https://raw.cachefly.998111.xyz/ouhaibo1980/tvbox/master/js/nxog.js",
       "searchable": 1,
@@ -335,7 +333,7 @@
     },
     {
       "key": "大米星球",
-      "name": "蓝光🐼大米|在线",
+      "name": "🐼大米|在线",
       "type": 3,
       "api": "https://raw.cachefly.998111.xyz/ouhaibo1980/tvbox/master/js/nxog.js",
       "searchable": 1,
@@ -345,7 +343,7 @@
     },
     {
       "key": "libvio_js",
-      "name": "蓝光🐼利播|在线",
+      "name": "🐼利播|在线",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -356,7 +354,7 @@
     },
     {
       "key": "nmys_js",
-      "name": "蓝光🐼农民|在线",
+      "name": "🐼农民|在线",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -367,7 +365,7 @@
     },
     {
       "key": "厂长弹幕版",
-      "name": "蓝光🐼厂长|弹幕",
+      "name": "🐼厂长|弹幕",
       "type": 3,
       "api": "csp_Czzy",
       "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
@@ -381,7 +379,7 @@
     },
     {
       "key": "天天",
-      "name": "蓝光🐼天天|弹幕",
+      "name": "🐼天天|弹幕",
       "type": 3,
       "api": "csp_TTian",
       "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
@@ -390,7 +388,7 @@
     },
     {
       "key": "蝴蝶",
-      "name": "蓝光🐼蝴蝶|弹幕",
+      "name": "🐼蝴蝶|弹幕",
       "type": 3,
       "api": "csp_Hudie",
       "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
@@ -400,7 +398,7 @@
     },
     {
       "key": "南瓜弹幕版",
-      "name": "蓝光🐼南瓜|弹幕",
+      "name": "🐼南瓜|弹幕",
       "type": 3,
       "api": "csp_Nangua",
       "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
@@ -414,7 +412,7 @@
     },
     {
       "key": "校长影视",
-      "name": "蓝光🐼校长|弹幕",
+      "name": "🐼校长|弹幕",
       "type": 3,
       "api": "csp_XiaoZhang",
       "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
@@ -425,7 +423,7 @@
     },
     {
       "key": "爱看",
-      "name": "蓝光🐼爱看|弹幕",
+      "name": "🐼爱看|弹幕",
       "type": 3,
       "api": "csp_Ikanbot",
       "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
@@ -439,7 +437,7 @@
     },
     {
       "key": "新6V",
-      "name": "蓝光🐼山海|弹幕",
+      "name": "🐼山海|弹幕",
       "type": 3,
       "api": "csp_Xb6v",
       "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
@@ -450,7 +448,7 @@
     },
     {
       "key": "csp_Kuaikan",
-      "name": "蓝光🐼快看|纯净",
+      "name": "🐼快看|纯净",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -459,7 +457,7 @@
     },
     {
       "key": "南瓜",
-      "name": "蓝光🐼南瓜|纯净",
+      "name": "🐼南瓜|纯净",
       "type": 3,
       "api": "csp_NanGua",
       "searchable": 1,
@@ -468,7 +466,7 @@
     },
     {
       "key": "一起看",
-      "name": "蓝光🐼一起|纯净",
+      "name": "🐼一起|纯净",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -477,7 +475,7 @@
     },
     {
       "key": "csp_77",
-      "name": "蓝光🐼七七|纯净",
+      "name": "🐼七七|纯净",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -486,7 +484,7 @@
     },
     {
       "key": "鸭奈飞",
-      "name": "蓝光🐼奈飞|纯净",
+      "name": "🐼奈飞|纯净",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -496,7 +494,7 @@
     },
     {
       "key": "哔嘀",
-      "name": "蓝光🐼哔嘀|纯净",
+      "name": "🐼哔嘀|纯净",
       "type": 3,
       "api": "csp_Bdys",
       "searchable": 1,
@@ -505,7 +503,7 @@
     },
     {
       "key": "低端",
-      "name": "蓝光🐼低端|纯净",
+      "name": "🐼低端|纯净",
       "type": 3,
       "api": "csp_Ddys",
       "searchable": 1,
@@ -514,7 +512,7 @@
     },
     {
       "key": "胡胡",
-      "name": "蓝光🐼胡胡|纯净",
+      "name": "🐼胡胡|纯净",
       "type": 3,
       "api": "csp_WebHH",
       "searchable": 1,
@@ -523,7 +521,7 @@
     },
     {
       "key": "新视觉",
-      "name": "蓝光🐼视觉|纯净",
+      "name": "🐼视觉|纯净",
       "type": 3,
       "api": "csp_Web608",
       "searchable": 1,
@@ -533,7 +531,7 @@
     },
     {
       "key": "高光",
-      "name": "蓝光🐼高光|纯净",
+      "name": "🐼高光|纯净",
       "type": 3,
       "api": "csp_WebGGYS",
       "searchable": 1,
@@ -543,7 +541,7 @@
     },
     {
       "key": "Zhuiyitv",
-      "name": "蓝光🐼追忆|纯净",
+      "name": "🐼追忆|纯净",
       "type": 3,
       "api": "csp_Zhuiyitv",
       "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
@@ -554,7 +552,7 @@
     },
     {
       "key": "星星",
-      "name": "蓝光🐼星奇|纯净",
+      "name": "🐼星奇|纯净",
       "type": 3,
       "api": "csp_Appto",
       "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
@@ -805,9 +803,18 @@
     },
     {
       "key": "Yinyuetai",
-      "name": "🐼音乐MV",
+      "name": "🛰音悦台┃音乐┃MV",
       "type": 3,
       "api": "csp_Yinyuetai",
+      "jar": "http://我不是.摸鱼儿.top/0304/jar/myyt.php",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Iktv",
+      "name": "🛰KTV┃音乐┃MV",
+      "type": 3,
+      "api": "csp_Iktv",
       "jar": "http://我不是.摸鱼儿.top/0304/jar/myyt.php",
       "searchable": 1,
       "changeable": 0
@@ -1085,173 +1092,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php$$$http://我不是.摸鱼儿.top/0304/api/mypicpak.php$$$http://我不是.摸鱼儿.top/0304/api/pikpakclass.php"
-    },
-    {
-      "key": "csp_QuPanSou",
-      "name": "🤓趣盘搜|弹幕",
-      "type": 3,
-      "api": "csp_QuPanSou",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 15
-    },
-    {
-      "key": "csp_Qkpanso",
-      "name": "🤓夸克搜|弹幕",
-      "type": 3,
-      "api": "csp_Qkpanso",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 15
-    },
-    {
-      "key": "csp_AiPanSou",
-      "name": "🤓爱盘搜|弹幕",
-      "type": 3,
-      "api": "csp_AiPanSou",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 15
-    },
-    {
-      "key": "纸条bt",
-      "name": "🤓小纸条|弹幕",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true
-      },
-      "timeout": 15
-    },
-    {
-      "key": "盘Sebt",
-      "name": "🤓盘Se搜|弹幕",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true
-      },
-      "timeout": 15
-    },
-    {
-      "key": "找資源bt",
-      "name": "🤓找资源|弹幕",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true
-      },
-      "timeout": 15
-    },
-    {
-      "key": "七夜bt",
-      "name": "🤓七夜搜|弹幕",
-      "type": 3,
-      "api": "csp_Dovx",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true
-      },
-      "timeout": 15
-    },
-    {
-      "key": "盘搜bt",
-      "name": "🤓盘搜|弹幕",
-      "type": 3,
-      "api": "csp_PanSou",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true
-      },
-      "timeout": 15
-    },
-    {
-      "key": "易搜bt",
-      "name": "🤓易搜|弹幕",
-      "type": 3,
-      "api": "csp_YiSo",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true,
-        "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"
-      },
-      "timeout": 15
-    },
-    {
-      "key": "Up云搜bt",
-      "name": "🤓Up云搜|弹幕",
-      "type": 3,
-      "api": "csp_Upys",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true
-      },
-      "timeout": 15
-    },
-    {
-      "key": "云盘4Kbt",
-      "name": "🤓云盘搜|弹幕",
-      "type": 3,
-      "api": "csp_Yunpan4k",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 15
     },
     {
       "key": "云盘搜索",
