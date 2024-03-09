@@ -5,13 +5,27 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "豆瓣推荐-0307更新",
+      "name": "豆瓣推荐-要设置里填写阿里云盘token",
       "type": 3,
       "api": "csp_DouDou",
       "jar": "http://我不是.摸鱼儿.top/0304/jar/mywo.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
+    },
+    {
+      "key": "荐片dm",
+      "name": "荐片｜03.09更新",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 20
     },
     {
       "key": "my登录",
@@ -106,23 +120,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://我不是.摸鱼儿.top/0304/api/susu.php"
-    },
-    {
-      "key": "宇宙",
-      "name": "💯宇宙【纯净】4K",
-      "type": 3,
-      "api": "csp_LvDou",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "playerType": 1,
-      "ext": {
-        "server": "http://goulanzi.yuzhoukeji.top/api.php/app/",
-        "mackey": "toudongxidegou88|qunimagebisha857",
-        "danmu": true
-      }
     },
     {
       "key": "wogog",
@@ -284,20 +281,6 @@
       "filterable": 1,
       "timeout": 30,
       "ext": "$$$http://我不是.摸鱼儿.top/json/yt.json$$$1"
-    },
-    {
-      "key": "荐片dm",
-      "name": "🐼荐片|在线",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 20
     },
     {
       "key": "大师兄js",
@@ -584,15 +567,13 @@
       "timeout": 15
     },
     {
-      "key": "yishijiedm_js",
+      "key": "異界",
       "name": "动漫🐼异世界",
       "type": 3,
+      "api": "csp_Ysj",
+      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
-      "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/yishijiedm.js",
-      "timeout": 15
+      "changeable": 0
     },
     {
       "key": "短剧网",
@@ -1092,6 +1073,173 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php$$$http://我不是.摸鱼儿.top/0304/api/mypicpak.php$$$http://我不是.摸鱼儿.top/0304/api/pikpakclass.php"
+    },
+    {
+      "key": "csp_QuPanSou",
+      "name": "趣盘🚀弹幕|搜索",
+      "type": 3,
+      "api": "csp_QuPanSou",
+      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "cookie": "file://TV/quark_cookie.txt",
+        "danmu": true
+      },
+      "timeout": 15
+    },
+    {
+      "key": "csp_Qkpanso",
+      "name": "夸克🚀弹幕|搜索",
+      "type": 3,
+      "api": "csp_Qkpanso",
+      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "cookie": "file://TV/quark_cookie.txt",
+        "danmu": true
+      },
+      "timeout": 15
+    },
+    {
+      "key": "csp_AiPanSou",
+      "name": "爱盘🚀弹幕|搜索",
+      "type": 3,
+      "api": "csp_AiPanSou",
+      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "cookie": "file://TV/quark_cookie.txt",
+        "danmu": true
+      },
+      "timeout": 15
+    },
+    {
+      "key": "纸条bt",
+      "name": "纸条🚀弹幕|搜索",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "danmu": true
+      },
+      "timeout": 15
+    },
+    {
+      "key": "bt盘Se",
+      "name": "盘se🚀弹幕|搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "danmu": true
+      },
+      "timeout": 15
+    },
+    {
+      "key": "bt找資源",
+      "name": "找资源🚀弹幕|搜索",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "danmu": true
+      },
+      "timeout": 15
+    },
+    {
+      "key": "七夜bt",
+      "name": "七夜🚀弹幕|搜索",
+      "type": 3,
+      "api": "csp_Dovx",
+      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "danmu": true
+      },
+      "timeout": 15
+    },
+    {
+      "key": "盘搜bt",
+      "name": "盘搜🚀弹幕|阿里",
+      "type": 3,
+      "api": "csp_PanSou",
+      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "danmu": true
+      },
+      "timeout": 15
+    },
+    {
+      "key": "易搜btbt",
+      "name": "易搜🚀弹幕|阿里",
+      "type": 3,
+      "api": "csp_YiSo",
+      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "danmu": true,
+        "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"
+      },
+      "timeout": 15
+    },
+    {
+      "key": "Uppp云搜",
+      "name": "up云🚀弹幕|搜索",
+      "type": 3,
+      "api": "csp_Upys",
+      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "danmu": true
+      },
+      "timeout": 15
+    },
+    {
+      "key": "beat云盘4K",
+      "name": "云盘🚀弹幕|搜索",
+      "type": 3,
+      "api": "csp_Yunpan4k",
+      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "danmu": true
+      },
+      "timeout": 15
     },
     {
       "key": "云盘搜索",
