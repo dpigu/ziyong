@@ -1,31 +1,40 @@
 {
-  "spider": "http://我不是.摸鱼儿.top/0304/jar/moyuer.php;md5;be6121b5c37471b191114027123912d2",
+  "spider": "http://我不是.摸鱼儿.top/0313/jar/moyuer.php;md5;be6121b5c37471b191114027123912d2",
   "wallpaper": "http://摸鱼儿.xiyan.life/摸鱼壁纸/api.php",
-  "warningText": "4K资源要设置里填写阿里云盘token",
+  "warningText": "摸鱼儿：资源来自网络，无盈利，纯技术分享，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "sites": [
     {
       "key": "豆豆",
-      "name": "豆瓣推荐-要设置里填写阿里云盘token",
+      "name": "豆瓣推荐",
       "type": 3,
       "api": "csp_DouDou",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mywo.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mywo.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
     {
-      "key": "荐片dm",
-      "name": "03.11更新",
+      "key": "豆瓣",
+      "name": "03.13更新",
       "type": 3,
-      "api": "csp_Jianpian",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "searchable": 0,
       "ext": {
-        "danmu": true
-      },
-      "timeout": 20
+        "首页": "正在热映",
+        "图片代理": "",
+        "分类url": "https://movie.douban.com/{cateId}/;;aRC",
+        "分类": "预告片：$cinema/later#正在热映$cinema/nowplaying",
+        "数组": "class=\"item mod &&</ul>||正在热映--class=\"list-item&&</ul>",
+        "图片": "src=\"&&\"",
+        "标题": "\"intro\">&&</a>",
+        "链接": "href=\"&&\"",
+        "副标题": "data-score=\"&&\"+class=\"release-date\">&&</li>",
+        "播放数组": "<li class=\"video&&</li>",
+        "播放列表": "<a&&</a>",
+        "播放标题": "alt=\"&&\"",
+        "播放链接": "https://m.douban.com+href=\"&&\""
+      }
     },
     {
       "key": "my登录",
@@ -42,7 +51,7 @@
       "name": "高级设置",
       "type": 3,
       "api": "csp_Config",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
@@ -52,11 +61,21 @@
       }
     },
     {
+      "key": "直播转点播",
+      "name": "摸鱼电视",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.top/0313/js/moyulive.js",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://我不是.摸鱼儿.top/0313/api/moyulive.php"
+    },
+    {
       "key": "doudouxie",
       "name": "💯玩偶【弹幕】4K",
       "type": 3,
       "api": "csp_Wogg",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -72,7 +91,7 @@
       "name": "💯玩偶【弹幕】4K",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mywo.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mywo.php",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -83,7 +102,7 @@
       "name": "💯土豆【弹幕】4K",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -100,7 +119,7 @@
       "name": "💯牛牛【纯净】4K",
       "type": 3,
       "api": "csp_Fangniu4k",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/myyt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/myyt.php",
       "searchable": 1,
       "changeable": 0
     },
@@ -112,7 +131,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/api/susu.php"
+      "ext": "http://我不是.摸鱼儿.top/0313/api/susu.php"
     },
     {
       "key": "wojog",
@@ -122,7 +141,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/api/woj.php"
+      "ext": "http://我不是.摸鱼儿.top/0313/api/woj.php"
     },
     {
       "key": "womog",
@@ -132,7 +151,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/api/wom.php"
+      "ext": "http://我不是.摸鱼儿.top/0313/api/wom.php"
     },
     {
       "key": "woxog",
@@ -142,14 +161,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/api/luoxue.php"
+      "ext": "http://我不是.摸鱼儿.top/0313/api/luoxue.php"
     },
     {
       "key": "运输车弹幕版",
       "name": "💯运输车【弹幕】4K",
       "type": 3,
       "api": "csp_Wogg",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -166,29 +185,29 @@
       "name": "💯影视车【弹幕】4K",
       "type": 3,
       "api": "csp_Wogg",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php$$$https://www.weixine.net/$$$null$$$1$$$http://我不是.摸鱼儿.top/json/wogg.json"
+      "ext": "http://我不是.摸鱼儿.top/0313/aip/push.php$$$https://www.weixine.net/$$$null$$$1$$$http://我不是.摸鱼儿.top/json/wogg.json"
     },
     {
       "key": "Hdhive",
       "name": "💯影巢【弹幕】4K",
       "type": 3,
       "api": "csp_Hdhive",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php$$$null$$$1"
+      "ext": "http://我不是.摸鱼儿.top/0313/aip/push.php$$$null$$$1"
     },
     {
       "key": "yuanfei弹幕版",
       "name": "💯鸢飞【弹幕】4K",
       "type": 3,
       "api": "csp_Tzfile",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -204,7 +223,7 @@
       "name": "💯玩我【弹幕】4K",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -221,7 +240,7 @@
       "name": "💯烟雨【弹幕】4K",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -237,11 +256,11 @@
       "name": "💯团长【弹幕】4K",
       "type": 3,
       "api": "csp_TZFile",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php$$$null$$$1"
+      "ext": "http://我不是.摸鱼儿.top/0313/aip/push.php$$$null$$$1"
     },
     {
       "key": "wogog",
@@ -251,7 +270,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/api/wog.php"
+      "ext": "http://我不是.摸鱼儿.top/0313/api/wog.php"
     },
     {
       "key": "wodog",
@@ -261,90 +280,177 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/api/wod.php"
+      "ext": "http://我不是.摸鱼儿.top/0313/api/wod.php"
     },
     {
-      "key": "Yingtantv1",
-      "name": "💯影探【弹幕】4K",
-      "type": 3,
-      "api": "csp_Yingtantv",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "ext": "$$$http://我不是.摸鱼儿.top/json/yt.json$$$1"
-    },
-    {
-      "key": "大师兄js",
-      "name": "蓝光🐼大师兄|在线",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
-      "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/dashixiong.js",
-      "timeout": 15
-    },
-    {
-      "key": "达达龟js",
+      "key": "达达龟",
       "name": "蓝光🐼达达龟|在线",
       "type": 3,
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/达达龟.js"
+    },
+    {
+      "key": "乐鱼影视",
+      "name": "蓝光🐼乐鱼|在线",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/乐鱼影视.js"
+    },
+    {
+      "key": "三四八",
+      "name": "蓝光🐼348|在线",
+      "type": 3,
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
-      "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/dadagui.js",
-      "timeout": 15
+      "ext": "http://我不是.摸鱼儿.top/0313/api/三四八.php"
     },
     {
-      "key": "茶杯狐",
-      "name": "蓝光🐼茶杯狐|在线",
+      "key": "白嫖影视",
+      "name": "蓝光🐼白嫖|在线",
       "type": 3,
-      "api": "https://raw.cachefly.998111.xyz/ouhaibo1980/tvbox/master/js/nxog.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.cachefly.998111.xyz/ouhaibo1980/tvbox/master/js/茶杯狐.js"
-    },
-    {
-      "key": "大米星球",
-      "name": "蓝光🐼大米|在线",
-      "type": 3,
-      "api": "https://raw.cachefly.998111.xyz/ouhaibo1980/tvbox/master/js/nxog.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.cachefly.998111.xyz/ouhaibo1980/tvbox/master/js/大米星球.js"
-    },
-    {
-      "key": "libvio_js",
-      "name": "蓝光🐼利播|在线",
-      "type": 3,
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
-      "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/libvio.js",
-      "timeout": 15
+      "ext": "http://我不是.摸鱼儿.top/0313/api/白嫖影视.php"
     },
     {
-      "key": "nmys_js",
-      "name": "蓝光🐼农民|在线",
+      "key": "冷曦影视",
+      "name": "蓝光🐼冷曦|在线",
       "type": 3,
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
-      "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/nmys.js",
-      "timeout": 15
+      "ext": "http://我不是.摸鱼儿.top/0313/api/冷曦影视.php"
+    },
+    {
+      "key": "蛋蛋影视",
+      "name": "蓝光🐼蛋蛋|在线",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.摸鱼儿.top/0313/api/蛋蛋.php"
+    },
+    {
+      "key": "五五影视",
+      "name": "蓝光🐼五五|在线",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.摸鱼儿.top/0313/api/五五.php"
+    },
+    {
+      "key": "巅峰影视",
+      "name": "蓝光🐼巅峰|在线",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.摸鱼儿.top/0313/api/巅峰.php"
+    },
+    {
+      "key": "电影牛",
+      "name": "蓝光🐼电影牛|在线",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.摸鱼儿.top/0313/api/电影牛.php"
+    },
+    {
+      "key": "子子影视",
+      "name": "蓝光🐼子子|在线",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.摸鱼儿.top/0313/api/子子.php"
+    },
+    {
+      "key": "歪片星球",
+      "name": "蓝光🐼歪片|在线",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.摸鱼儿.top/0313/api/歪片.php"
+    },
+    {
+      "key": "奇趣影视",
+      "name": "蓝光🐼奇趣|在线",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.摸鱼儿.top/0313/api/奇趣.php"
+    },
+    {
+      "key": "看了么",
+      "name": "蓝光🐼看了么|在线",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/看了么.js"
+    },
+    {
+      "key": "网飞影视",
+      "name": "蓝光🐼网飞|在线",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/网飞TV.js"
+    },
+    {
+      "key": "魔力高清",
+      "name": "蓝光🐼魔力|在线",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/HDmoli.js"
+    },
+    {
+      "key": "在线之家",
+      "name": "蓝光🐼在线|之家",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/在线之家.js"
+    },
+    {
+      "key": "碟调影视",
+      "name": "蓝光🐼碟调|在线",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/碟调影视.js"
+    },
+    {
+      "key": "荐片dm",
+      "name": "蓝光🐼荐片|弹幕",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 20
     },
     {
       "key": "厂长弹幕版",
       "name": "蓝光🐼厂长|弹幕",
       "type": 3,
       "api": "csp_Czzy",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -358,16 +464,30 @@
       "name": "蓝光🐼天天|弹幕",
       "type": 3,
       "api": "csp_TTian",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "playerType": 1,
       "ext": "http://op.ysdqjs.cn$$$null$$$1"
+    },
+    {
+      "key": "酷看弹幕版",
+      "name": "蓝光🐼酷看|弹幕",
+      "type": 3,
+      "api": "csp_Kkys",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 20
     },
     {
       "key": "蝴蝶",
       "name": "蓝光🐼蝴蝶|弹幕",
       "type": 3,
       "api": "csp_Hudie",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 0,
       "playerType": 2,
       "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"
@@ -377,7 +497,7 @@
       "name": "蓝光🐼南瓜|弹幕",
       "type": 3,
       "api": "csp_Nangua",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -391,18 +511,18 @@
       "name": "蓝光🐼校长|弹幕",
       "type": 3,
       "api": "csp_XiaoZhang",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php$$$null$$$1"
+      "ext": "http://我不是.摸鱼儿.top/0313/aip/push.php$$$null$$$1"
     },
     {
       "key": "爱看",
       "name": "蓝光🐼爱看|弹幕",
       "type": 3,
       "api": "csp_Ikanbot",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -416,11 +536,11 @@
       "name": "蓝光🐼山海|弹幕",
       "type": 3,
       "api": "csp_Xb6v",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php$$$https://www.66ss.org$$$null$$$1"
+      "ext": "http://我不是.摸鱼儿.top/0313/aip/push.php$$$https://www.66ss.org$$$null$$$1"
     },
     {
       "key": "csp_Kuaikan",
@@ -432,13 +552,20 @@
       "filterable": 1
     },
     {
+      "key": "天天cj",
+      "name": "蓝光🐼南瓜|纯净",
+      "type": 3,
+      "api": "csp_TTian",
+      "ext": "http://op.ysdqjs.cn"
+    },
+    {
       "key": "南瓜",
       "name": "蓝光🐼南瓜|纯净",
       "type": 3,
-      "api": "csp_NanGua",
+      "api": "csp_AppYSDQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "一起看",
@@ -487,13 +614,14 @@
       "filterable": 1
     },
     {
-      "key": "胡胡",
-      "name": "蓝光🐼胡胡|纯净",
+      "key": "酷影yu",
+      "name": "蓝光🐼酷影|纯净",
       "type": 3,
-      "api": "csp_WebHH",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1,
+      "ext": "https://www.tvkuys.xyz/api.php/app/"
     },
     {
       "key": "新视觉",
@@ -503,7 +631,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://www.80yy3.com"
+      "ext": "https://www.6080yy4.com"
     },
     {
       "key": "高光",
@@ -520,60 +648,115 @@
       "name": "蓝光🐼追忆|纯净",
       "type": 3,
       "api": "csp_Zhuiyitv",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "$$$http://我不是.摸鱼儿.top/json/lib/yt.json$$$1"
     },
     {
-      "key": "星星",
-      "name": "蓝光🐼星奇|纯净",
+      "key": "樱花动漫",
+      "name": "动漫🐼樱花动漫",
       "type": 3,
-      "api": "csp_Appto",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
-      "searchable": 0,
+      "api": "csp_XBPQ",
+      "ext": "分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
+    },
+    {
+      "key": "稀饭动漫",
+      "name": "动漫🐼稀饭",
+      "type": 3,
+      "api": "csp_Xifan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "维奇动漫",
+      "name": "动漫🐼维奇",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "DRKzxyMKvtSwY8KlZf2E0UaodOFwpc55fZ8i/57cIgQJHQLy6PnKLAAj9UrkpoexlNCAomzVttbI6D6TEnlHNVDqRhIQqGlHt8m6PjVxP7PSlmraDar52uqEU7UXaaV+UGqz0bc9q95VVRMK4uX5l674wT+p5Cp2QGr1D24Uz7QNkA6GgkDGW/ezLoYsXUCc7xsDK5ev51cJxn0cIJClFysrOGsTvyLYjYIF2ktu+F36QVcAsAvA6Jpyz2hSTlWadidOt2m81TA5yrfAKjBILuQ63gcnyXh6SH9VjER5dL2KD8iTVBAN3L9TlQqDHPr64N0D6mAldXLMYJM/RrTUznCbIno7V/eTT+YqnLWNekVigNB8Q7Fp3WgMYfk73VYcOqPKO2qwQWyJqaQDW4Uo7nFrQWttqYAwWEDhjM/ABuYLkLX9V83/QFOPkhBJZ+eQoqsiVP3ZugFGB5/XuVZkoYWaG00BRQ3j55vTflJ2ne0WQcFAj6GcYNLodkII4Ji53kVoL+w55Cc9PmtSR1tynlWDylYBfkJbtDOJSuEUKDnKiD/ZFqMAejQFV9EcZr1g6QbLIf/FRldeLYRxsYsWPFc2STqEdgGA+osyO/zzyaeZLH5AJ02l7kKyMxKMPaRF2MGX1DPnZHrbXA4u0A5Vy3M3IMFNZaR0f08C4KDDi1xY=$$$null$$$1"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/维奇动漫.json"
     },
     {
-      "key": "ntdm_js",
-      "name": "动漫🐼NT",
+      "key": "动漫巴士",
+      "name": "动漫🐼动漫巴士",
       "type": 3,
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
-      "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/ntdm.js",
-      "timeout": 15
+      "filterable": 0,
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/动漫巴士.json"
     },
     {
-      "key": "dmd_js",
-      "name": "动漫🐼动漫岛",
+      "key": "Anime1",
+      "name": "动漫🐼Anime1",
       "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
-      "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/dmd.js",
-      "timeout": 15
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/Anime1.js"
+    },
+    {
+      "key": "58动漫",
+      "name": "动漫🐼58",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/58动漫.js"
+    },
+    {
+      "key": "去看吧",
+      "name": "动漫🐼去看吧",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/去看吧.js"
+    },
+    {
+      "key": "爱弹幕",
+      "name": "动漫🐼爱弹幕",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱弹幕.js"
+    },
+    {
+      "key": "喵次元",
+      "name": "动漫🐼喵次元",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/喵次元.js"
+    },
+    {
+      "key": "曲奇动漫",
+      "name": "动漫🐼曲奇",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/曲奇动漫.js"
     },
     {
       "key": "異界",
       "name": "动漫🐼异世界",
       "type": 3,
       "api": "csp_Ysj",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "changeable": 0
+    },
+    {
+      "key": "短剧星",
+      "name": "🐼短剧星",
+      "type": 3,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://zzdj.cc/api.php/provide/vod"
     },
     {
       "key": "短剧网",
       "name": "🐼短剧网",
       "type": 3,
       "api": "csp_Duanju5",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -581,6 +764,15 @@
         "ratio": 1.433
       },
       "timeout": 10
+    },
+    {
+      "key": "短剧库",
+      "name": "🐼短剧库",
+      "type": 3,
+      "api": "csp_Duanjuw",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "美剧迷",
@@ -619,8 +811,50 @@
       "filterable": 1
     },
     {
+      "key": "四九资源",
+      "name": "四九🐼资源",
+      "type": 1,
+      "api": "https://49zyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "纪录片",
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "喜剧片",
+        "动画片",
+        "犯罪片",
+        "奇幻片",
+        "灾难片",
+        "悬疑片",
+        "其他片",
+        "欧美剧",
+        "香港剧",
+        "国产剧",
+        "韩国剧",
+        "台湾剧",
+        "泰国剧",
+        "日剧",
+        "海外剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "电影解说",
+        "体育赛事",
+        "短剧"
+      ]
+    },
+    {
       "key": "红牛资源",
-      "name": "🎀红牛|采集",
+      "name": "红牛🐼资源",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
@@ -628,7 +862,6 @@
       "categories": [
         "动作片",
         "喜剧片",
-        "爱情片",
         "科幻片",
         "恐怖片",
         "剧情片",
@@ -645,8 +878,99 @@
       ]
     },
     {
+      "key": "光速资源",
+      "name": "光速🐼资源",
+      "type": 1,
+      "api": "http://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "剧情片",
+        "恐怖片",
+        "战争片",
+        "动漫电影",
+        "大陆剧",
+        "欧美剧",
+        "港澳剧",
+        "韩剧",
+        "日剧",
+        "台湾剧",
+        "泰剧",
+        "综艺",
+        "动漫",
+        "记录片"
+      ]
+    },
+    {
+      "key": "极速资源",
+      "name": "极速🐼资源",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "日剧",
+        "马泰剧",
+        "内地剧",
+        "欧美剧",
+        "香港剧",
+        "韩剧",
+        "台湾剧",
+        "恐怖片",
+        "动画片",
+        "剧情片",
+        "战争片",
+        "动作片",
+        "记录片",
+        "喜剧片",
+        "科幻片",
+        "灾难片",
+        "悬疑片",
+        "犯罪片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ]
+    },
+    {
+      "key": "快车资源",
+      "name": "快车🐼资源",
+      "type": 1,
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "剧情片",
+        "动画片",
+        "纪录片",
+        "国产剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "泰国剧",
+        "海外剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺"
+      ]
+    },
+    {
       "key": "索尼资源",
-      "name": "🎀索尼|采集",
+      "name": "索尼🐼资源",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -654,7 +978,6 @@
       "categories": [
         "动作片",
         "喜剧片",
-        "爱情片",
         "科幻片",
         "恐怖片",
         "剧情片",
@@ -681,68 +1004,42 @@
       ]
     },
     {
-      "key": "光速资源",
-      "name": "🎀光速|采集",
+      "key": "量子资源",
+      "name": "量子🐼资源",
       "type": 1,
-      "api": "http://api.guangsuapi.com/api.php/provide/vod/",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1,
       "categories": [
         "动作片",
         "喜剧片",
-        "爱情片",
         "科幻片",
-        "剧情片",
         "恐怖片",
+        "剧情片",
         "战争片",
-        "动漫电影",
-        "大陆剧",
-        "欧美剧",
-        "港澳剧",
-        "韩剧",
-        "日剧",
-        "台湾剧",
-        "泰剧",
-        "综艺",
-        "动漫",
-        "记录片"
-      ]
-    },
-    {
-      "key": "极速资源",
-      "name": "🎀极速|采集",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "日剧",
-        "马泰剧",
-        "内地剧",
+        "记录片",
+        "国产剧",
         "欧美剧",
         "香港剧",
-        "韩剧",
+        "韩国剧",
         "台湾剧",
-        "恐怖片",
-        "动画片",
-        "剧情片",
-        "战争片",
-        "动作片",
-        "记录片",
-        "爱情片",
-        "喜剧片",
-        "科幻片",
-        "灾难片",
-        "悬疑片",
-        "犯罪片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫"
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
       ]
     },
     {
       "key": "非凡资源",
-      "name": "🎀非凡|采集",
+      "name": "非凡🐼资源",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -752,7 +1049,6 @@
         "喜剧片",
         "科幻片",
         "恐怖片",
-        "爱情片",
         "剧情片",
         "战争片",
         "记录片",
@@ -780,7 +1076,7 @@
       "name": "🛰音悦台┃音乐┃MV",
       "type": 3,
       "api": "csp_Yinyuetai",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/myyt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/myyt.php",
       "searchable": 1,
       "changeable": 0
     },
@@ -789,7 +1085,7 @@
       "name": "🛰KTV┃音乐┃MV",
       "type": 3,
       "api": "csp_Iktv",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/myyt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/myyt.php",
       "searchable": 1,
       "changeable": 0
     },
@@ -835,7 +1131,7 @@
       "name": "快手直播",
       "type": 3,
       "api": "csp_KsLive",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -850,7 +1146,7 @@
       "name": "聚合直播",
       "type": 3,
       "api": "csp_JustLive",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -858,16 +1154,6 @@
         "ratio": 1.433
       },
       "timeout": 10
-    },
-    {
-      "key": "直播转点播",
-      "name": "摸鱼电视",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.top/0304/js/moyulive.js",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://我不是.摸鱼儿.top/0304/api/moyulive.php"
     },
     {
       "key": "Bili",
@@ -902,7 +1188,7 @@
       "name": "⚽看球┃在线",
       "type": 3,
       "api": "csp_Kanqiu",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -1015,63 +1301,63 @@
       "name": "聚合🐼小雅|分享",
       "type": 3,
       "api": "csp_AList",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "http://我不是.摸鱼儿.top/0304/api/xiaoya.php"
+      "ext": "http://我不是.摸鱼儿.top/0313/api/xiaoya.php"
     },
     {
       "key": "AliShareEBook",
       "name": "书籍🐼阿里|分享",
       "type": 3,
       "api": "csp_AliShare",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php$$$http://我不是.摸鱼儿.top/0304/api/alishareebook.php"
+      "ext": "http://我不是.摸鱼儿.top/0313/aip/push.php$$$http://我不是.摸鱼儿.top/0313/api/alishareebook.php"
     },
     {
       "key": "AliShare",
       "name": "4K🐼阿里|分享",
       "type": 3,
       "api": "csp_AliShare",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php$$$http://我不是.摸鱼儿.top/0304/api/alishare.php"
+      "ext": "http://我不是.摸鱼儿.top/0313/aip/push.php$$$http://我不是.摸鱼儿.top/0313/api/alishare.php"
     },
     {
       "key": "QuarkShare",
       "name": "4K🐼夸克|分享",
       "type": 3,
       "api": "csp_QuarkShare",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php$$$http://我不是.摸鱼儿.top/0304/json/quarkshare.txt"
+      "ext": "http://我不是.摸鱼儿.top/0313/aip/push.php$$$http://我不是.摸鱼儿.top/0313/json/quarkshare.txt"
     },
     {
       "key": "ThunderShare",
       "name": "4K🐼迅雷|分享",
       "type": 3,
       "api": "csp_ThunderShare",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php$$$http://我不是.摸鱼儿.top/0304/aip/kuakeshare.php"
+      "ext": "http://我不是.摸鱼儿.top/0313/aip/push.php$$$http://我不是.摸鱼儿.top/0313/aip/kuakeshare.php"
     },
     {
       "key": "csp_QuPanSou",
       "name": "趣盘🚀弹幕|搜索",
       "type": 3,
       "api": "csp_QuPanSou",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -1086,7 +1372,7 @@
       "name": "夸克🚀弹幕|搜索",
       "type": 3,
       "api": "csp_Qkpanso",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -1101,7 +1387,7 @@
       "name": "爱盘🚀弹幕|搜索",
       "type": 3,
       "api": "csp_AiPanSou",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -1116,7 +1402,7 @@
       "name": "纸条🚀弹幕|搜索",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -1131,7 +1417,7 @@
       "name": "盘se🚀弹幕|搜索",
       "type": 3,
       "api": "csp_PanSearch",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1146,7 +1432,7 @@
       "name": "找资源🚀弹幕|搜索",
       "type": 3,
       "api": "csp_Zhaozy",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1161,7 +1447,7 @@
       "name": "七夜🚀弹幕|搜索",
       "type": 3,
       "api": "csp_Dovx",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1176,7 +1462,7 @@
       "name": "盘搜🚀弹幕|阿里",
       "type": 3,
       "api": "csp_PanSou",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1191,7 +1477,7 @@
       "name": "易搜🚀弹幕|阿里",
       "type": 3,
       "api": "csp_YiSo",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1207,7 +1493,7 @@
       "name": "up云🚀弹幕|搜索",
       "type": 3,
       "api": "csp_Upys",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1222,7 +1508,7 @@
       "name": "云盘🚀弹幕|搜索",
       "type": 3,
       "api": "csp_Yunpan4k",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1298,106 +1584,106 @@
       "name": "🚀PanSearch|弹幕",
       "type": 3,
       "api": "csp_PanSearch",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php"
+      "ext": "http://我不是.摸鱼儿.top/0313/aip/push.php"
     },
     {
       "key": "88Pan",
       "name": "🚀88搜|弹幕",
       "type": 3,
       "api": "csp_EightEight",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php$$$https://662688.xyz"
+      "ext": "http://我不是.摸鱼儿.top/0313/aip/push.php$$$https://662688.xyz"
     },
     {
       "key": "pg盘搜",
       "name": "🚀盘搜|弹幕",
       "type": 3,
       "api": "csp_PanSou",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php"
+      "ext": "http://我不是.摸鱼儿.top/0313/aip/push.php"
     },
     {
       "key": "pg易搜",
       "name": "🚀易搜|弹幕",
       "type": 3,
       "api": "csp_YiSo",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php$$$./lib/yiso.txt"
+      "ext": "http://我不是.摸鱼儿.top/0313/aip/push.php$$$./lib/yiso.txt"
     },
     {
       "key": "混合盘",
       "name": "🚀混合搜|弹幕",
       "type": 3,
       "api": "csp_HunHePan",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php"
+      "ext": "http://我不是.摸鱼儿.top/0313/aip/push.php"
     },
     {
       "key": "Funletu",
       "name": "🚀趣盘搜|弹幕",
       "type": 3,
       "api": "csp_Funletu",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php"
+      "ext": "http://我不是.摸鱼儿.top/0313/aip/push.php"
     },
     {
       "key": "QuarkPanso",
       "name": "🚀夸克搜|弹幕",
       "type": 3,
       "api": "csp_QuarkPanso",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php"
+      "ext": "http://我不是.摸鱼儿.top/0313/aip/push.php"
     },
     {
       "key": "DaPanSo",
       "name": "🚀大盘搜|弹幕",
       "type": 3,
       "api": "csp_DaPanSo",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php$$$https://dapanso.com$$$null$$$1"
+      "ext": "http://我不是.摸鱼儿.top/0313/aip/push.php$$$https://dapanso.com$$$null$$$1"
     },
     {
       "key": "Panta",
       "name": "🚀盘它搜|弹幕",
       "type": 3,
       "api": "csp_Panta",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php$$$https://www.91panta.cn/$$$null$$$1"
+      "ext": "http://我不是.摸鱼儿.top/0313/aip/push.php$$$https://www.91panta.cn/$$$null$$$1"
     },
     {
       "key": "Local",
       "name": "本地文件管理",
       "type": 3,
       "api": "csp_Local",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1407,7 +1693,7 @@
       "name": "阿里文件管理",
       "type": 3,
       "api": "csp_MyAli",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
+      "jar": "http://我不是.摸鱼儿.top/0313/jar/mybt.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
