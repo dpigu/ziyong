@@ -10,17 +10,17 @@
     "logo": "https://epg.112114.xyz/logo/{name}.png"
   }
 ],
-"warningText":"🐼疯子提醒您:本接口长期更新，请放心使用🐼",
+"warningText":"🐼疯子提醒您:本接口长期更新 完全免费 请放心使用🐼",
 "wallpaper": "https://yun.chuqiuyu.tk",
-"sites":[ {"key":"sp2345","name":"🐼点【主页】切换内容-0305更新","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1
+"sites":[ {"key":"sp2345","name":"🐼2345影视🐼","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1
 },
 {"key":"drpy_js_菜狗","name":"🐼狗狗官源🐼","type":3,"playerType":2,"api":"https://cloud.lxweb.cn/f/0Q9yU0/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/a7Mlc6/%E8%8F%9C%E7%8B%97.js"}, 
 {"key":"天天","name":"🐼天天影视🐼","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"ext":"http://op.ysdqjs.cn"},
- {"key":"忍者","name":"🐼疯子忍者🐼","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://rzys.xyz"},   
-     {"key":"drpy_影探","name":"🐼疯子影探🐼","type":3,"playerType":1,"api":"https://cloud.lxweb.cn/f/0Q9yU0/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/6pdQTw/%E6%96%B0%E6%8E%A2%E6%8E%A2.js"},    
+ {"key":"忍者","name":"🐼夜猫忍者🐼","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://rzys.xyz"},   
+     {"key":"drpy_影探","name":"🐼夜猫影探🐼","type":3,"playerType":1,"api":"https://cloud.lxweb.cn/f/0Q9yU0/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/6pdQTw/%E6%96%B0%E6%8E%A2%E6%8E%A2.js"},    
    {
     "key": "ymtt",
-    "name": "🐼疯子探探🐼",
+    "name": "🐼夜猫探探🐼",
     "type": 3,"playerType": 1,
     "api": "csp_Fangniu4k",
     "searchable": 1,
@@ -44,8 +44,8 @@
               "danmu": true
           }
       },
-     {"key":"csp_长","name":"🐼厂长影视🐼","type":3,"api":"csp_CsCz","searchable":1,"changeable":1,"ext":"https://bo.czys.me@@夜猫子专用"},
-  {"key":"csp_南","name":"🐼南瓜影视🐼","type":3,"api":"csp_AppNg","searchable":1,"changeable":1,"ext":"http://ys.changmengyun.com/api.php/provide/@@夜猫子专用"},
+     {"key":"csp_长","name":"🐼厂长影视🐼","type":3,"api":"csp_CsCz","searchable":1,"changeable":1,"ext":"https://bo.czys.me@@疯子专用"},
+  {"key":"csp_南","name":"🐼南瓜影视🐼","type":3,"api":"csp_AppNg","searchable":1,"changeable":1,"ext":"http://ys.changmengyun.com/api.php/provide/@@疯子专用"},
   {"key":"csp_Kunyu77","name":"🐼七七影视🐼","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {
     "key": "py_1905",
@@ -380,7 +380,7 @@
   },
 {
       "key": "夜猫2",
-      "name": "🐼疯子电影🐼",
+      "name": "🐼夜猫电影🐼",
       "type": 3,"playerType":1,
       "api": "https://notabug.org/ymz123/TVBOX/raw/master/Js/AppYsV2.js",
       "ext": {
@@ -931,7 +931,7 @@
       {"key": "csp_XYQHikerAL_阿里云盘网","name":"📀阿里云盘(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/82lrF1/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E7%BD%91.json"},
       {"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX(搜索)","type":3,"playerType":1,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/orAwiY/DOVX%E6%90%9C%E7%B4%A2.json"},
       {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/GDlASg/%E7%9B%98%E6%90%9C%E7%B4%A2.json"},   
-  {"key":"yc","name":"🐼疯子影巢4K🐼","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,
+  {"key":"yc","name":"🐼夜猫影巢4K🐼","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,
   "jar":"https://cloud.lxweb.cn/f/dAqRf2/pg.jar","ext":"c19e13720f084354971732d29c7f3c96"},     
 
    
