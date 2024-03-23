@@ -15,7 +15,7 @@
 "sites":[ {"key":"sp2345","name":"🐼2345影视🐼","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1
 },
 {"key":"drpy_js_菜狗","name":"🐼狗狗官源🐼","type":3,"playerType":2,"api":"https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/a7Mlc6/%E8%8F%9C%E7%8B%97.js"}, 
-{"key": "csp_XYQHikerAL_土豆","name":"🐼阿里土豆(4K)🐼","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/qjWmfe/%E9%98%BF%E9%87%8C%E5%9C%9F%E8%B1%86.json"},
+{"key": "csp_XYQHikerAL_土豆","name":"🐼阿里土豆🐼","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/qjWmfe/%E9%98%BF%E9%87%8C%E5%9C%9F%E8%B1%86.json"},
 {
   "key": "csp_gg",
   "name": "🐼玩偶哥哥🐼",
