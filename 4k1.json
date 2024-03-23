@@ -1,51 +1,86 @@
-{"spider":"https://cloud.lxweb.cn/f/wWMVf2/ymz.jar",
+{"spider":"https://cloud.lxweb.cn/f/eZoMsa/Xymz.jar",
 "lives": [
   {
     "name": "live",
     "type": 0,
-    "url": "aHR0cHM6Ly9jbG91ZC5seHdlYi5jbi9mL2xlS1ZUdy95bXpiLnR4dA==",
+    "url": "http://fengzi.x3322.net:55244/d/%E6%9C%AC%E5%9C%B0%E8%B5%84%E6%BA%90/TVBox/mylive.txt",
     "playerType": 1,
     "ua": "",
     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
     "logo": "https://epg.112114.xyz/logo/{name}.png"
   }
 ],
-"warningText":"🐼疯子提醒您:本接口长期更新 完全免费 请放心使用🐼",
+"warningText":"🐼疯子提醒您:本接口长期更新 请放心使用🐼",
 "wallpaper": "https://yun.chuqiuyu.tk",
-"sites":[ {"key":"sp2345","name":"🐼点【主页】切换内容🐼","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1
+"sites":[ {"key":"sp2345","name":"🐼2345影视🐼","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1
 },
-{"key":"drpy_js_菜狗","name":"🐼狗狗官源🐼","type":3,"playerType":2,"api":"https://cloud.lxweb.cn/f/0Q9yU0/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/a7Mlc6/%E8%8F%9C%E7%8B%97.js"}, 
+   {
+          "key": "网盘配置",
+          "name": "🐼网盘及彈幕配置🐼",
+          "jar": "https://cloud.lxweb.cn/f/dAqRf2/pg.jar",
+          "type": 3,
+          "api": "csp_Config",
+          "searchable": 0,
+          "changeable": 0,
+          "style": {
+              "type": "rect",
+              "ratio": 1
+          },
+          "ext":"./lib/tokenm.json"
+      },       
+      {
+    "key": "阿里设置",
+    "name": "🐼阿里签到🐼",
+    "type": 3,
+    "api": "csp_AliYunPan",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
+  }, 
+{"key":"drpy_js_菜狗","name":"🐼狗狗官源🐼","type":3,"playerType":2,"api":"https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/a7Mlc6/%E8%8F%9C%E7%8B%97.js"}, 
+ {
+    "key":"酷看",
+    "name":"🐼酷看影视🐼",
+    "type":3,
+    "api":"csp_Kkys",
+    "playerType":1,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "jar":"https://cloud.lxweb.cn/f/8bXJF1/kkys.jar"
+    },
+    {
+ "key": "短剧侠",
+ "name": "🐼爱短剧侠🐼",
+ "type": 3,
+ "searchable":1,"filterable":1,
+"quickSearch":1,"playerType":1,
+ "api": "csp_XBPQ",
+ "ext":{
+  "站名": "短剧侠",
+  "主页url": "https://www.duanjuxia.cn/",
+  "分类": "快手$21#抖音$22#都市$23#古装$24#重生$25#逆袭$26#虐恋$27#萌宝$28#言情$29#穿越$30#战神$31#神医$32#赘婿$33#甜宠$34#其他$35",
+  "搜索url": "https://www.duanjuxia.cn/index.php/vod/search.html?wd={wd}",
+  "分类url": "https://www.duanjuxia.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"
+}
+},
+
+   {"key":"csp_freeok","name":"🐼夜猫菲克🐼","type":3,"jar": "https://cloud.lxweb.cn/f/8MJyc1/fk.jar","api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1},
+   {
+    "key": "Wev",
+    "name": "🐼夜猫小苹果🐼",
+    "type": 3,"playerType":1,
+    "api": "csp_AppApple",
+    "searchable": 1,
+    "changeable": 1
+  },
 {"key":"天天","name":"🐼天天影视🐼","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"ext":"http://op.ysdqjs.cn"},
  {"key":"忍者","name":"🐼夜猫忍者🐼","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://rzys.xyz"},   
-     {"key":"drpy_影探","name":"🐼夜猫影探🐼","type":3,"playerType":1,"api":"https://cloud.lxweb.cn/f/0Q9yU0/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/6pdQTw/%E6%96%B0%E6%8E%A2%E6%8E%A2.js"},    
-   {
-    "key": "ymtt",
-    "name": "🐼夜猫探探🐼",
-    "type": 3,"playerType": 1,
-    "api": "csp_Fangniu4k",
-    "searchable": 1,
-    "changeable": 0,
-    "jar": "https://cloud.lxweb.cn/f/Zr1NSz/Xyt.jar"
-  },
-     {
-          "key": "宇宙",
-          "name": "🐼宇宙4K🐼",
-          "type": 3,"playerType": 1,
-          "api": "csp_LvDou",
-          "jar": "https://cloud.lxweb.cn/f/DZ61T1/lvdou.jar",
-          "quickSearch": 1,
-          "changeable": 1,
-          "filterable": 1,
-          "timeout": 30,
-          "playerType": 1,
-          "ext": {
-              "server": "http://goulanzi.yuzhoukeji.top/api.php/app/",
-              "mackey": "toudongxidegou88|qunimagebisha857",
-              "danmu": true
-          }
-      },
-     {"key":"csp_长","name":"🐼厂长影视🐼","type":3,"api":"csp_CsCz","searchable":1,"changeable":1,"ext":"https://bo.czys.me@@疯子专用"},
-  {"key":"csp_南","name":"🐼南瓜影视🐼","type":3,"api":"csp_AppNg","searchable":1,"changeable":1,"ext":"http://ys.changmengyun.com/api.php/provide/@@疯子专用"},
+       {"key":"drpy_影探","name":"🐼夜猫影探[需配合神器使用]🐼","type":3,"playerType":1,"api":"https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/lE6PTw/%E6%96%B0%E6%8E%A2%E6%8E%A2.js"},    
+ 
+     {"key":"csp_长","name":"🐼厂长影视🐼","type":3,"api":"csp_CsCz","searchable":1,"changeable":1,"ext":"https://bo.czys.me@@夜猫子专用"},
+  {"key":"csp_南","name":"🐼南瓜影视🐼","type":3,"api":"csp_AppNg","searchable":1,"changeable":1,"ext":"http://ys.changmengyun.com/api.php/provide/@@夜猫子专用"},
   {"key":"csp_Kunyu77","name":"🐼七七影视🐼","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {
     "key": "py_1905",
@@ -72,36 +107,12 @@
     "key": "djtv",
     "name": "🐼短剧TV🐼",
     "type": 3,
-    "api": "https://cloud.lxweb.cn/f/0Q9yU0/drpy2.min.js",
+    "api": "https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js",
     "searchable": 0,
     "quickSearch": 1,
     "filterable": 0,
     "ext": "https://cloud.lxweb.cn/f/d8rLi2/%E7%9F%AD%E5%89%A7TV.js"
   },
-   {
-    "key": "网盘配置",
-    "name": "🐼网盘及彈幕配置🐼",
-    "jar": "https://cloud.lxweb.cn/f/dAqRf2/pg.jar",
-    "type": 3,
-    "api": "csp_Config",
-    "searchable": 0,
-    "changeable": 0,
-    "style": {
-      "type": "rect",
-      "ratio": 1
-    },
-    "ext":"./lib/tokenm.json"
-  },       
-      {
-    "key": "阿里设置",
-    "name": "🐼阿里签到🐼",
-    "type": 3,
-    "api": "csp_AliYunPan",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0,
-    "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-  }, 
    {"key": "csp_XYQHikerAL_土豆","name":"🐼阿里土豆(4K)🐼","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/qjWmfe/%E9%98%BF%E9%87%8C%E5%9C%9F%E8%B1%86.json"},
   {
     "key": "csp_gg",
@@ -120,15 +131,15 @@
 "api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
      
 {"key":"drpy_js_腾云驾雾","name":"🐼腾腾官源🐼","type":3,"playerType":2,
-"api":"https://cloud.lxweb.cn/f/0Q9yU0/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/mqpYuj/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"},
+"api":"https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/mqpYuj/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"},
 
 {"key":"drpy_js_百忙无果","name":"🐼芒芒官源🐼","type":3,"playerType":2,
-"api":"https://cloud.lxweb.cn/f/0Q9yU0/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/nGAdF6/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"},
+"api":"https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/nGAdF6/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"},
 
 {"key":"drpy_js_奇珍异兽","name":"🐼艺艺官源🐼","type":3,"playerType":2,
-"api":"https://cloud.lxweb.cn/f/0Q9yU0/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/N0mmCR/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"},
+"api":"https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/N0mmCR/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"},
 
-{"key":"drpy_yh","name":"🐼优优官源🐼","type":3,"playerType":2,"api":"https://cloud.lxweb.cn/f/0Q9yU0/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/EQmlhX/%E4%BC%98%E9%85%B7.js"},
+{"key":"drpy_yh","name":"🐼优优官源🐼","type":3,"playerType":2,"api":"https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/EQmlhX/%E4%BC%98%E9%85%B7.js"},
 {
     "key": "橘子",
     "name": "🐼橘子视频🐼",
@@ -292,7 +303,7 @@
   
   "搜索标题":"title=\"&&\"",
   
-  "搜索副标题":"疯子",
+  "搜索副标题":"夜猫子",
   
   "搜索图片":"src=\"&&\"",
   
@@ -514,15 +525,7 @@
           "filterable": 0,
           "ext": "https://www.80yy3.com"
   },
-
-   {
-    "key": "532短剧",
-    "name": "🐼我爱短剧🐼",
-    "type": 3,   "searchable": 1,
-    "api": "csp_XBPQ",
-    "ext": "分类url:http://admin.532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16"
-  },
-  
+ 
  {"key":"zp","name":"🐼臻品影视🐼","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/JPlEUk/%E8%87%BB%E5%93%81%E7%94%B5%E5%BD%B1.json"},    
 
 {"key":"零柒",
@@ -879,7 +882,7 @@
  "key": "鼻涕",
  "name": "🐼鼻涕影视🐼",
  "type": 3,"playerType":2,
- "api": "https://cloud.lxweb.cn/f/0Q9yU0/drpy2.min.js",
+ "api": "https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js",
  "searchable": 2,
  "quickSearch": 0,
  "filterable": 0,
@@ -1034,7 +1037,7 @@
  "key": "哔哩",
  "name": "🐼哔哩哔哩🐼",
  "type": 3,"playerType":2,
- "api": "https://cloud.lxweb.cn/f/0Q9yU0/drpy2.min.js",
+ "api": "https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js",
  "searchable": 2,
  "quickSearch": 0,
  "filterable": 0,
@@ -1048,7 +1051,7 @@
  "key": "dr_武享吧",
  "name": "🐼拳皇争霸🐼",
  "type": 3,"playerType":2,
- "api": "https://cloud.lxweb.cn/f/0Q9yU0/drpy2.min.js",
+ "api": "https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js",
  "searchable": 2,
  "quickSearch": 0,
  "filterable": 0,
@@ -1176,21 +1179,21 @@
  
 {"key":"6V","name":"🧲6V磁力搜","type":3,"api":"csp_XYQHiker","playerType":2,"ext":"https://cloud.lxweb.cn/f/Awllta/6V%E7%94%B5%E5%BD%B1.json"},
 {"key":"飞马影视","name":"🛫if101影视","type":1,"searchable":1,"quickSearch":1, "api":"http://rise.eu.org/api.php/provide/vod/from/if101"},
-{"key":"drpy_xb","name":"🛫小宝影视(墙外)","type":3,"playerType":2,"api":"https://cloud.lxweb.cn/f/0Q9yU0/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/wEa0u2/%E5%B0%8F%E5%AE%9D%E5%BD%B1%E9%99%A2.js"},
+{"key":"drpy_xb","name":"🛫小宝影视(墙外)","type":3,"playerType":2,"api":"https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/wEa0u2/%E5%B0%8F%E5%AE%9D%E5%BD%B1%E9%99%A2.js"},
 
 {"key":"drpy_ol","name":"🛫欧乐影视(墙外)","type":3,"playerType":2,"api":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2%5B%E9%A3%9E%5D.js"},
 
 {"key":"drpy_trj","name":"🛫华乐影视(墙外)","type":3,"playerType":2,"api":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/%E5%A4%A9%E5%A4%A9%E8%A7%86%E9%A2%91%5B%E9%A3%9E%5D.js"},
 
-{"key":"drpy_hh","name":"🛫吼吼影视(墙外)","type":3,"playerType":2,"api":"https://cloud.lxweb.cn/f/0Q9yU0/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/BxlAC9/HoHo%E5%BD%B1%E8%A7%86.js"},
+{"key":"drpy_hh","name":"🛫吼吼影视(墙外)","type":3,"playerType":2,"api":"https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/BxlAC9/HoHo%E5%BD%B1%E8%A7%86.js"},
 
-{"key":"drpy_od","name":"🛫欧帝影视(墙外)","type":3,"playerType":2,"api":"https://cloud.lxweb.cn/f/0Q9yU0/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/Wr2WcB/%E6%AC%A7%E5%B8%9D%E5%BD%B1%E9%99%A2.js"},
+{"key":"drpy_od","name":"🛫欧帝影视(墙外)","type":3,"playerType":2,"api":"https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/Wr2WcB/%E6%AC%A7%E5%B8%9D%E5%BD%B1%E9%99%A2.js"},
 
 {
   "key":"dr_美视网",
   "name":"🛫美视网(飞)",
   "type":3,"playerType":2,
-  "api":"https://cloud.lxweb.cn/f/0Q9yU0/drpy2.min.js",
+  "api":"https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js",
   "ext":"https://cloud.lxweb.cn/f/0QODt0/%E7%BE%8E%E8%A7%86%E7%BD%91.js"
 },
 
