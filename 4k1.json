@@ -14,32 +14,20 @@
 "wallpaper": "https://yun.chuqiuyu.tk",
 "sites":[ {"key":"sp2345","name":"🐼2345影视🐼","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1
 },
-   {
-          "key": "网盘配置",
-          "name": "🐼网盘及彈幕配置🐼",
-          "jar": "https://cloud.lxweb.cn/f/dAqRf2/pg.jar",
-          "type": 3,
-          "api": "csp_Config",
-          "searchable": 0,
-          "changeable": 0,
-          "style": {
-              "type": "rect",
-              "ratio": 1
-          },
-          "ext":"./lib/tokenm.json"
-      },       
-      {
-    "key": "阿里设置",
-    "name": "🐼阿里签到🐼",
-    "type": 3,
-    "api": "csp_AliYunPan",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0,
-    "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-  }, 
 {"key":"drpy_js_菜狗","name":"🐼狗狗官源🐼","type":3,"playerType":2,"api":"https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/a7Mlc6/%E8%8F%9C%E7%8B%97.js"}, 
- {
+{"key": "csp_XYQHikerAL_土豆","name":"🐼阿里土豆(4K)🐼","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/qjWmfe/%E9%98%BF%E9%87%8C%E5%9C%9F%E8%B1%86.json"},
+{
+  "key": "csp_gg",
+  "name": "🐼玩偶哥哥🐼",
+  "type": 3,
+  "api": "csp_XYQHikerAL",
+  "playerType": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://cloud.lxweb.cn/f/XYRxSK/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"
+},
+{
     "key":"酷看",
     "name":"🐼酷看影视🐼",
     "type":3,
@@ -66,21 +54,20 @@
 }
 },
 
-   {"key":"csp_freeok","name":"🐼夜猫菲克🐼","type":3,"jar": "https://cloud.lxweb.cn/f/8MJyc1/fk.jar","api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1},
+   {"key":"csp_freeok","name":"🐼疯子菲克🐼","type":3,"jar": "https://cloud.lxweb.cn/f/8MJyc1/fk.jar","api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1},
    {
     "key": "Wev",
-    "name": "🐼夜猫小苹果🐼",
+    "name": "🐼疯子小苹果🐼",
     "type": 3,"playerType":1,
     "api": "csp_AppApple",
     "searchable": 1,
     "changeable": 1
   },
 {"key":"天天","name":"🐼天天影视🐼","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"ext":"http://op.ysdqjs.cn"},
- {"key":"忍者","name":"🐼夜猫忍者🐼","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://rzys.xyz"},   
-       {"key":"drpy_影探","name":"🐼夜猫影探[需配合神器使用]🐼","type":3,"playerType":1,"api":"https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/lE6PTw/%E6%96%B0%E6%8E%A2%E6%8E%A2.js"},    
+ {"key":"忍者","name":"🐼疯子忍者🐼","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://rzys.xyz"},     
  
-     {"key":"csp_长","name":"🐼厂长影视🐼","type":3,"api":"csp_CsCz","searchable":1,"changeable":1,"ext":"https://bo.czys.me@@夜猫子专用"},
-  {"key":"csp_南","name":"🐼南瓜影视🐼","type":3,"api":"csp_AppNg","searchable":1,"changeable":1,"ext":"http://ys.changmengyun.com/api.php/provide/@@夜猫子专用"},
+     {"key":"csp_长","name":"🐼厂长影视🐼","type":3,"api":"csp_CsCz","searchable":1,"changeable":1,"ext":"https://bo.czys.me@@疯子专用"},
+  {"key":"csp_南","name":"🐼南瓜影视🐼","type":3,"api":"csp_AppNg","searchable":1,"changeable":1,"ext":"http://ys.changmengyun.com/api.php/provide/@@疯子专用"},
   {"key":"csp_Kunyu77","name":"🐼七七影视🐼","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {
     "key": "py_1905",
@@ -112,18 +99,6 @@
     "quickSearch": 1,
     "filterable": 0,
     "ext": "https://cloud.lxweb.cn/f/d8rLi2/%E7%9F%AD%E5%89%A7TV.js"
-  },
-   {"key": "csp_XYQHikerAL_土豆","name":"🐼阿里土豆(4K)🐼","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/qjWmfe/%E9%98%BF%E9%87%8C%E5%9C%9F%E8%B1%86.json"},
-  {
-    "key": "csp_gg",
-    "name": "🐼玩偶哥哥🐼",
-    "type": 3,
-    "api": "csp_XYQHikerAL",
-    "playerType": 1,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://cloud.lxweb.cn/f/XYRxSK/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"
   },
 
 {"key":"csp_SP360","name":"🐼360官源🐼","type":3,
@@ -303,7 +278,7 @@
   
   "搜索标题":"title=\"&&\"",
   
-  "搜索副标题":"夜猫子",
+  "搜索副标题":"疯子",
   
   "搜索图片":"src=\"&&\"",
   
@@ -391,7 +366,7 @@
   },
 {
       "key": "夜猫2",
-      "name": "🐼夜猫电影🐼",
+      "name": "🐼疯子电影🐼",
       "type": 3,"playerType":1,
       "api": "https://notabug.org/ymz123/TVBOX/raw/master/Js/AppYsV2.js",
       "ext": {
@@ -934,7 +909,7 @@
       {"key": "csp_XYQHikerAL_阿里云盘网","name":"📀阿里云盘(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/82lrF1/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E7%BD%91.json"},
       {"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX(搜索)","type":3,"playerType":1,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/orAwiY/DOVX%E6%90%9C%E7%B4%A2.json"},
       {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/GDlASg/%E7%9B%98%E6%90%9C%E7%B4%A2.json"},   
-  {"key":"yc","name":"🐼夜猫影巢4K🐼","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,
+  {"key":"yc","name":"🐼疯子影巢4K🐼","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,
   "jar":"https://cloud.lxweb.cn/f/dAqRf2/pg.jar","ext":"c19e13720f084354971732d29c7f3c96"},     
 
    
