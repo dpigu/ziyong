@@ -1,11 +1,11 @@
 {
-  "spider": "https://wp.007irs.com/f/eXm5gcO/moyuer.jar;md5;3edd5b35b711aec07151a0f3a3e80107",
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "warningText": "4K资源要设置里填写阿里云盘token",
+  "spider": "http://我不是.摸鱼儿.top/0324/jar/moyuer.php;md5;be6121b5c37471b191114027123912d2",
+  "wallpaper": "http://摸鱼儿.xiyan.life/摸鱼壁纸/api.php",
+  "warningText": "疯子：4K资源要设置里填写阿里云盘token",
   "sites": [
     {
       "key": "豆豆",
-      "name": "🐼豆瓣┃推荐",
+      "name": "🐼豆瓣推荐",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -14,7 +14,7 @@
     },
     {
       "key": "update",
-      "name": "🐼03.24┃更新",
+      "name": "🐼03.24更新",
       "type": 3,
       "api": "csp_update",
       "searchable": 0,
@@ -23,10 +23,10 @@
     },
     {
       "key": "登录",
-      "name": "🐼云盘┃登录",
+      "name": "🐼云盘登录",
       "type": 3,
       "api": "csp_AliYunPan",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -34,10 +34,10 @@
     },
     {
       "key": "弹幕配置",
-      "name": "🐼高级┃设置",
+      "name": "🐼高级设置",
       "type": 3,
       "api": "csp_Config",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
@@ -47,21 +47,11 @@
       }
     },
     {
-      "key": "直播转点播",
-      "name": "🐼疯子┃电视",
-      "type": 3,
-      "api": "https://wp.007irs.com/f/4XewZfy/moyulive.js",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://wp.007irs.com/f/AxZLECO/mylive.json"
-    },
-    {
       "key": "push_agent",
       "name": "🛴手机┃推送",
       "type": 3,
       "api": "csp_Push",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
@@ -71,13 +61,13 @@
         "danmu": true
       },
       "timeout": 15
-    }
+    },
     {
       "key": "doudouxie",
       "name": "🐼玩偶【弹幕】4K",
       "type": 3,
       "api": "csp_Wogg",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -103,7 +93,7 @@
       "name": "🐼土豆【弹幕】4K",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -120,7 +110,7 @@
       "name": "🐼团长【弹幕】4K",
       "type": 3,
       "api": "csp_Tzfile",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -136,62 +126,62 @@
       "name": "🐼苏苏【纯净】4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://wp.007irs.com/f/wLwmohk/mysusu.json"
+      "ext": "http://我不是.摸鱼儿.top/0324/api/susu.php"
     },
     {
       "key": "wojog",
       "name": "🐼琉璃心【纯净】4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://wp.007irs.com/f/alrnwUm/mywoj.json"
+      "ext": "http://我不是.摸鱼儿.top/0324/api/woj.php"
     },
     {
       "key": "womog",
       "name": "🐼锦书缘【纯净】4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://wp.007irs.com/f/M21oyiO/mywom.json"
+      "ext": "http://我不是.摸鱼儿.top/0324/api/wom.php"
     },
     {
       "key": "wodog",
       "name": "🐼飞鸿影【纯净】4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://wp.007irs.com/f/zZmKOuE/mywod.json"
+      "ext": "http://我不是.摸鱼儿.top/0324/api/wod.php"
     },
     {
       "key": "woxog",
       "name": "🐼雪落尘【纯净】4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://wp.007irs.com/f/Qq2jrfL/myluoxue.json"
+      "ext": "http://我不是.摸鱼儿.top/0324/api/luoxue.php"
     },
     {
       "key": "厂长弹幕版",
       "name": "蓝光🐼厂长|弹幕",
       "type": 3,
       "api": "csp_Czzy",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -217,7 +207,7 @@
       "name": "蓝光🐼南瓜|弹幕",
       "type": 3,
       "api": "csp_Nangua",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -242,7 +232,7 @@
       "name": "蓝光🐼南瓜|纯净",
       "type": 3,
       "api": "csp_AppYSDQ",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -252,7 +242,7 @@
       "name": "蓝光🐼酷看|弹幕",
       "type": 3,
       "api": "csp_Kkys",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -276,7 +266,7 @@
       "name": "蓝光🐼白嫖|弹幕",
       "type": 3,
       "api": "csp_Cs1369",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -290,11 +280,11 @@
       "name": "蓝光🐼白嫖|在线",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://wp.007irs.com/f/nZN3esP/%E7%99%BD%E5%AB%96%E5%BD%B1%E8%A7%86.json"
+      "ext": "http://我不是.摸鱼儿.top/0324/api/白嫖影视.php"
     },
     {
       "key": "苹果",
@@ -320,7 +310,7 @@
       "name": "蓝光🐼荐片|弹幕",
       "type": 3,
       "api": "csp_Jianpian",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -375,7 +365,7 @@
       "name": "蓝光🐼天天|纯净",
       "type": 3,
       "api": "csp_TTian",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "ext": "http://op.ysdqjs.cn"
     },
     {
@@ -433,7 +423,7 @@
       "name": "蓝光🐼快看|纯净",
       "type": 3,
       "api": "csp_Kuaikan",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -442,156 +432,156 @@
       "key": "达达龟",
       "name": "蓝光🐼达达龟|在线",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/达达龟.js"
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/达达龟.js"
     },
     {
       "key": "乐鱼影视",
       "name": "蓝光🐼乐鱼|在线",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/乐鱼影视.js"
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/乐鱼影视.js"
     },
     {
       "key": "三四八",
       "name": "蓝光🐼348|在线",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/三四八.json"
+      "ext": "http://我不是.摸鱼儿.top/0324/api/三四八.php"
     },
     {
       "key": "冷曦影视",
       "name": "蓝光🐼冷曦|在线",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/冷曦影视.json"
+      "ext": "http://我不是.摸鱼儿.top/0324/api/冷曦影视.php"
     },
     {
       "key": "蛋蛋影视",
       "name": "蓝光🐼蛋蛋|在线",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/蛋蛋影视.json"
+      "ext": "http://我不是.摸鱼儿.top/0324/api/蛋蛋.php"
     },
     {
       "key": "五五影视",
       "name": "蓝光🐼五五|在线",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/五五影视.json"
+      "ext": "http://我不是.摸鱼儿.top/0324/api/五五.php"
     },
     {
       "key": "巅峰影视",
       "name": "蓝光🐼巅峰|在线",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/疯狗影视.json"
+      "ext": "http://我不是.摸鱼儿.top/0324/api/巅峰.php"
     },
     {
       "key": "电影牛",
       "name": "蓝光🐼电影牛|在线",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/电影牛.json"
+      "ext": "http://我不是.摸鱼儿.top/0324/api/电影牛.php"
     },
     {
       "key": "子子影视",
       "name": "蓝光🐼子子|在线",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/子子影视.json"
+      "ext": "http://我不是.摸鱼儿.top/0324/api/子子.php"
     },
     {
       "key": "歪片星球",
       "name": "蓝光🐼歪片|在线",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/歪片星球.json"
+      "ext": "http://我不是.摸鱼儿.top/0324/api/歪片.php"
     },
     {
       "key": "奇趣影视",
       "name": "蓝光🐼奇趣|在线",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/奇趣影视.json"
+      "ext": "http://我不是.摸鱼儿.top/0324/api/奇趣.php"
     },
     {
       "key": "看了么",
       "name": "蓝光🐼看了么|在线",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/看了么.js"
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/看了么.js"
     },
     {
       "key": "网飞影视",
       "name": "蓝光🐼网飞|在线",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/网飞TV.js"
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/网飞TV.js"
     },
     {
       "key": "魔力高清",
       "name": "蓝光🐼魔力|在线",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/HDmoli.js"
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/HDmoli.js"
     },
     {
       "key": "在线之家",
       "name": "蓝光🐼在线|之家",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/在线之家.js"
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/在线之家.js"
     },
     {
       "key": "碟调影视",
       "name": "蓝光🐼碟调|在线",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/碟调影视.js"
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/碟调影视.js"
     },
     {
       "key": "csp_77",
       "name": "蓝光🐼七七|纯净",
       "type": 3,
       "api": "csp_Kunyu77",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -601,7 +591,7 @@
       "name": "蓝光🐼奈飞|纯净",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -621,7 +611,7 @@
       "name": "动漫🐼樱花动漫|蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "ext": "分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
     },
     {
@@ -629,7 +619,7 @@
       "name": "动漫🐼稀饭|蓝光",
       "type": 3,
       "api": "csp_Xifan",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -639,18 +629,18 @@
       "name": "动漫🐼维奇|蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/维奇动漫.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/维奇动漫.json"
     },
     {
       "key": "csp_Ying",
       "name": "动漫🐼樱花|蓝光",
       "type": 3,
       "api": "csp_Ying",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -677,43 +667,43 @@
       "key": "58动漫",
       "name": "动漫🐼58|蓝光",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/58动漫.js"
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/58动漫.js"
     },
     {
       "key": "去看吧",
       "name": "动漫🐼去看吧|蓝光",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/去看吧.js"
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/去看吧.js"
     },
     {
       "key": "爱弹幕",
       "name": "动漫🐼爱弹幕|蓝光",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/爱弹幕.js"
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱弹幕.js"
     },
     {
       "key": "喵次元",
       "name": "动漫🐼喵次元|蓝光",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/喵次元.js"
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/喵次元.js"
     },
     {
       "key": "曲奇动漫",
       "name": "动漫🐼曲奇|蓝光",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/曲奇动漫.js"
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/曲奇动漫.js"
     },
     {
       "key": "短剧星",
       "name": "🐼短剧星",
       "type": 3,
       "api": "csp_App",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -724,7 +714,7 @@
       "name": "🐼短剧TV",
       "type": 3,
       "api": "csp_Duanju5",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -738,28 +728,28 @@
       "name": "🐼短剧网",
       "type": 3,
       "api": "csp_Duanjuw",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
     {
       "key": "csp_XPath_鹅直播",
-      "name": "企鹅直播",
+      "name": "🐼企鹅直播",
       "type": 3,
       "api": "csp_XPath",
-      "jar": "https://wp.007irs.com/f/1Oe67Tn/myxyq.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/qie.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/qie.json"
     },
     {
       "key": "虎牙直播js",
-      "name": "虎牙直播",
+      "name": "🐼虎牙直播",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/虎牙直播.js",
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
       "style": {
         "type": "list"
       },
@@ -769,10 +759,10 @@
     },
     {
       "key": "csp_XYQBiu_斗鱼",
-      "name": "斗鱼直播",
+      "name": "🐼斗鱼直播",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/斗鱼直播.js",
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -783,10 +773,10 @@
     },
     {
       "key": "快手直播",
-      "name": "快手直播",
+      "name": "🐼快手直播",
       "type": 3,
       "api": "csp_KsLive",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -798,10 +788,10 @@
     },
     {
       "key": "JustLive",
-      "name": "聚合直播",
+      "name": "🐼聚合直播",
       "type": 3,
       "api": "csp_JustLive",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -812,7 +802,7 @@
     },
     {
       "key": "Bili",
-      "name": "哔哩合集",
+      "name": "🐼哔哩合集",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -822,11 +812,11 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/bilibili.json"
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"
     },
     {
       "key": "Biliych",
-      "name": "哔哩歌曲",
+      "name": "🐼哔哩歌曲",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -836,14 +826,14 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/biliych.json"
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"
     },
     {
       "key": "看球",
       "name": "⚽看球┃在线",
       "type": 3,
       "api": "csp_Kanqiu",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -855,38 +845,38 @@
       "key": "drpy_js_310直播",
       "name": "⚽310直播",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/nxog.js",
+      "api": "https://raw.cachefly.998111.xyz/ouhaibo1980/tvbox/master/js/nxog.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/2.js"
+      "ext": "https://raw.cachefly.998111.xyz/ouhaibo1980/tvbox/master/js/2.js"
     },
     {
       "key": "drpy_js_88看球",
       "name": "⚽88看球",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/nxog.js",
+      "api": "https://raw.cachefly.998111.xyz/ouhaibo1980/tvbox/master/js/nxog.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/1.js"
+      "ext": "https://raw.cachefly.998111.xyz/ouhaibo1980/tvbox/master/js/1.js"
     },
     {
       "key": "drpy_js_JRKAN直播",
       "name": "⚽JRKAN直播",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/nxog.js",
+      "api": "https://raw.cachefly.998111.xyz/ouhaibo1980/tvbox/master/js/nxog.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/3.js"
+      "ext": "https://raw.cachefly.998111.xyz/ouhaibo1980/tvbox/master/js/3.js"
     },
     {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy2.min.js",
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/兔小贝.js",
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -907,7 +897,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/少儿教育.json"
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -921,7 +911,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/小学课堂.json"
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -935,7 +925,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/初中课堂.json"
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -949,19 +939,19 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/高中课堂.json"
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/高中课堂.json"
     },
     {
       "key": "csp_AList",
       "name": "聚合🐼小雅|分享",
       "type": 3,
       "api": "csp_AList",
-      "jar": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top/0324/jar/mypg.php",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mypg.php",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/xiaoya.json"
+      "ext": "http://我不是.摸鱼儿.top/0324/api/xiaoya.php"
     },
     {
       "key": "Aid",
@@ -1021,7 +1011,7 @@
       "name": "🤓趣盘搜┃搜索",
       "type": 3,
       "api": "csp_QuPanSou",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -1036,7 +1026,7 @@
       "name": "🐚夸克盘搜┃搜索",
       "type": 3,
       "api": "csp_Qkpanso",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -1051,7 +1041,7 @@
       "name": "🥰爱盘搜┃搜索",
       "type": 3,
       "api": "csp_AiPanSou",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -1066,7 +1056,7 @@
       "name": "🗞纸条┃搜索",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -1081,7 +1071,7 @@
       "name": "🙀盘Se┃搜索",
       "type": 3,
       "api": "csp_PanSearch",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1096,7 +1086,7 @@
       "name": "🐺找资源┃搜索",
       "type": 3,
       "api": "csp_Zhaozy",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1111,7 +1101,7 @@
       "name": "😾七夜┃搜索",
       "type": 3,
       "api": "csp_Dovx",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1126,7 +1116,7 @@
       "name": "🦊盘搜┃搜索",
       "type": 3,
       "api": "csp_PanSou",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1141,7 +1131,7 @@
       "name": "😹易搜┃搜索",
       "type": 3,
       "api": "csp_YiSo",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1157,7 +1147,7 @@
       "name": "😻Up搜┃搜索",
       "type": 3,
       "api": "csp_Upys",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1172,7 +1162,7 @@
       "name": "🤖云盘4K┃搜索",
       "type": 3,
       "api": "csp_Yunpan4k",
-      "jar": "https://wp.007irs.com/f/6wlMqS0/myok.jar",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1182,6 +1172,16 @@
         "danmu": true
       },
       "timeout": 15
+    },
+    {
+      "key": "直播转点播",
+      "name": "🐼疯子电视",
+      "type": 3,
+      "api": "https://wp.007irs.com/f/l4WOMtG/moyulive.js",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://wp.007irs.com/f/E1XRmhZ/mylive.json"
     }
   ],
   "parses": [
@@ -1591,7 +1591,7 @@
     {
       "name": "SAO0",
       "type": 0,
-      "url": "https://cloud.lxweb.cn/f/P0klcb/mylive.txt",
+      "url": "http://我不是.摸鱼儿.top/live.php",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
