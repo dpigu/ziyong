@@ -1,5 +1,5 @@
 {
-  "spider": "./my/jar/moyuer.jar;md5;be6121b5c37471b191114027123912d2",
+  "spider": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/moyuer.jar;md5;be6121b5c37471b191114027123912d2",
   "wallpaper": "https://ax1x.com/2023/12/29/piLOJTH.png",
   "warningText": "4K资源要设置里填写阿里云盘token",
   "sites": [
@@ -26,7 +26,7 @@
       "name": "🐼云盘登录",
       "type": 3,
       "api": "csp_AliYunPan",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -37,7 +37,7 @@
       "name": "🐼高级设置",
       "type": 3,
       "api": "csp_Config",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
@@ -50,18 +50,18 @@
       "key": "直播转点播",
       "name": "疯子电视",
       "type": 3,
-      "api": "./my/js/moyulive.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/moyulive.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./my/json/mylive.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/mylive.json"
     },
     {
       "key": "push_agent",
       "name": "🛴手机┃推送",
       "type": 3,
       "api": "csp_Push",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
@@ -77,7 +77,7 @@
       "name": "🐼玩偶【弹幕】4K",
       "type": 3,
       "api": "csp_Wogg",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -103,7 +103,7 @@
       "name": "🐼土豆【弹幕】4K",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -120,7 +120,7 @@
       "name": "🐼团长【弹幕】4K",
       "type": 3,
       "api": "csp_Tzfile",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -136,62 +136,62 @@
       "name": "🐼苏苏【纯净】4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./my/json/mysusu.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/mysusu.json"
     },
     {
       "key": "wojog",
       "name": "🐼琉璃心【纯净】4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./my/json/mywoj.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/mywoj.json"
     },
     {
       "key": "womog",
       "name": "🐼锦书缘【纯净】4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./my/json/mywom.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/mywom.json"
     },
     {
       "key": "wodog",
       "name": "🐼飞鸿影【纯净】4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./my/json/mywod.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/mywod.json"
     },
     {
       "key": "woxog",
       "name": "🐼雪落尘【纯净】4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./my/json/myluoxue.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/myluoxue.json"
     },
     {
       "key": "厂长弹幕版",
       "name": "蓝光🐼厂长|弹幕",
       "type": 3,
       "api": "csp_Czzy",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -217,7 +217,7 @@
       "name": "蓝光🐼南瓜|弹幕",
       "type": 3,
       "api": "csp_Nangua",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -242,7 +242,7 @@
       "name": "蓝光🐼南瓜|纯净",
       "type": 3,
       "api": "csp_AppYSDQ",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -252,7 +252,7 @@
       "name": "蓝光🐼酷看|弹幕",
       "type": 3,
       "api": "csp_Kkys",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -276,7 +276,7 @@
       "name": "蓝光🐼白嫖|弹幕",
       "type": 3,
       "api": "csp_Cs1369",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -290,11 +290,11 @@
       "name": "蓝光🐼白嫖|在线",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./my/json/白嫖影视.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/白嫖影视.json"
     },
     {
       "key": "苹果",
@@ -320,7 +320,7 @@
       "name": "蓝光🐼荐片|弹幕",
       "type": 3,
       "api": "csp_Jianpian",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -375,7 +375,7 @@
       "name": "蓝光🐼天天|纯净",
       "type": 3,
       "api": "csp_TTian",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "ext": "http://op.ysdqjs.cn"
     },
     {
@@ -433,7 +433,7 @@
       "name": "蓝光🐼快看|纯净",
       "type": 3,
       "api": "csp_Kuaikan",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -442,156 +442,156 @@
       "key": "达达龟",
       "name": "蓝光🐼达达龟|在线",
       "type": 3,
-      "api": "./my/js/drpy.min.js",
-      "ext": "./my/js/达达龟.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/达达龟.js"
     },
     {
       "key": "乐鱼影视",
       "name": "蓝光🐼乐鱼|在线",
       "type": 3,
-      "api": "./my/js/drpy.min.js",
-      "ext": "./my/js/乐鱼影视.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/乐鱼影视.js"
     },
     {
       "key": "三四八",
       "name": "蓝光🐼348|在线",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./my/json/三四八.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/三四八.json"
     },
     {
       "key": "冷曦影视",
       "name": "蓝光🐼冷曦|在线",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./my/json/冷曦影视.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/冷曦影视.json"
     },
     {
       "key": "蛋蛋影视",
       "name": "蓝光🐼蛋蛋|在线",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./my/json/蛋蛋影视.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/蛋蛋影视.json"
     },
     {
       "key": "五五影视",
       "name": "蓝光🐼五五|在线",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./my/json/五五影视.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/五五影视.json"
     },
     {
       "key": "巅峰影视",
       "name": "蓝光🐼巅峰|在线",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./my/json/疯狗影视.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/疯狗影视.json"
     },
     {
       "key": "电影牛",
       "name": "蓝光🐼电影牛|在线",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./my/json/电影牛.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/电影牛.json"
     },
     {
       "key": "子子影视",
       "name": "蓝光🐼子子|在线",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./my/json/子子影视.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/子子影视.json"
     },
     {
       "key": "歪片星球",
       "name": "蓝光🐼歪片|在线",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./my/json/歪片星球.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/歪片星球.json"
     },
     {
       "key": "奇趣影视",
       "name": "蓝光🐼奇趣|在线",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./my/json/奇趣影视.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/奇趣影视.json"
     },
     {
       "key": "看了么",
       "name": "蓝光🐼看了么|在线",
       "type": 3,
-      "api": "./my/js/drpy.min.js",
-      "ext": "./my/js/看了么.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/看了么.js"
     },
     {
       "key": "网飞影视",
       "name": "蓝光🐼网飞|在线",
       "type": 3,
-      "api": "./my/js/drpy.min.js",
-      "ext": "./my/js/网飞TV.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/网飞TV.js"
     },
     {
       "key": "魔力高清",
       "name": "蓝光🐼魔力|在线",
       "type": 3,
-      "api": "./my/js/drpy.min.js",
-      "ext": "./my/js/HDmoli.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/HDmoli.js"
     },
     {
       "key": "在线之家",
       "name": "蓝光🐼在线|之家",
       "type": 3,
-      "api": "./my/js/drpy.min.js",
-      "ext": "./my/js/在线之家.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/在线之家.js"
     },
     {
       "key": "碟调影视",
       "name": "蓝光🐼碟调|在线",
       "type": 3,
-      "api": "./my/js/drpy.min.js",
-      "ext": "./my/js/碟调影视.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/碟调影视.js"
     },
     {
       "key": "csp_77",
       "name": "蓝光🐼七七|纯净",
       "type": 3,
       "api": "csp_Kunyu77",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -601,7 +601,7 @@
       "name": "蓝光🐼奈飞|纯净",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -621,7 +621,7 @@
       "name": "动漫🐼樱花动漫|蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "ext": "分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
     },
     {
@@ -629,7 +629,7 @@
       "name": "动漫🐼稀饭|蓝光",
       "type": 3,
       "api": "csp_Xifan",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -639,18 +639,18 @@
       "name": "动漫🐼维奇|蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./my/json/维奇动漫.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/维奇动漫.json"
     },
     {
       "key": "csp_Ying",
       "name": "动漫🐼樱花|蓝光",
       "type": 3,
       "api": "csp_Ying",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -677,43 +677,43 @@
       "key": "58动漫",
       "name": "动漫🐼58|蓝光",
       "type": 3,
-      "api": "./my/js/drpy.min.js",
-      "ext": "./my/js/58动漫.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/58动漫.js"
     },
     {
       "key": "去看吧",
       "name": "动漫🐼去看吧|蓝光",
       "type": 3,
-      "api": "./my/js/drpy.min.js",
-      "ext": "./my/js/去看吧.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/去看吧.js"
     },
     {
       "key": "爱弹幕",
       "name": "动漫🐼爱弹幕|蓝光",
       "type": 3,
-      "api": "./my/js/drpy.min.js",
-      "ext": "./my/js/爱弹幕.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/爱弹幕.js"
     },
     {
       "key": "喵次元",
       "name": "动漫🐼喵次元|蓝光",
       "type": 3,
-      "api": "./my/js/drpy.min.js",
-      "ext": "./my/js/喵次元.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/喵次元.js"
     },
     {
       "key": "曲奇动漫",
       "name": "动漫🐼曲奇|蓝光",
       "type": 3,
-      "api": "./my/js/drpy.min.js",
-      "ext": "./my/js/曲奇动漫.js"
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/曲奇动漫.js"
     },
     {
       "key": "短剧星",
       "name": "🐼短剧星",
       "type": 3,
       "api": "csp_App",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -724,7 +724,7 @@
       "name": "🐼短剧TV",
       "type": 3,
       "api": "csp_Duanju5",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -738,7 +738,7 @@
       "name": "🐼短剧网",
       "type": 3,
       "api": "csp_Duanjuw",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -748,18 +748,18 @@
       "name": "企鹅直播",
       "type": 3,
       "api": "csp_XPath",
-      "jar": "./my/jar/myxyq.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./my/json/qie.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/qie.json"
     },
     {
       "key": "虎牙直播js",
       "name": "虎牙直播",
       "type": 3,
-      "api": "./my/js/drpy2.min.js",
-      "ext": "./my/js/虎牙直播.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/虎牙直播.js",
       "style": {
         "type": "list"
       },
@@ -771,8 +771,8 @@
       "key": "csp_XYQBiu_斗鱼",
       "name": "斗鱼直播",
       "type": 3,
-      "api": "./my/js/drpy2.min.js",
-      "ext": "./my/js/斗鱼直播.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -786,7 +786,7 @@
       "name": "快手直播",
       "type": 3,
       "api": "csp_KsLive",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -801,7 +801,7 @@
       "name": "聚合直播",
       "type": 3,
       "api": "csp_JustLive",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -822,7 +822,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./my/json/bilibili.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/bilibili.json"
     },
     {
       "key": "Biliych",
@@ -836,14 +836,14 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./my/json/biliych.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/biliych.json"
     },
     {
       "key": "看球",
       "name": "⚽看球┃在线",
       "type": 3,
       "api": "csp_Kanqiu",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -855,38 +855,38 @@
       "key": "drpy_js_310直播",
       "name": "⚽310直播",
       "type": 3,
-      "api": "./my/js/nxog.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/nxog.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./my/js/2.js"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/2.js"
     },
     {
       "key": "drpy_js_88看球",
       "name": "⚽88看球",
       "type": 3,
-      "api": "./my/js/nxog.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/nxog.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./my/js/1.js"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/1.js"
     },
     {
       "key": "drpy_js_JRKAN直播",
       "name": "⚽JRKAN直播",
       "type": 3,
-      "api": "./my/js/nxog.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/nxog.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./my/js/3.js"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/3.js"
     },
     {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "./my/js/drpy2.min.js",
-      "ext": "./my/js/兔小贝.js",
+      "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/drpy2.min.js",
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -907,7 +907,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./my/json/少儿教育.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -921,7 +921,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./my/json/小学课堂.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -935,7 +935,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./my/json/初中课堂.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -949,7 +949,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./my/json/高中课堂.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/高中课堂.json"
     },
     {
       "key": "csp_AList",
@@ -961,7 +961,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./my/json/xiaoya.json"
+      "ext": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/json/xiaoya.json"
     },
     {
       "key": "Aid",
@@ -1021,7 +1021,7 @@
       "name": "🤓趣盘搜┃搜索",
       "type": 3,
       "api": "csp_QuPanSou",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -1036,7 +1036,7 @@
       "name": "🐚夸克盘搜┃搜索",
       "type": 3,
       "api": "csp_Qkpanso",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -1051,7 +1051,7 @@
       "name": "🥰爱盘搜┃搜索",
       "type": 3,
       "api": "csp_AiPanSou",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -1066,7 +1066,7 @@
       "name": "🗞纸条┃搜索",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -1081,7 +1081,7 @@
       "name": "🙀盘Se┃搜索",
       "type": 3,
       "api": "csp_PanSearch",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1096,7 +1096,7 @@
       "name": "🐺找资源┃搜索",
       "type": 3,
       "api": "csp_Zhaozy",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1111,7 +1111,7 @@
       "name": "😾七夜┃搜索",
       "type": 3,
       "api": "csp_Dovx",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1126,7 +1126,7 @@
       "name": "🦊盘搜┃搜索",
       "type": 3,
       "api": "csp_PanSou",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1141,7 +1141,7 @@
       "name": "😹易搜┃搜索",
       "type": 3,
       "api": "csp_YiSo",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1157,7 +1157,7 @@
       "name": "😻Up搜┃搜索",
       "type": 3,
       "api": "csp_Upys",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -1172,7 +1172,7 @@
       "name": "🤖云盘4K┃搜索",
       "type": 3,
       "api": "csp_Yunpan4k",
-      "jar": "./my/jar/myok.jar",
+      "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
