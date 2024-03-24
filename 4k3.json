@@ -57,22 +57,6 @@
       "ext": "https://wp.007irs.com/f/E1XRmhZ/mylive.json"
     },
     {
-      "key": "push_agent",
-      "name": "🛴手机┃推送",
-      "type": 3,
-      "api": "csp_Push",
-      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 15
-    },
-    {
       "key": "doudouxie",
       "name": "🐼玩偶【弹幕】4K",
       "type": 3,
