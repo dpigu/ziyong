@@ -1170,17 +1170,7 @@
   "type":3,"playerType":2,
   "api":"https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js",
   "ext":"https://cloud.lxweb.cn/f/0QODt0/%E7%BE%8E%E8%A7%86%E7%BD%91.js"
-},
-
-      {
-          "key": "應用商店",
-          "name": "应用商店",
-          "type": 3,"jar":"https://cloud.lxweb.cn/f/dAqRf2/pg.jar",
-          "api": "csp_Market",
-          "searchable": 0,
-          "changeable": 0,
-          "ext": "https://cloud.lxweb.cn/f/yEVOHE/app.json"
-      }
+}
       
 
 ],
