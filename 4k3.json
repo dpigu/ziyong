@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🐼豆瓣推荐",
+      "name": "🐼豆瓣┃推荐",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -14,7 +14,7 @@
     },
     {
       "key": "update",
-      "name": "🐼03.24更新",
+      "name": "🐼03.24┃更新",
       "type": 3,
       "api": "csp_update",
       "searchable": 0,
@@ -23,7 +23,7 @@
     },
     {
       "key": "登录",
-      "name": "🐼云盘登录",
+      "name": "🐼云盘┃登录",
       "type": 3,
       "api": "csp_AliYunPan",
       "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myxyq.jar",
@@ -34,7 +34,7 @@
     },
     {
       "key": "弹幕配置",
-      "name": "🐼高级设置",
+      "name": "🐼高级┃设置",
       "type": 3,
       "api": "csp_Config",
       "jar": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/jar/myok.jar",
@@ -48,7 +48,7 @@
     },
     {
       "key": "直播转点播",
-      "name": "疯子电视",
+      "name": "🐼疯子┃电视",
       "type": 3,
       "api": "https://jihulab.com/dpigu/ziyong/-/raw/main/my/js/moyulive.js",
       "searchable": 0,
@@ -1196,7 +1196,7 @@
       "url": "Web"
     },
     {
-      "name": "摸鱼解析A",
+      "name": "疯子解析A",
       "type": 1,
       "url": "https://api.qljson.xyz/api/?key=11781ab2890bcb53fdb4b2ad27503d7c&url=",
       "ext": {
@@ -1223,7 +1223,7 @@
       }
     },
     {
-      "name": "摸鱼解析B",
+      "name": "疯子解析B",
       "type": 1,
       "url": "https://api.qljson.xyz/api/?key=11781ab2890bcb53fdb4b2ad27503d7c&url=",
       "ext": {
@@ -1250,7 +1250,7 @@
       }
     },
     {
-      "name": "摸鱼解析C",
+      "name": "疯子解析C",
       "type": 1,
       "url": "https://mg.zrjx.xyz/?url=",
       "ext": {
