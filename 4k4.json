@@ -1,0 +1,136 @@
+{
+  "key": "csp_XYQHikerAL_土豆",
+  "name":"🐼阿里土豆(4k)🐼",
+  "type":3,
+  "api":"csp_XYQHikerAL",
+  "playerType":1,
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"https://cloud.lxweb.cn/f/qjWmfe/%E9%98%BF%E9%87%8C%E5%9C%9F%E8%B1%86.json"
+},
+{
+  "key": "csp_gg",
+  "name": "🐼玩偶哥哥(4k)🐼",
+  "type": 3,
+  "api": "csp_XYQHikerAL",
+  "playerType": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://cloud.lxweb.cn/f/XYRxSK/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"
+},
+{
+      "key": "doudouxie",
+      "name": "🐟玩偶【弹幕】4K-HDR",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+        "wogg": true,
+        "danmu": true
+      },
+      "timeout": 30
+    },
+    {
+      "key": "玩偶",
+      "name": "🐟玩偶【弹幕】4K-HDR",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/TV/ali_token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+    },
+    {
+      "key": "土豆弹幕",
+      "name": "🐟土豆【弹幕】4K-HDR",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
+        "site": "https://aliz.lvdoui.top",
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "团长弹幕",
+      "name": "🐟团长【弹幕】4K-HDR",
+      "type": 3,
+      "api": "csp_Tzfile",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "csp_阿里苏苏",
+      "name": "🐟苏苏【纯净】4K-HDR",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.摸鱼儿.top/0324/api/susu.php"
+    },
+    {
+      "key": "wojog",
+      "name": "🐟琉璃心【纯净】4K-HDR",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.摸鱼儿.top/0324/api/woj.php"
+    },
+    {
+      "key": "womog",
+      "name": "🐟锦书缘【纯净】4K-HDR",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.摸鱼儿.top/0324/api/wom.php"
+    },
+    {
+      "key": "wodog",
+      "name": "🐟飞鸿影【纯净】4K-HDR",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.摸鱼儿.top/0324/api/wod.php"
+    },
+    {
+      "key": "woxog",
+      "name": "🐟雪落尘【纯净】4K-HDR",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.摸鱼儿.top/0324/api/luoxue.php"
+    },
