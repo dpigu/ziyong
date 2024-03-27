@@ -24,7 +24,7 @@
     },
     {
       "key": "doudouxie",
-      "name": "🧸玩偶哥哥┃4K弹幕",
+      "name": "🐋玩偶哥哥┃4K弹幕",
       "type": 3,
       "api": "csp_Wogg",
       "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
@@ -40,7 +40,7 @@
     },
     {
       "key": "玩偶",
-      "name": "🧸玩偶哥哥┃4K弹幕",
+      "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -60,7 +60,41 @@
       "ext": {
         "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
         "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
-        "site": "https://aliz.lvdoui.top",
+        "site": "https://tudou.lvdoui.top",
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "玩偶表哥",
+      "name": "🤣玩偶表哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
+        "site": "https://wobge.run.goorm.io/",
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "多多弹幕",
+      "name": "😁多多弹幕┃4K弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
+        "site": "https://tv.yydsys.top/",
         "danmu": true
       },
       "timeout": 25
@@ -75,22 +109,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://我不是.摸鱼儿.top/0324/api/玩偶多多.php"
-    },
-    {
-      "key": "团长弹幕",
-      "name": "🫵夸克团长┃4K弹幕",
-      "type": 3,
-      "api": "csp_Tzfile",
-      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 25
     },
     {
       "key": "天天开心",
@@ -113,6 +131,22 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://我不是.摸鱼儿.top/0324/api/susu.php"
+    },
+    {
+      "key": "团长弹幕",
+      "name": "🧸夸克团长┃4K弹幕",
+      "type": 3,
+      "api": "csp_Tzfile",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
+        "danmu": true
+      },
+      "timeout": 25
     },
     {
       "key": "womog",
@@ -285,6 +319,20 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "七味影视",
+      "name": "🌿七味┃蓝光┃纯净",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://我不是.摸鱼儿.top/0324/jar/myxyq.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.pcmp4.com/vt/{cateId}/area/{area}/class/{class}/lang/{lang}/year/{year}/page/{catePg}.html",
+        "分类": "电影$1#剧集$2#动漫$4#综艺$3"
+      }
     },
     {
       "key": "荐片弹幕版",
@@ -712,7 +760,7 @@
     },
     {
       "key": "去看吧",
-      "name": "📕去看吧┃动漫┃蓝光",
+      "name": "📕看吧┃动漫┃蓝光",
       "type": 3,
       "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
       "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/去看吧.js"
@@ -983,7 +1031,7 @@
     },
     {
       "key": "csp_AList",
-      "name": "😋小雅┃网盘┃分享",
+      "name": "😋小雅┃网盘",
       "type": 3,
       "api": "csp_AList",
       "jar": "http://我不是.摸鱼儿.top/0324/jar/mybt.php",
@@ -995,7 +1043,7 @@
     },
     {
       "key": "Aid",
-      "name": "🚑️急救┃教学┃知识",
+      "name": "🚑️急救┃教学",
       "type": 3,
       "api": "csp_FirstAid",
       "searchable": 0,
